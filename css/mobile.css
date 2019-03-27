@@ -1,0 +1,22 @@
+/** mobile wijzigingen **/
+
+@media screen and (max-width: 576px) {
+
+.carousel-item{
+
+	height: 30vh;
+ 
+  }
+
+  .wrapper .content-wrapper{
+  	width:100%;
+
+  }
+
+  .mb-4{
+  	margin-bottom: 0.2rem !important;
+  }
+
+  .mt-4{
+  	margin-top: 0.25rem !important;
+  }
