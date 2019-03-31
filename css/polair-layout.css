@@ -136,6 +136,9 @@ article div.container-fluid{
 	
 }
 
+.ncp{
+	float:left;
+}
 .cards .card{
 
 }
@@ -176,12 +179,20 @@ footer{
 
 }
 
+.footernav .list{
+	margin-top: 10px;
+}
+
 .footernav ul.list > li:first-child{
 	xmargin-left: 10px;
 }
 
 div.copyright{
 	font-size: 0.80rem;
-	xborder:solid red 1px;
 	font-weight: bold;
+	margin-top:5px;
+}
+
+section.attention{
+	background: radial-gradient(rgba(56,73,120, 1.0),rgba(33,43,71, 0.6));
 }
