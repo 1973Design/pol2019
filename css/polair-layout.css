@@ -66,6 +66,10 @@ h2 {
     font-size: 1.5rem;
 }
 
+.white {
+    color: rgba(255, 255, 255, 0.8);
+}
+
 h1 {
     color: #384978;
     font-size: 2rem;
@@ -189,6 +193,40 @@ div.copyright {
     margin-top: 5px;
 }
 
-section.attention {
-    background: linear-gradient(rgba(56, 73, 120, 1.0), rgba(33, 43, 71, 0.6));
+section.bottom-section {
+    background: #384978;
+    min-height: 50vh;
+}
+
+.block {
+    padding: 50px 0 20px;
+    background-color: #fff;
+    border: solid 1px black;
+}
+
+.arrow-after {
+    position: relative;
+    border: solid red 1px;
+}
+
+.arrow-after svg.arrow polygon {
+    fill: #fff;
+}
+
+.arrow-after .arrow {
+    position: absolute;
+    left: 50%;
+    bottom: -25px;
+    margin-left: -50px;
+    z-index: 99;
+    border: solid yellow 1px;
+}
+
+.arrow-after .arrow+.mdi {
+    position: absolute;
+    left: 50%;
+    bottom: -17px;
+    margin-left: -9px;
+    z-index: 99;
+    border: solid blue 1px;
 }
