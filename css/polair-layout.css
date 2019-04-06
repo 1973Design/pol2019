@@ -195,18 +195,18 @@ div.copyright {
 
 section.bottom-section {
     background: #384978;
-    min-height: 50vh;
+    min-height: 35vh;
 }
 
 .block {
-    padding: 50px 0 20px;
+    padding: 25px 0 20px;
     background-color: #fff;
-    border: solid 1px black;
+   xborder: solid 1px black;
 }
 
 .arrow-after {
     position: relative;
-    border: solid red 1px;
+    xborder: solid red 1px;
 }
 
 .arrow-after svg.arrow polygon {
@@ -219,14 +219,5 @@ section.bottom-section {
     bottom: -25px;
     margin-left: -50px;
     z-index: 99;
-    border: solid yellow 1px;
-}
-
-.arrow-after .arrow+.mdi {
-    position: absolute;
-    left: 50%;
-    bottom: -17px;
-    margin-left: -9px;
-    z-index: 99;
-    border: solid blue 1px;
+    xborder: solid yellow 1px;
 }
