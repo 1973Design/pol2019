@@ -6,18 +6,13 @@
 /*
 Colors Polair
 btn-primary, h1 #384978
-h2 #36417F
-nav #0C1963
-project title #FF5A32
-strong #5F7CCC 
-dark grey #585858
-orange # rgb(255,142,114) #ff8e72
-orange 2 h3 #e84922
 
-#5B6176;
-#D6CCB7;
-#314746;
-#B1A084;
+project title #FF5A32
+
+#384978 blue
+#5F7CCC light blue hover
+#565656; grey
+#e84922 orange
 #5C949A;
 
 
@@ -40,8 +35,9 @@ body {
 nav {
     font-weight: 300;
     font-size: 1.25em;
-    -webkit-box-shadow: 0 3px 5px rgba(0, 0, 0, .1);
-    box-shadow: 0 3px 5px rgba(0, 0, 0, .1);
+    box-shadow: 2px 2px 2px rgba(71, 68, 61, 0.5);
+    -webkit-box-shadow: 2px 2px 2px rgba(71, 68, 61, 0.5);
+    -moz-box-shadow: 2px 2px 2px rgba(71, 68, 61, 0.5);
 }
 
 nav.bg-blue {
@@ -84,9 +80,13 @@ h5 {
     font-size: 1.3em;
 }
 
+header div.bd-carousel {
+    margin-top: 95px;
+}
+
 .carousel-item {
     height: 50vh;
-    min-height: 300px;
+    min-height: 350px;
     background: no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -103,6 +103,13 @@ h5 {
 
 .carousel-item .carousel-caption h5 {
     font-size: 2em;
+}
+
+.carousel-control-next>.carousel-control-next-icon,
+.carousel-control-next>.carousel-control-next-icon:hover,
+.carousel-control-prev>.carousel-control-prev-icon,
+.carousel-control-prev>.carousel-control-prev-icon:hover {
+    fill: #e84922;
 }
 
 article div.container-fluid {
@@ -148,6 +155,12 @@ article div.container-fluid {
     background-color: #e84922;
     border-color: #ff8e72;
     color: #fff;
+}
+
+.btn-light-blue {
+    background-color: #97A3C4;
+    color: #fff;
+    border-color: #6E768E;
 }
 
 .btn-orange:hover {
@@ -201,7 +214,7 @@ section.bottom-section {
 .block {
     padding: 25px 0 20px;
     background-color: #fff;
-   xborder: solid 1px black;
+    xborder: solid 1px black;
 }
 
 .arrow-after {
