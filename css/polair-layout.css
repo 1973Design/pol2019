@@ -32,6 +32,29 @@ body {
     margin: 0 auto;
 }
 
+.container{
+    margin:0px auto;
+    padding:0px;
+    
+}
+
+.container-fluid{
+    margin:0px;
+    padding:0px;
+}
+
+.default-page{
+    
+        background: #f2f2f2; 
+        
+    }
+
+.content-page{
+    background:#fff;
+    border:solid 1px black;
+    margin: 0px auto;
+}
+
 nav {
     font-weight: 300;
     font-size: 1.25em;
@@ -84,6 +107,14 @@ header div.bd-carousel {
     margin-top: 95px;
 }
 
+header .header-banner{
+    margin-top: 95px;
+}
+
+
+div.header-banner img{
+    width: 100%;
+}
 .carousel-item {
     height: 50vh;
     min-height: 350px;
@@ -219,7 +250,6 @@ section.bottom-section {
 
 .arrow-after {
     position: relative;
-    xborder: solid red 1px;
 }
 
 .arrow-after svg.arrow polygon {
@@ -234,3 +264,11 @@ section.bottom-section {
     z-index: 99;
     xborder: solid yellow 1px;
 }
+
+div.content-page{
+    padding: 0px 10px;
+}
+
+ div.content-page h1{
+     margin-top:20px;
+ }
