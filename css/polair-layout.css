@@ -95,7 +95,7 @@ h1 {
 }
 
 h2.ncp {
-    color: #384978;
+    color: rgb(56, 73, 120);
     font-size: 1.5rem;
 }
 
@@ -149,7 +149,7 @@ article div.container-fluid {
 
 .wrapper {
     display: flex;
-    background: linear-gradient( rgba(231, 74, 22, 0.6), rgba(255, 255, 255, 0.2));
+    background: linear-gradient( rgba(56, 73, 120, 0.7),rgba(232, 236, 238, 0.2));
     min-height: 15vh;
     xborder: solid 1px black;
 }
