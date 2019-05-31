@@ -39,20 +39,23 @@ body {
 }
 
 .container-fluid{
-    margin:0px;
+    margin:0px auto;
     padding:0px;
 }
 
 .default-page{
-    
-        background: #f2f2f2; 
-        
+        background: #f2f2f2;   
+        margin:0px auto;
     }
 
-.content-page{
-    background:#fff;
-    border:solid 1px black;
-    margin: 0px auto;
+.main{
+    background: #f2f2f2;  
+}
+
+header{
+    left:0px;
+    right: 0px;
+
 }
 
 nav {
@@ -65,6 +68,7 @@ nav {
 
 nav.bg-blue {
     background-color: #384978;
+    padding:0px;
 }
 
 a,
@@ -99,16 +103,22 @@ h2.ncp {
     font-size: 1.5rem;
 }
 
-h5 {
+h3{
+    font-size:1.1em;
+    color:#4B5161;
+    font-weight: bold;
+}
+
+.carousel-caption h5 {
     font-size: 1.3em;
 }
 
 header div.bd-carousel {
-    margin-top: 95px;
+    margin-top: 78px;
 }
 
 header .header-banner{
-    margin-top: 95px;
+    margin-top: 78px;
 }
 
 
@@ -191,7 +201,7 @@ article div.container-fluid {
 .btn-light-blue {
     background-color: #97A3C4;
     color: #fff;
-    border-color: #6E768E;
+    border-color: rgb(209, 211, 218);
 }
 
 .btn-orange:hover {
@@ -242,10 +252,15 @@ section.bottom-section {
     min-height: 35vh;
 }
 
+
 .block {
     padding: 25px 0 20px;
     background-color: #fff;
-    xborder: solid 1px black;
+}
+
+.block-default-page {
+    padding: 15px 0 20px;
+    background-color: #fff;
 }
 
 .arrow-after {
@@ -265,10 +280,46 @@ section.bottom-section {
     xborder: solid yellow 1px;
 }
 
-div.content-page{
-    padding: 0px 10px;
+.content-page{
+    background:#fff;
+    xborder:solid 1px black;
+    margin: 0px auto;
 }
-
  div.content-page h1{
-     margin-top:20px;
+     padding-top:10px;
+ }
+
+ .content-page .right-column{
+    background: rgb(228,228,232);
+    background: linear-gradient(90deg, rgba(228,228,232,1) 0%, rgba(255,255,255,1) 50%, rgba(228,228,232,1) 100%);
+    border:solid rgb(228,228,232) 1px;
+    margin-bottom:10px;
+    
+ }
+
+ .content-page .right-column .right-column-item{
+     padding:10px 5px 0px 7px;
+     margin:0px;
+     
+ }
+
+ .content-page .right-column .top{
+     margin-top:10px;
+ }
+ .content-page .right-column .bottom{
+    margin-bottom:10px;
+}
+ .content-page .right-column .right-column-item:nth-of-type(1n){
+     xbackground:#ff00ff;
+
+ }
+
+.right-column-item .btn{
+     padding: 3px 6px;
+     margin-top:-20px;
+     xborder:solid red 1px;
+ }
+
+ .content-page .left-column{
+     margin:10px;
  }
