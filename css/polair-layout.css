@@ -86,7 +86,7 @@ a.dropdown-item:hover {
 
 h2 {
     color: #e84922;
-    font-size: 1.5rem;
+    font-size: 1.6rem;
 }
 
 .white {
@@ -94,7 +94,7 @@ h2 {
 }
 
 h1 {
-    color: #384978;
+    color: #e84922;
     font-size: 2rem;
 }
 
@@ -119,6 +119,9 @@ header div.bd-carousel {
 
 header .header-banner{
     margin-top: 78px;
+    background-image: url(../images/banner/polair-beveiliging-banner-2.png);
+    height: 150px;
+    width: 1600px;
 }
 
 
@@ -291,8 +294,9 @@ section.bottom-section {
 
  .content-page .right-column{
     background: rgb(228,228,232);
-    background: linear-gradient(90deg, rgba(228,228,232,1) 0%, rgba(255,255,255,1) 50%, rgba(228,228,232,1) 100%);
-    border:solid rgb(228,228,232) 1px;
+    background: linear-gradient(90deg, rgba(228,228,232,0.7) 10%, rgba(255,255,255,1) 50%, rgba(228,228,232,0.7) 100%);
+    border-right:solid rgb(228,228,232,1) 2px;
+    border-left: solid rgb(228,228,232,1) 2px;
     margin-bottom:10px;
     
  }
@@ -320,6 +324,14 @@ section.bottom-section {
      xborder:solid red 1px;
  }
 
+hr.style-line{
+    border:0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(89, 92, 100, 0), rgba(89, 92, 100, 0.75), rgba(89, 92, 100, 0));
+}
  .content-page .left-column{
      margin:10px;
- }
+}
+.bottom-line{
+    border-left:solid  rgba(89, 92, 100, 1.0) 2px;
+}
