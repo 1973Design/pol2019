@@ -1,0 +1,21 @@
+@media screen and (min-width: 576px) and (max-width: 1024px) {
+  .carousel-item{
+
+	height: 30vh;
+ 
+  }
+
+    .wrapper .content-wrapper{
+  	width:100%;
+
+  }
+
+    .cards{
+  }
+
+    h1.header-tekst{
+    font-size: 1.5em;
+    margin-left:10em;
+  }
+
+ }
