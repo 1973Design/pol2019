@@ -451,7 +451,6 @@ section.bottom-section p{
 
 .right-column-item .btn{
      padding: 3px 6px;
-     xborder:solid red 1px;
  }
 
 hr.style-line{
@@ -496,4 +495,18 @@ p.caption-tekst{
 
 div.caption > img{
     margin-bottom:7px;
+}
+
+ul {
+   list-style-image: url('../../images/style/bullet.png');
+    list-style-position: outside;
+    
+}
+
+ul.download{
+    list-style: none;
+}
+
+li.downloadpdf{
+    list-style-image: url('../../images/style/download.jpg');
 }

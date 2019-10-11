@@ -34,8 +34,7 @@
                   Service en Onderhoud
                 </a>
                             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownService">
-                                <a class="dropdown-item" href="#">KIWA CCV Borg</a>
-                                <a class="dropdown-item" href="#">Certificaat</a>
+                                <a class="dropdown-item" href="PolairBorgcertificaat.php">KIWA CCV Borg certificaat</a>
                             </div>
                         </li>
                         <li class="nav-item dropdown">
@@ -43,7 +42,7 @@
                   Informatie
                 </a>
                             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownInformatie">
-                                <a class="dropdown-item" href="#">Offerte</a>
+                                <a class="dropdown-item" href="handleidingen.php">Handleidingen</a>
                                 <a class="dropdown-item" href="#">Blog Home 2</a>
                                 <a class="dropdown-item" href="#">Blog Post</a>
                             </div>
