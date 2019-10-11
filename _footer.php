@@ -2,22 +2,22 @@
     <div class="col-md-6 offset-md-3 ml-xs-1 ">
         <div class="footernav">
             <ul class="list ">
-                <li>Home</li>
-                <li>Contact</li>
-                <li>Cookies</li>
-                <li>Privacy beleid</li>
-                <li>Polair op youtube</li>
-                <li>NCP Certificaat</li>
-                <li>Handleidingen</li>
-                <li>Handige links</li>
-                <li>Honeywell</li>
-                <li>Galaxy Honeywell</li>
-                <li>Camerasystemen</li>
-                <li>Beveiliging Noord Holland</li>
-                <li>Beveiliging Zuid Holland</li>
-                <li>Beveiliging Flevoland</li>
-                <li>Beveiliging Utrecht</li>
-                <li>Beveiliging per regio</li>
+                <li><a href="index.php">Home</a></li>
+                <li><a href="#">Contact</a></li>
+                <li><a href="#">Cookies</a></li>
+                <li><a href="#">Privacy beleid</a></li>
+                <li><a href="#">Polair op youtube</a></li>
+                <li><a href="#">NCP Certificaat</a></li>
+                <li><a href="#">Handleidingen</a></li>
+                <li><a href="#">Handige links</a></li>
+                <li><a href="#">Honeywell</a></li>
+                <li><a href="#">Galaxy Honeywell</a></li>
+                <li><a href="#">Camerasystemen</a></li>
+                <li><a href="Beveiliging-NoordHolland.php">Beveiliging Noord Holland</a></li>
+                <li><a href="#">Beveiliging Zuid Holland</a></li>
+                <li><a href="#">Beveiliging Flevoland</a></li>
+                <li><a href="#">Beveiliging Utrecht</a></li>
+                <li><a href="#">Beveiliging per regio</a></li>
             </ul>
         </div>
     </div>

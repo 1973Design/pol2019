@@ -11,7 +11,7 @@
                             <a class="nav-link" href="overpolair.php">Over  Polair</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="about.html">Projecten</a>
+                            <a class="nav-link" href="projecten.php">Projecten</a>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="BeveiligingsProducten-Polair.html" id="navbarDropdownProducten" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -48,7 +48,7 @@
                             </div>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Contact</a>
+                            <a class="nav-link" href="contact.php">Contact</a>
                         </li>
                     </ul>
                 </div>
