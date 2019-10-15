@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Polair Beveiliging 2019</title>
+    <title>Polair Beveiliging 2019 - Projecten beveiliging-toegangscontrole-intercomsystemen-buitenbeveiliging-brandbeveiliging</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
@@ -22,13 +22,9 @@
 
         <header>
             <div class="container-fluid expand">
-                <row>
-                    <div class="header-banner inbraak col-xs-12" >
-                       <!--<h1 class="header-tekst">Voorkom inbraak, beveilig nu uw woonhuis of bedrijf!</h1>--> 
-
-                    </div>
-
-                </row>
+                <div class="header-banner projecten col-xs-12" >
+                <!--<h1 class="header-tekst">Voorkom inbraak, beveilig nu uw woonhuis of bedrijf!</h1>--> 
+                </div>
             </div>
             
 
@@ -37,32 +33,40 @@
         <article>
             <div class="container content-page">
                 <div class="row">
-                <div class="col-sm-6 col-md-3 mt-4">
-                                <div class="card ">
-                                    <img src="images/projecten/Pontsteiger-groot.jpg" class="card-img-top" alt="... ">
-                                    <div class="card-body ">
-                                        <h5 class="card-title ">Bedrijven</h5>
+                    <div class="col-sm-6 col-md-3 mt-4">
+                        <div class="card ">
+                            <a href="projecten-pontsteiger.php"><img src="images/projecten/Pontsteiger-1.png" class="card-img-top" alt="Project pontsteiger "></a>
+                            <div class="card-body ">
+                                <h5 class="card-title "><a href="">Pontsteiger</a></h5>
                                         
-                                    </div>
-                                </div>
                             </div>
-                            <div class="col-sm-6 col-md-3 mt-4">
-                                <div class="card ">
-                                    <img src="images/projecten/Pontsteiger-groot.jpg" class="card-img-top" alt="... ">
-                                    <div class="card-body">
-                                        <h5 class="card-title">Particulier </h5>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-3 mt-4">
+                        <div class="card ">
+                            <a href="projecten-asics.php"><img src="images/projecten/asics-project1.png" class="card-img-top" alt="Project Asics"></a>
+                            <div class="card-body">
+                                <h5 class="card-title"><a href="projecten-asics.php">Asics</a></h5>
                                        
-                                    </div>
-                                </div>
                             </div>
-                            <div class="col-sm-6 col-md-3 mt-4">
-                                <div class="card">
-                                    <img src="images/projecten/Pontsteiger-groot.jpg" class="card-img-top" alt="... ">
-                                    <div class="card-body">
-                                        <h5 class="card-title">Projecten</h5>
-                                    </div>
-                                </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-3 mt-4">
+                        <div class="card">
+                            <a href="projecten-metropoolgebouw.php"><img src="images/projecten/metropool-gebouw.png" class="card-img-top" alt="project Metropool ombouw naar Zoku"></a>
+                            <div class="card-body">
+                                <h5 class="card-title"><a href="projecten-metropoolgebouw.php">Metropoolgebouw</a></h5>
                             </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-3 mt-4">
+                         <div class="card">
+                            <a href="#"><img src="images/projecten/" class="card-img-top" alt="Bedrijven"></a>
+                            <div class="card-body">
+                                <h5 class="card-title"><a href="#">Bedrijven</a></h5>
+                            </div>
+                        </div>
+                    </div>
 
                 </div>
             </div>

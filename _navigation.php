@@ -22,33 +22,40 @@
                                 <a class="dropdown-item" href="branddetectie.php">Brandbeveiliging</a>
                                 <a class="dropdown-item" href="toegangscontrole.php">Toegangscontrole</a>
                                 <a class="dropdown-item" href="camerasystemen.php">Camerasysteem</a>
-                                <a class="dropdown-item" href="#">Buitenbeveiliging</a>
-                                <a class="dropdown-item" href="#">Intercom</a>
+                                <a class="dropdown-item" href="buitenbeveiliging.php">Buitenbeveiliging</a>
+                                <a class="dropdown-item" href="Video-en-Intercom.php">Intercomsystemen</a>
                             </div>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="contact.html">Meldkamer</a>
+                            <a class="nav-link" href="meldkamer.php">Meldkamer</a>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownService" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                   Service en Onderhoud
                 </a>
                             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownService">
+                            <a class="dropdown-item" href="service-en-onderhoud.php">Welke service biedt Polair?</a>
                                 <a class="dropdown-item" href="PolairBorgcertificaat.php">KIWA CCV Borg certificaat</a>
                             </div>
                         </li>
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownInformatie" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  Informatie
-                </a>
+                                Informatie
+                            </a>
                             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownInformatie">
                                 <a class="dropdown-item" href="handleidingen.php">Handleidingen</a>
                                 <a class="dropdown-item" href="#">Blog Home 2</a>
                                 <a class="dropdown-item" href="#">Blog Post</a>
                             </div>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="contact.php">Contact</a>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownInformatie" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Contact
+                            </a>
+                            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownInformatie">
+                                <a class="dropdown-item" href="contact.php">Contact gegevens</a>
+                                <a class="dropdown-item" href="contact-formulier.php">Contact formulier</a>
+                            </div>
                         </li>
                     </ul>
                 </div>

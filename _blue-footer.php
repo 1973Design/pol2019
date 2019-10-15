@@ -8,7 +8,7 @@
             <h2 class="white">Project Asics</h2>
             <p class="white"> Polair Beveiliging heeft het nieuwe hoofdkantoor van Asics in Hoofddorp voorzien van een toegangscontrole systeem van Paxton.
             </p>
-            <a href="# " class="btn btn-light-blue">Bekijk het Asics project</a>
+            <a href="projecten-asics.php" class="btn btn-light-blue">Bekijk het Asics project</a>
         </div>
         <div class="col-md-3 offset-md-2 mt-4 mb-3 ml-xs-1">
             <h2 class="white ">Acties</h2>

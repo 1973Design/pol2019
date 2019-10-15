@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Polair Beveiliging 2019</title>
+    <title>Polair Beveiliging 2019 - Toegangscontrole</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
@@ -23,7 +23,7 @@
         <header>
             <div class="container-fluid expand">
                 <row>
-                    <div class="header-banner inbraak col-xs-12" >
+                    <div class="header-banner toegangscontrole col-xs-12" >
                        <!--<h1 class="header-tekst">Voorkom inbraak, beveilig nu uw woonhuis of bedrijf!</h1>--> 
 
                     </div>
@@ -42,35 +42,26 @@
                             <div class="left-column-content">
                                 <h2>Toegangscontrole</h2>
                                 <div class="alignright framed caption">
-                                    <img src="images/beveiliging/toegangscontrole_tag.jpg" alt="toegangscontrole tag" title="toegangscontrole tag"/>
+                                    <img src="images/producten/toegangscontrole_deurkaart.jpg" alt="toegangscontrole tag" title="toegangscontrole tag"/>
                                     <p class="caption-tekst">Toegangscontrole tag</p>
                                 </div>   
                                 <p>Een toegangscontrolesysteem zorgt ervoor dat u bepaalt wie waar toegang heeft. In de praktijk betekent het vaak dat er op ruimtes die u beveiligd wilt hebben een kaartlezer wordt gemonteerd. 
                                     Afhankelijk van de autorisatie van de badge van de medewerker of bezoeker zal de deur worden geopend. Het is vaak van groot belang dat autorisaties snel en gemakkelijk door u kunnen worden gewijzigd. 
                                     Verder dient het systeem gebruikersvriendelijk te zijn. Veel organisaties hebben behoefte aan een registratie en identificatie van de gebruikers van het systeem. Het wordt dan mogelijk om een overzicht te 
-                                    krijgen van wie wanneer een deur geopend heeft. Polair Beveiliging biedt naast kaartlezers en identificatie media zoals badges, sleutelhangers en elektronische sleutels ook 
+                                    krijgen van wie wanneer een deur geopend heeft. <strong>Polair Beveiliging</strong> biedt naast kaartlezers en identificatie media zoals badges, sleutelhangers en elektronische sleutels ook 
                                     complete oplossingen inclusief de benodigde software. Uitgangspunten bij alle oplossingen zijn dat de systemen modulair, met andere systemen te integreren en vooral gebruikersvriendelijk zijn.
                                 </p>   
                                 <div class="alignleft framed caption">
-                                    <img src="images/beveiliging/toegangscontrole_ingang.jpg" alt="toegangscontrole ingang" title="toegangscontrole ingang"/>
+                                    <img src="images/producten/toegangscontrole_ingang.png" alt="toegangscontrole ingang" title="toegangscontrole ingang"/>
                                 </div> 
                                 <p>
-                                Voor betere, veilige en gemakkelijke toegangscontrole heeft Polair Beveiliging toegangscontrole op basis van biometrie! 
+                                Voor betere, veilige en gemakkelijke toegangscontrole heeft <strong>Polair Beveiliging</strong> toegangscontrole op basis van biometrie! 
                                 Traditionele toegangssystemen zijn moeilijk te beveiligen. Het is niet te voorkomen dat mensen sleutels, pasjes of magneetkaarten aan anderen geven of gewoonweg verliezen. 
                                 Ook pin- en andere codes kunnen eenvoudig in verkeerde handen komen. Met biometrie is optimale toegangscontrole geen probleem. Het is onmogelijk om biometrische data aan iemand door 
                                 te geven of op een andere manier zoek te maken. De geautoriseerde gebruiker moet immers altijd fysiek aanwezig zijn om toegang te krijgen. Niemand kan zich voor een ander uitgeven. 
                                 Snel 'even' een collega een pasje geven of de code voor het alarm aan een 'vriend' geven is verleden tijd. 
                                 </p>
-                                <div class="alignright framed caption">
-                                    <img src="images/beveiliging/toegangscontrole_deurkaart.jpg" alt="Toegangscontrole deurkaart" title="Toegangscontrole deurkaart"/>
-                                    <p class="caption-tekst">Toegangscontrole deurkaart</p>
-                                </div>
-                                <p>
-                                Momenteel wordt veel gebruik gemaakt van pasjes of 'sleutelhangers'. De electriche sleutels raken wel eens zoek. Met biometrie is dat definitief voorbij. 
-                                Een ander voordeel van biometrie is de snelle toegang. Stel: u gaat op vakantie en uw zaakwaarnemer moet meer toegang hebben. In 3 minuten heeft u zijn vingerafdruk gescand 
-                                en alle bijbehorende data opgeslagen. En heeft u uitzendkrachten? De toegang is met biometrie niet alleen snel gegeven, maar ook zo weer ingetrokken. U heeft nooit 
-                                meer 'gedoe' met meegenomen pasjes.
-                                </p>
+                                <p> Onze systemen kunnen worden toegepast in verschillende sectoren, zoals; Kantoren, Industrie, Appartementen, Onderwijs, Publieke sector, Transport.</p>
                             </div>
                         </div>
                     </div>
@@ -80,6 +71,25 @@
                         <!-- end right column -->
                     </div>
 
+                </div>
+                <hr class="orangebold">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="framed caption">
+                             <img src="images/producten/toegangs-controle.PNG" alt="Toegangscontrole deurkaart" title="Toegangscontrole deurkaart"/>
+                        </div>
+                    </div>
+                        <div class="col-md-6 center">
+                            <h2>Voordelen:</h2>
+                            <h4>U bepaalt wie toegang heeft!</h4>
+                            <h4>Optimale toegangscontrole met biometrie</h4>
+                            <h4>Overal toe te passen</h4>
+                            <h4>Altijd de juiste gegevens</h4>
+                            <h4>Integratie mogelijkheden met andere installaties</h4>
+                            <h4>Totaalbeveiliging naar wens</h4>
+                        
+                        </div>
+                    </div>
                 </div>
             </div>
         </article>

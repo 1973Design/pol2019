@@ -30,5 +30,11 @@
     margin-left:5em;
   }
 
+img.standalone{
+  width: 30% !important;
+  margin:0.2em !important;
+  align-items: flex-start;
+}
+
 }
 

@@ -51,7 +51,7 @@
                                         <li><a href="#hybride">Hybride alarm systemen, waar een combinatie van draadloos en bekabeld mogelijk is</a></li>
                                     </ul>
                                 
-                                    <img src="images/beveiliging/galaxydisplay.jpg" class="alignleft framed"/>
+                                    <img src="images/producten/galaxydisplay.png" class="alignleft framed"/>
                                     <h2>Bekabeld alarmsysteem</h2>
                                     Van oorsprong zijn alarmsystemen bekabeld. Dit wil zeggen dat er een centrale unit wordt geïnstalleerd (de zogenaamde alarmcentrale) en dat alle componenten zoals detectoren, bediendelen, sirenes, telefoonlijnen etc. worden verbonden met een alarmkabel. <br/><br/><br/>
                                     <h3>Voordelen</h3>
@@ -67,26 +67,6 @@
                                     </ul>
 
                                 </p>
-                                <p>
-                                    <h2>Draadloos alarmsysteem</h2>
-                                    Het spreekt voor zich : draadloze systemen werken draadloos! Alle detectoren, bediendelen, sirenes en dergelijke communiceren draadloos met de alarmcentrale.
-                                     De alarmcentrale communiceert meestal ook volledig draadloos met de meldkamer of contactpersonen via het gsm netwerk. 
-                                     <h3>Voordelen:</h3>
-                                     <ul>
-                                        <li>Zeer makkelijk te installeren – geen kabels!;</li>
-                                        <li>Zeer makkelijk componenten achteraf toe te voegen;</li>
-                                        <li>Relatief goedkoop omwille van de snelle installatie</li>
-                                    </ul>
-                                    <h3>Nadelen:</h3>
-                                    <ul>
-                                       <li>Minder betrouwbaar omwille van de draadloze technologie;</li>
-                                       <li>In sommige gevallen problemen met bereik draadloze componenten;</li>
-                                       <li>Levensduur batterijen afhankelijk van omgeving</li>
-                                       <li>Niet altijd mogelijk om volgens wettelijke of incert normen op te leveren (autonomie centrale bij stroomuitval, flits van buitensirene blijft niet flitsen tot alarm wordt uitgeschakeld terwijl dit effectief verplicht is door de wetgeving)</li>
-                                   </ul>
-                                </p>
-                                        
-
                             </div>
                         </div>
                     </div>
@@ -96,6 +76,34 @@
                         <!-- end right column -->
                     </div>
 
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="">
+                            <p>
+                                <h2>Draadloos alarmsysteem</h2>
+                                        Het spreekt voor zich : draadloze systemen werken draadloos! Alle detectoren, bediendelen, sirenes en dergelijke communiceren draadloos met de alarmcentrale.
+                                        De alarmcentrale communiceert meestal ook volledig draadloos met de meldkamer of contactpersonen via het gsm netwerk. 
+                                    <h3>Voordelen:</h3>
+                                    <ul>
+                                    <li>Zeer makkelijk te installeren – geen kabels!;</li>
+                                    <li>Zeer makkelijk componenten achteraf toe te voegen;</li>
+                                    <li>Relatief goedkoop omwille van de snelle installatie</li>
+                                </ul>
+                                <h3>Nadelen:</h3>
+                                <ul>
+                                    <li>Minder betrouwbaar omwille van de draadloze technologie;</li>
+                                    <li>In sommige gevallen problemen met bereik draadloze componenten;</li>
+                                    <li>Levensduur batterijen afhankelijk van omgeving</li>
+                                    <li>Niet altijd mogelijk om volgens wettelijke of incert normen op te leveren (autonomie centrale bij stroomuitval, flits van buitensirene blijft niet flitsen tot alarm wordt uitgeschakeld terwijl dit effectief verplicht is door de wetgeving)</li>
+                                </ul>
+                            </p>
+                        </div>
+            
+                    </div>
+                    <div class="col-md-6">
+                        <img src="images/producten/ksenia-alarmbeveiliging.png" alt="Ksenia alarmbeveiliging" title="Ksenia alarmbeveiliging" class= "framed"/>
+                    </div>
                 </div>
             </div>
         </article>

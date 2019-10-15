@@ -45,7 +45,7 @@
                                 <p><strong>Polair beveiliging</strong> is een professioneel onafhankelijk <strong>NCP erkend BORG Technisch Beveiligingsbedrijf</strong>. Wij zijn al meer dan 20 jaar gespecialiseerd in de 
                                         levering en installatie van kwalitatief hoogwaardige beveiligingssystemen.</p>
                                  <P>
-                                    <img src="images/beveiliging/galaxydisplay.jpg" class="alignleft framed"/>
+                                    <img src="images/beveiliging/galaxydisplay.png" class="alignleft framed"/>
                                         Door de jaren heen hebben wij zowel in de zakelijke- als particuliere markt een grote klantenkring opgebouwd. Veel klanten zijn dan ook al vaak tientallen jaren klant en daar zijn wij best trost op. Wij willen onze klanten laten profiteren van onze expertise op het gebied van beveiliging en voordeel bieden door onze scherpe prijzen. <br/><br/><br/><br/>
 
                                 </P>

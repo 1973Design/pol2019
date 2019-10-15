@@ -37,7 +37,7 @@ p {
     font-weight: 300;
     font-size: 0.875rem;
     display: block;
-    margin: 0;
+    margin-top: 0.5em;
 }
 
 strong {
@@ -113,8 +113,13 @@ a.dropdown-item:hover {
 }
 
 h2 {
+    margin-top:1.2em;
     color: #fb9d5b;
     font-size: 1.6rem;
+}
+
+h2.nospace{
+    margin-top:0em !important;
 }
 
 .white {
@@ -198,10 +203,10 @@ h3.right-block {
 }
 
 h4 {
-    font-size: 1.0em;
-    color: #4B5161;
+    font-size: 1.2em;
+    color: #FFA05C;
     font-weight: bold;
-    margin-bottom: 0px;
+    margin-bottom:0.7em;
 }
 
 .left-column-content p {
@@ -223,20 +228,42 @@ header .header-banner {
 }
 
 header .header-banner.overpolair {
-    background: transparent url(../../images/banner/polair-beveiliging-banner.png) no-repeat center;
+    background: transparent url(../../images/banner/over-polair.png) no-repeat center;
 }
 
 header .header-banner.inbraak {
-    background: transparent url(../../images/banner/inbraakbeveiliging.jpg) no-repeat center;
+    background: transparent url(../../images/banner/inbraakbeveiliging.png) no-repeat center;
+}
+
+header .header-banner.brand {
+    background: transparent url(../../images/banner/brandbeveiliging.png) no-repeat center;
 }
 
 header .header-banner.camera {
     background: transparent url(../../images/banner/camerabeveiliging.jpg) no-repeat center;
 }
 
+header .header-banner.toegangscontrole {
+    background: transparent url(../../images/banner/toegangscontrolebeveiliging.png) no-repeat center;
+}
+
+header .header-banner.buitenbeveiliging {
+    background: transparent url(../../images/banner/buitenbeveiliging.png) no-repeat center;
+}
+
 header .header-banner.default {
-    background: transparent url(../../images/banner/banner.jpg) no-repeat center;
+    background: transparent url(../../images/banner/polair-beveiliging-banner.png) no-repeat center;
     height: 75px;
+}
+
+header .header-banner.projecten {
+    background: transparent url(../../images/banner/projecten2.png) no-repeat center;
+    height: 150px;
+}
+
+header .header-banner.meldkamer {
+    background: transparent url(../../images/banner/meldkamer.png) no-repeat center;
+    height: 150px;
 }
 
 div.header-banner img {
@@ -413,6 +440,8 @@ section.bottom-section p {
 .content-page {
     background: #fff;
     margin: 0px auto;
+    xborder:solid red 1px;
+    padding:0em 0.5em;
 }
 
 div.content-page h1 {
@@ -461,8 +490,20 @@ hr.style-line {
     background-image: linear-gradient(to right, rgba(232, 73, 34, 0), rgba(232, 73, 34, 0.75), rgba(232, 73, 34, 0));
 }
 
+hr.orange {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(248, 138, 59, 0.85), rgba(248, 138, 59, 0.55), rgba(248, 138, 59, 0.2));
+}
+
+hr.orangebold {
+    border: 0;
+    height: 5px;
+    background: rgba(248, 138, 59, 0.85);
+
+}
+
 .content-page .left-column {
-    margin: 10px;
 }
 
 .bottom-line {
@@ -519,3 +560,27 @@ li.downloadpdf {
 .far {
     color: #FFA05C;
 }
+
+.space{
+    height: 2.0em;
+}
+.center{
+    text-align:center;
+
+}
+
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    xwidth: 50%;
+  }
+  .btn-primary{
+      background: #97A3C4 !important;
+      border:none !important;
+      color:white !important;
+  }
+
+  .btn-primary:hover{
+      color: #384978 !important;
+  }

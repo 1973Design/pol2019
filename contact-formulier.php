@@ -46,42 +46,36 @@
                                 <h2 class="text-center text-uppercase">Contact opnemen?</h2>
                                 <p class="text-center w-75 m-auto">Mocht u nog vragen of andere beveiligingswensen hebben, zoals een camerasysteem, deurintercom systemen of een van de andere nieuwste snufjes, of voor een vrijblijvend beveiligingsadvies bij u thuis, dan kunt u ons via onderstaand adres bereiken:</p>
                                 <div class="row">
-                                    <div class="col-sm-12 col-md-6 col-lg-3 my-5">
-                                        <div class="card border-0">
-                                            <div class="card-body text-center">
-                                                <i class="fas fa-phone fa-5x mb-3" aria-hidden="true"></i>
-                                                <h4 class="text-uppercase mb-5">Telefoon</h4>
-                                                <p>0226 - 39 49 18 / 06 - 55 38 19 16 of 06 43 88 76 58</p>
+                                    <div class="col-md-6">
+                                        <form>
+                                            <div class="form-group">
+                                                <label for="exampleFormControlInput1">Email address</label>
+                                                <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="naam@voorbeeld.com | type hier uw e-mail adres">
                                             </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-12 col-md-6 col-lg-3 my-5">
-                                        <div class="card border-0">
-                                            <div class="card-body text-center">
-                                                <i class="fas fa-map-marker-alt fa-5x mb-3" aria-hidden="true"></i>
-                                                <h4 class="text-uppercase mb-5">Adres</h4>
-                                                <address>Bijlestaal 44G, 1721 PW, Broek op Langedijk</address>
+                                            <div class="form-group">
+                                                <label for="exampleFormControlSelect1">Vraag over:</label>
+                                                <select class="form-control" id="exampleFormControlSelect1">
+                                                    <option>Beveiliging</option>
+                                                    <option>Brand</option>
+                                                    <option>Toegangscontrole</option>
+                                                    <option>Camerasysteem</option>
+                                                    <option>Buitenbeveiliging</option>
+                                                    <option>Intercomsysteem</option>
+                                                    <option>Offerte aanvraag</option>
+                                                </select>
                                             </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-sm-12 col-md-6 col-lg-3 my-5">
-                                        <div class="card border-0">
-                                            <div class="card-body text-center">
-                                                <i class="fas fa-globe fa-5x mb-3" aria-hidden="true"></i>
-                                                <h4 class="text-uppercase mb-5">email</h4>
-                                                <p>mail@polair.nl</p>
+                                            <div class="form-group">
+                                                <label for="exampleFormControlTextarea1">Opmerking:</label>
+                                                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                                             </div>
-                                        </div>
+                                            <button type="submit" class="btn btn-primary mb-2">Verstuur formulier</button>
+                                        </form>
                                     </div>
-                                    <div class="col-sm-12 col-md-6 col-lg-3 my-5">
-                                        <div class="card border-0">
-                                            <div class="card-body text-center">
-                                                <i class="far fa-building fa-5x mb-3" aria-hidden="true"></i>
-                                                <h4 class="text-uppercase mb-5">Overige</h4>
-                                                <p>KvK: 37064226 <br/>IBAN:NL04RABO0363 2288 02</p>
-                                            </div>
-                                        </div>
+                                    <div class="col-md-6">
+                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2418.995171696762!2d4.792879951717665!3d52.67812497974544!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47cf56bb45938539%3A0x20004581daf320b5!2sBijlestaal%2044%2C%201721%20PV%20Broek%20op%20Langedijk!5e0!3m2!1snl!2snl!4v1571137114881!5m2!1snl!2snl" width="500" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+
                                     </div>
+                                </div>
                                 </div>
                             </div>
                         </div>
