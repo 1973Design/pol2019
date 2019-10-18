@@ -113,13 +113,13 @@ a.dropdown-item:hover {
 }
 
 h2 {
-    margin-top:1.2em;
+    margin-top: 1.2em;
     color: #fb9d5b;
     font-size: 1.6rem;
 }
 
-h2.nospace{
-    margin-top:0em !important;
+h2.nospace {
+    margin-top: 0em !important;
 }
 
 .white {
@@ -178,6 +178,10 @@ h3 {
     border: none;
 }
 
+a.activelink {
+    color: #fff !important;
+}
+
 button.accordion:after {
     content: '\002B';
     color: #fff;
@@ -206,7 +210,7 @@ h4 {
     font-size: 1.2em;
     color: #FFA05C;
     font-weight: bold;
-    margin-bottom:0.7em;
+    margin-bottom: 0.7em;
 }
 
 .left-column-content p {
@@ -444,8 +448,8 @@ section.bottom-section p {
 .content-page {
     background: #fff;
     margin: 0px auto;
-    xborder:solid red 1px;
-    padding:0em 0.5em;
+    xborder: solid red 1px;
+    padding: 0em 0.5em;
 }
 
 div.content-page h1 {
@@ -504,11 +508,9 @@ hr.orangebold {
     border: 0;
     height: 5px;
     background: rgba(248, 138, 59, 0.85);
-
 }
 
-.content-page .left-column {
-}
+.content-page .left-column {}
 
 .bottom-line {
     border-left: solid rgba(89, 92, 100, 1.0) 2px;
@@ -565,12 +567,12 @@ li.downloadpdf {
     color: #FFA05C;
 }
 
-.space{
+.space {
     height: 2.0em;
 }
-.center{
-    text-align:center;
 
+.center {
+    text-align: center;
 }
 
 img.center {
@@ -578,13 +580,14 @@ img.center {
     margin-left: auto;
     margin-right: auto;
     xwidth: 50%;
-  }
-  .btn-primary{
-      background: #97A3C4 !important;
-      border:none !important;
-      color:white !important;
-  }
+}
 
-  .btn-primary:hover{
-      color: #384978 !important;
-  }
+.btn-primary {
+    background: #97A3C4 !important;
+    border: none !important;
+    color: white !important;
+}
+
+.btn-primary:hover {
+    color: #384978 !important;
+}

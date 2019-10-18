@@ -9,7 +9,7 @@
     <meta name="author" content="">
 
 
-    <script defer src="assets/fontawesome/js/all.js"></script>
+    <link rel="stylesheet" href="assets/lib/fontawesome/css/all.min.css" />
     <link rel="stylesheet" href="assets/css/style.css" />
     <link href="https://fonts.googleapis.com/css?family=Fjalla+One|Open+Sans+Condensed:300|Roboto+Condensed:300,400,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i&display=swap" rel="stylesheet">
@@ -106,47 +106,35 @@
                         <div class="row">
                             <div class="col-sm-6 col-md-4 mt-4">
                                 <div class="card ">
-                                    <img src="images/beveiliging/alarmbeveiligingbedrijven.jpg" class="card-img-top" alt="... ">
+                                    <img src="images/beveiliging/alarmbeveiligingparticulier.jpg" class="card-img-top" alt="... ">
                                     <div class="card-body ">
                                         <h5 class="card-title ">Bedrijven</h5>
                                         <p class="card-text ">Polair Beveiliging heeft voor de zakelijke markt tal van oplossingen voor de beveiliging van uw bedrijfspand, winkels, showrooms, scholen en instellingen. </p>
-                                        <a href="projecten.php" class="btn btn-orange ">Meer informatie</a>
+                                        <a href="# " class="btn btn-orange ">Meer informatie</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-sm-6 col-md-4 mt-4">
                                 <div class="card ">
-                                    <img src="images/beveiliging/alarmbeveiligingparticulier.jpg" class="card-img-top" alt="... ">
+                                    <img src="images/beveiliging/alarmbeveiligingparticulier12.jpg" class="card-img-top" alt="... ">
                                     <div class="card-body">
                                         <h5 class="card-title">Particulier </h5>
                                         <p class="card-text">Polair Beveiliging heeft voor de particuliere markt tal van oplossingen voor de beveiliging van uw woonomgeving. Denk hierbij aan inbraakmeld-, videobewaking-, branddetectie- , toegangscontrole- en intercomsystemen.
                                         </p>
-                                        <a href="" class="btn btn-orange">Meer informatie</a>
+                                        <a href="# " class="btn btn-orange">Meer informatie</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-sm-6 col-md-4 mt-4">
                                 <div class="card">
-                                    <img src="images/beveiliging/alarmbeveiligingprojecten.jpg " class="card-img-top" alt="polair beveiliging heeft ruime ervanring met verschillende projecten ">
+                                    <img src="images/beveiliging/alarmbeveiligingzakelijk.jpg " class="card-img-top" alt="... ">
                                     <div class="card-body">
                                         <h5 class="card-title">Projecten</h5>
                                         <p class="card-text">Polair Beveiliging verzorgt verschillende projecten van groot tot klein. Gebruikmakend van de beste techniek op het gebied van beveiliging</p>
-                                        <a href="projecten.php " class="btn btn-orange">Bekijk de projecten</a>
+                                        <a href="# " class="btn btn-orange">Bekijk de projecten</a>
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-6 col-md-6 mt-4">
-                                <div class="card">
-                                <iframe width="100%" height="315" src="https://www.youtube.com/embed/IO-PPYDxMmE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                                    <div class="card-body">
-                                        <h5 class="card-title">Polair Beveiliging in samenwerking met PAXTON</h5>
-                                        <p class="card-text">Polair Beveiliging voorziet het nieuwe hoofdkantoor Asics in Hoofddorp van een toegangscontrole systeem van Paxton.</p>
-                                        <a href="projecten-asics.php " class="btn btn-orange">Bekijk het project Asics</a>
-                                    </div>
-                                </div>
-                            </div>
-
-
                         </div>
                     </div>
 

@@ -11,11 +11,11 @@
             <a href="projecten-asics.php" class="btn btn-light-blue">Bekijk het Asics project</a>
         </div>
         <div class="col-md-3 offset-md-2 mt-4 mb-3 ml-xs-1">
-            <h2 class="white ">Acties</h2>
-            <p class="white ">Polair Beveiliging doet verschillende grote en kleine projecten. Gevarieeerd van alarmsystemen tot toegangscontrole, begruikmakend van de nieuwste technieken.
+            <h2 class="white ">Meer weten?</h2>
+            <p class="white ">Wilt u informatie over een mogelijk beveiligingsplan voor uw bedrijf of woning. Of wenst u een vrijblijvende afspraak waarin we u kunnen vertellen wat Polair Beveiliging voor u kan betekenen? 
 
             </p>
-            <a href="# " class="btn btn-light-blue ">Bekijk onze acties</a>
+            <a href="# " class="btn btn-light-blue ">Contact opnemen</a>
         </div>
     </div>
 </section>

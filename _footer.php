@@ -14,10 +14,10 @@
                 <li><a href="#">Galaxy Honeywell</a></li>
                 <li><a href="#">Camerasystemen</a></li>
                 <li><a href="Beveiliging-NoordHolland.php">Beveiliging Noord Holland</a></li>
-                <li><a href="#">Beveiliging Zuid Holland</a></li>
-                <li><a href="#">Beveiliging Flevoland</a></li>
-                <li><a href="#">Beveiliging Utrecht</a></li>
-                <li><a href="#">Beveiliging per regio</a></li>
+                <li><a href="Beveiliging-ZuidHolland.php">Beveiliging Zuid Holland</a></li>
+                <li><a href="Beveiliging-Flevoland.php">Beveiliging Flevoland</a></li>
+                <li><a href="Beveiliging-Utrecht.php">Beveiliging Utrecht</a></li>
+                <li><a href="Beveiliging-per-regio.php">Beveiliging per regio</a></li>
             </ul>
         </div>
     </div>

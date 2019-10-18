@@ -9,7 +9,7 @@
     <meta name="author" content="">
 
 
-    <script defer src="assets/fontawesome/js/all.js"></script>
+    <link rel="stylesheet" href="assets/lib/fontawesome/css/all.min.css" />
     <link rel="stylesheet" href="assets/css/style.css" />
     <link href="https://fonts.googleapis.com/css?family=Fjalla+One|Open+Sans+Condensed:300|Roboto+Condensed:300, 300i,400,400i,700,700i" rel="stylesheet">
 </head>
@@ -81,7 +81,8 @@
                                     <li>De montage wordt verzorgd door een BORG erkende installateur;</li>
                                     <li>Aansluiting geschiedt op de meldkamer van uw keuze of NVD meldkamer, wereldwijd kennisleider in beveiliging.</li>
                                 </ul>
-                                Bent u op zoek naar de juiste beveiliging (alarmsysteem/bewakingscamera’s) in Noord-Holland? Wij bieden een vakkundig advies over de juiste alarmsystemen en bewakingscamera’s. Uiteraard bieden wij lage aanschafkosten en geschiedt plaatsing door een BORG erkende installateur. Kortom: een veilig gevoel voor u en uw omgeving, ook in Noord Holland. Wat wilt u nog meer?
+                                Bent u op zoek naar de juiste beveiliging (alarmsysteem/bewakingscamera’s) in Noord-Holland? Wij bieden een vakkundig advies over de juiste alarmsystemen en bewakingscamera’s. Uiteraard bieden wij lage aanschafkosten en geschiedt plaatsing door een BORG erkende installateur. Kortom: een veilig gevoel voor u en uw omgeving, ook in Noord Holland. Wat wilt u nog meer?<br/><br/>
+                                Alkmaar | Amstelveen | Amsterdam | Bergen | Beverwijk | Enkhuizen | Egmond | Haarlem | Hoofddorp | Heerhugowaard | Heiloo | Hilversum | Hoorn | Naarden | Schagen | Schoorl | Volendam
                                 </p>
                                              
 
