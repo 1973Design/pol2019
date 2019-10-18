@@ -106,7 +106,7 @@
                         <div class="row">
                             <div class="col-sm-6 col-md-4 mt-4">
                                 <div class="card ">
-                                    <img src="images/beveiliging/alarmbeveiligingparticulier.jpg" class="card-img-top" alt="... ">
+                                    <img src="images/beveiliging/alarmbeveiligingbedrijven.jpg" class="card-img-top" alt="... ">
                                     <div class="card-body ">
                                         <h5 class="card-title ">Bedrijven</h5>
                                         <p class="card-text ">Polair Beveiliging heeft voor de zakelijke markt tal van oplossingen voor de beveiliging van uw bedrijfspand, winkels, showrooms, scholen en instellingen. </p>
@@ -116,7 +116,7 @@
                             </div>
                             <div class="col-sm-6 col-md-4 mt-4">
                                 <div class="card ">
-                                    <img src="images/beveiliging/alarmbeveiligingparticulier12.jpg" class="card-img-top" alt="... ">
+                                    <img src="images/beveiliging/alarmbeveiligingparticulier.jpg" class="card-img-top" alt="... ">
                                     <div class="card-body">
                                         <h5 class="card-title">Particulier </h5>
                                         <p class="card-text">Polair Beveiliging heeft voor de particuliere markt tal van oplossingen voor de beveiliging van uw woonomgeving. Denk hierbij aan inbraakmeld-, videobewaking-, branddetectie- , toegangscontrole- en intercomsystemen.
@@ -127,7 +127,7 @@
                             </div>
                             <div class="col-sm-6 col-md-4 mt-4">
                                 <div class="card">
-                                    <img src="images/beveiliging/alarmbeveiligingzakelijk.jpg " class="card-img-top" alt="... ">
+                                    <img src="images/beveiliging/alarmbeveiligingprojecten.jpg " class="card-img-top" alt="polair beveiliging heeft ruime ervanring met verschillende projecten ">
                                     <div class="card-body">
                                         <h5 class="card-title">Projecten</h5>
                                         <p class="card-text">Polair Beveiliging verzorgt verschillende projecten van groot tot klein. Gebruikmakend van de beste techniek op het gebied van beveiliging</p>

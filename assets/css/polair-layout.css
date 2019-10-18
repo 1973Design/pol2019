@@ -247,6 +247,10 @@ header .header-banner.toegangscontrole {
     background: transparent url(../../images/banner/toegangscontrolebeveiliging.png) no-repeat center;
 }
 
+header .header-banner.intercom {
+    background: transparent url(../../images/banner/intercomsysteem.jpg) no-repeat center;
+}
+
 header .header-banner.buitenbeveiliging {
     background: transparent url(../../images/banner/buitenbeveiliging.png) no-repeat center;
 }

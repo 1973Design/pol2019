@@ -4,8 +4,8 @@
             <ul class="list ">
                 <li><a href="index.php">Home</a></li>
                 <li><a href="#">Contact</a></li>
-                <li><a href="#">Cookies</a></li>
-                <li><a href="#">Privacy beleid</a></li>
+                <li><a href="cookies.php">Cookies</a></li>
+                <li><a href="privacy.php">Privacy beleid</a></li>
                 <li><a href="#">Polair op youtube</a></li>
                 <li><a href="#">NCP Certificaat</a></li>
                 <li><a href="#">Handleidingen</a></li>

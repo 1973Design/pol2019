@@ -90,10 +90,6 @@
             </div>
         </article>
 
-        
-         <!-- blue footer section -->
-         <?php include '_blue-footer-2.php';?>
-        <!-- end blue footer section -->
         <!-- Footer-->
 
         <footer>

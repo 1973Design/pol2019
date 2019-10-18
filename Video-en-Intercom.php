@@ -23,7 +23,7 @@
         <header>
             <div class="container-fluid expand">
                 <row>
-                    <div class="header-banner toegangscontrole col-xs-12" >
+                    <div class="header-banner intercom col-xs-12" >
                        <!--<h1 class="header-tekst">Voorkom inbraak, beveilig nu uw woonhuis of bedrijf!</h1>--> 
 
                     </div>
