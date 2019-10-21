@@ -2,8 +2,8 @@
 <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-blue">
             <div class="container">
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
+                    <span class="navbar-toggler-icon"></span>
+                </button>
                 <a class="navbar-brand" href="index.php"><img src="images/logo2.png" width="100%"></a>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ml-auto">
@@ -44,8 +44,7 @@
                             </a>
                             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownInformatie">
                                 <a class="dropdown-item" href="handleidingen.php">Handleidingen</a>
-                                <a class="dropdown-item" href="#">Blog Home 2</a>
-                                <a class="dropdown-item" href="#">Blog Post</a>
+                                <a class="dropdown-item" href="Live-view.php">Live view</a>
                             </div>
                         </li>
                         <li class="nav-item dropdown">

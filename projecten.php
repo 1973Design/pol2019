@@ -22,7 +22,7 @@
 
         <header>
             <div class="container-fluid expand">
-                <div class="header-banner projecten col-xs-12" >
+                <div class="header-banner col-xs-12" >
                 <!--<h1 class="header-tekst">Voorkom inbraak, beveilig nu uw woonhuis of bedrijf!</h1>--> 
                 </div>
             </div>
@@ -35,7 +35,7 @@
                 <div class="row">
                     <div class="col-sm-6 col-md-3 mt-4">
                         <div class="card ">
-                            <a href="projecten-pontsteiger.php"><img src="images/projecten/Pontsteiger-1.png" class="card-img-top" alt="Project pontsteiger "></a>
+                            <a href="projecten-pontsteiger.php" title="project pontsteiger"><img src="images/projecten/Pontsteiger-1.png" class="card-img-top" alt="Project pontsteiger "></a>
                             <div class="card-body ">
                                 <h5 class="card-title "><a href="">Pontsteiger</a></h5>
                                         
@@ -44,7 +44,7 @@
                     </div>
                     <div class="col-sm-6 col-md-3 mt-4">
                         <div class="card ">
-                            <a href="projecten-asics.php"><img src="images/projecten/asics-project1.png" class="card-img-top" alt="Project Asics"></a>
+                            <a href="projecten-asics.php" title="Project Asics"><img src="images/projecten/asics-project1.png" class="card-img-top" alt="Project Asics"></a>
                             <div class="card-body">
                                 <h5 class="card-title"><a href="projecten-asics.php">Asics</a></h5>
                                        
@@ -53,7 +53,7 @@
                     </div>
                     <div class="col-sm-6 col-md-3 mt-4">
                         <div class="card">
-                            <a href="projecten-metropoolgebouw.php"><img src="images/projecten/metropool-gebouw.png" class="card-img-top" alt="project Metropool ombouw naar Zoku"></a>
+                            <a href="projecten-metropoolgebouw.php" title="project Metropool ombouw naar Zok"><img src="images/projecten/metropool-gebouw.png" class="card-img-top" alt="project Metropool ombouw naar Zoku"></a>
                             <div class="card-body">
                                 <h5 class="card-title"><a href="projecten-metropoolgebouw.php">Metropoolgebouw</a></h5>
                             </div>
@@ -61,9 +61,25 @@
                     </div>
                     <div class="col-sm-6 col-md-3 mt-4">
                          <div class="card">
-                            <a href="#"><img src="images/projecten/bio-incubator-belgie.png" class="card-img-top" alt="Bio Incubator Belgie"></a>
+                            <a href="projecten-bioincubator.php" title="Bio Incubator Belgie"><img src="images/projecten/bio-incubator-belgie.png" class="card-img-top" alt="Bio Incubator Belgie"></a>
                             <div class="card-body">
                                 <h5 class="card-title"><a href="projecten-bioincubator.php">Bio Incubator Belgie</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-3 mt-4">
+                         <div class="card">
+                            <a href="projecten-bedrijven.php" title="Polair beveiligt een diversiteit aan bedrijven"><img src="images/projecten/bedrijven.png" class="card-img-top" alt="Polair beveiligt een diversiteit aan bedrijven"></a>
+                            <div class="card-body">
+                                <h5 class="card-title"><a href="projecten-bedrijven.php">Polair beveiligt verschillende bedrijven</a></h5>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-3 mt-4">
+                         <div class="card">
+                            <a href="projecten-woonhuizen.php" title="Polair beveiligt ook bij particulieren woonhuizen"><img src="images/projecten/woonhuis.png" class="card-img-top" alt="Polair beveiligt ook bij particulieren woonhuizen"></a>
+                            <div class="card-body">
+                                <h5 class="card-title"><a href="projecten-woonhuizen.php">Polair beveiligt ook particuliere woonhuizen</a></h5>
                             </div>
                         </div>
                     </div>

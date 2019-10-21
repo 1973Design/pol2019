@@ -22,7 +22,7 @@
 
         <header>
             <div class="container-fluid expand">
-                    <div class="header-banner brand col-xs-12" >
+                    <div class="header-banner col-xs-12" >
                        <!--<h1 class="header-tekst">Voorkom inbraak, beveilig nu uw woonhuis of bedrijf!</h1>--> 
                 </div>
             </div>
@@ -36,6 +36,7 @@
                     <div class="col-sm-12 col-md-8">
                         <div class="left-column">
                             <div class="left-column-content">
+                            <p class="breadcrumb">Producten<span>/Branddetectie</span></p>
                                 <h2>Branddetectie</h2>
                                 <h4>Brand, en rookontwikkeling, ontstaat vaak zonder dat u dat in de gaten heeft.</h4>
                                 <p>De meeste doden vallen 's nachts als mensen liggen te slapen. Veel voorkomende oorzaken van brand in huis zijn; 

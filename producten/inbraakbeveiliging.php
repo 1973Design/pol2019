@@ -23,7 +23,7 @@
         <header>
             <div class="container-fluid expand">
                 <row>
-                    <div class="header-banner col-xs-12" >
+                    <div class="header-banner inbraak col-xs-12" >
                        <!--<h1 class="header-tekst">Voorkom inbraak, beveilig nu uw woonhuis of bedrijf!</h1>--> 
 
                     </div>
@@ -40,7 +40,6 @@
                     <div class="col-sm-12 col-md-8">
                         <div class="left-column">
                             <div class="left-column-content">
-                               <p class="breadcrumb">Producten<span>/Inbraakbeveiliging</span></p>
                                 <h2> Inbraakbeveiliging</h2>
                                 <p>Met een alarmsysteem wordt uw pand electronisch beveiligd. Een gebruiksvriendelijk codebediendeel zorgt ervoor dat u de alarminstallatie geheel of gedeeltelijk kunt in - en uitschakelen, alarmen van nooddeuren kunt uitschakelen etc. 
                                     De draadloze en bedrade detectoren zijn voorzien van de modernste electronica en software voor betrouwbare detectie en absoluut ongevoelig voor storingsbronnen. Via internet, GPRS, ISDN, GSM of analoog kunnen de systemen doormelden naar de meldkamer. 

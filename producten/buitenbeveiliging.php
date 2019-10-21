@@ -23,7 +23,7 @@
         <header>
             <div class="container-fluid expand">
                 <row>
-                    <div class="header-banner col-xs-12" >
+                    <div class="header-banner buitenbeveiliging col-xs-12" >
                        <!--<h1 class="header-tekst">Voorkom inbraak, beveilig nu uw woonhuis of bedrijf!</h1>--> 
 
                     </div>
@@ -40,7 +40,6 @@
                     <div class="col-sm-12 col-md-8">
                         <div class="left-column">
                             <div class="left-column-content">
-                            <p class="breadcrumb">Producten<span>/Buitenbeveiliging</span></p>
                                 <h2>Buitenbeveiliging</h2>
                                 <p>Terreinbeveiliging wordt steeds populairder. Inbraken nemen toe en zowel particulieren als bedrijven willen ongewenste indringing al in het vroegste stadium detecteren. 
                                     Dit voorkomt inbraak en dus veel schade. Een prettig gevoel.

@@ -9,21 +9,21 @@
     <meta name="author" content="">
 
 
-    <link rel="stylesheet" href="assets/lib/fontawesome/css/all.min.css" />
-    <link rel="stylesheet" href="assets/css/style.css" />
+    <link rel="stylesheet" href="../assets/lib/fontawesome/css/all.min.css" />
+    <link rel="stylesheet" href="../assets/css/style.css" />
     <link href="https://fonts.googleapis.com/css?family=Fjalla+One|Open+Sans+Condensed:300|Roboto+Condensed:300, 300i,400,400i,700,700i" rel="stylesheet">
 </head>
 
 <body class="default-page">
     <div class="main">
         <!-- Navigation -->
-        <?php include '_navigation.php';?>
+        <?php include '../_navigation.php';?>
         <!-- END navigatie -->
 
         <header>
             <div class="container-fluid expand">
                 <row>
-                    <div class="header-banner col-xs-12" >
+                    <div class="header-banner toegangscontrole col-xs-12" >
                        <!--<h1 class="header-tekst">Voorkom inbraak, beveilig nu uw woonhuis of bedrijf!</h1>--> 
 
                     </div>
@@ -40,10 +40,9 @@
                     <div class="col-sm-12 col-md-8">
                         <div class="left-column">
                             <div class="left-column-content">
-                            <p class="breadcrumb">Producten<span>/Toegangscontrole</span></p>
                                 <h2>Toegangscontrole</h2>
                                 <div class="alignright framed caption">
-                                    <img src="images/producten/toegangscontrole_deurkaart.jpg" alt="toegangscontrole tag" title="toegangscontrole tag"/>
+                                    <img src="../images/producten/toegangscontrole_deurkaart.jpg" alt="toegangscontrole tag" title="toegangscontrole tag"/>
                                     <p class="caption-tekst">Toegangscontrole tag</p>
                                 </div>   
                                 <p>Een toegangscontrolesysteem zorgt ervoor dat u bepaalt wie waar toegang heeft. In de praktijk betekent het vaak dat er op ruimtes die u beveiligd wilt hebben een kaartlezer wordt gemonteerd. 
@@ -53,7 +52,7 @@
                                     complete oplossingen inclusief de benodigde software. Uitgangspunten bij alle oplossingen zijn dat de systemen modulair, met andere systemen te integreren en vooral gebruikersvriendelijk zijn.
                                 </p>   
                                 <div class="alignleft framed caption">
-                                    <img src="images/producten/toegangscontrole_ingang.png" alt="toegangscontrole ingang" title="toegangscontrole ingang"/>
+                                    <img src="../images/producten/toegangscontrole_ingang.png" alt="toegangscontrole ingang" title="toegangscontrole ingang"/>
                                 </div> 
                                 <p>
                                 Voor betere, veilige en gemakkelijke toegangscontrole heeft <strong>Polair Beveiliging</strong> toegangscontrole op basis van biometrie! 
@@ -68,7 +67,7 @@
                     </div>
                     <div class="col-sm-12 col-md-3 offset-md-1">
                         <!--right column -->
-                        <?php include '_right-column.php'; ?>
+                        <?php include '../_right-column.php'; ?>
                         <!-- end right column -->
                     </div>
 
@@ -97,12 +96,12 @@
 
         
          <!-- blue footer section -->
-         <?php include '_blue-footer-2.php';?>
+         <?php include '../_blue-footer-2.php';?>
         <!-- end blue footer section -->
         <!-- Footer-->
 
         <footer>
-        <?php include '_footer.php';?>
+        <?php include '../_footer.php';?>
         </footer>
     </div>
 
@@ -110,10 +109,10 @@
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js "></script>
    
-    <script src="assets/lib/jquery/jquery-3.3.1.slim.min.js "></script>
+    <script src="../assets/lib/jquery/jquery-3.3.1.slim.min.js "></script>
    
-    <script src="assets/lib/bootstrap/4.3.1/js/bootstrap.min.js "></script>
-    <script type="text/javascript" src="assets/js/polair.js"></script>
+    <script src="../assets/lib/bootstrap/4.3.1/js/bootstrap.min.js "></script>
+    <script type="text/javascript" src="../assets/js/polair.js"></script>
 </body>
 
 </html>

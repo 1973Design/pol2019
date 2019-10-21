@@ -132,11 +132,14 @@ h1 {
 }
 
 h1.header-tekst {
-    padding: 10px 0px 0px 0px;
-    margin-left: 18em;
-    color: rgba(251, 157, 91, 0.7);
+    padding: 22px 0px 0px 0px;
+    margin-left: 30%;
+    color: #384978;
     display: inline-block;
     font-size: 1.8em;
+    xfont-family: 'Neucha', cursive;
+    xfont-family: 'Abhaya Libre', serif;
+    font-family: 'Caveat Brush', cursive;
 }
 
 h2,
@@ -178,8 +181,8 @@ h3 {
     border: none;
 }
 
-a.activelink {
-    color: #fff !important;
+.activelink {
+    color: #fb9d5b !important;
 }
 
 button.accordion:after {
@@ -228,7 +231,8 @@ header div.bd-carousel {
 
 header .header-banner {
     margin-top: 78px;
-    height: 150px;
+    height: 75px;
+    background: linear-gradient(90deg, rgba(56,73,120,1) 0%, rgba(255,160,92,1) 50%, rgba(56,73,120,1) 100%)
 }
 
 header .header-banner.overpolair {
@@ -590,4 +594,13 @@ img.center {
 
 .btn-primary:hover {
     color: #384978 !important;
+}
+
+p.breadcrumb{
+ font-size: 0.8em;
+ padding-left:10px;
+}
+
+p.breadcrumb span{
+    color: #FFA05C;
 }

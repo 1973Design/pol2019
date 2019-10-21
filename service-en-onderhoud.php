@@ -40,6 +40,7 @@
                     <div class="col-sm-12 col-md-8">
                         <div class="left-column">
                             <div class="left-column-content">
+                            <p class="breadcrumb">Service en onderhoud<span>/Welke service biedt Polair?</span></p>
                                 <h2> Onderhoud en service</h2>
                                 <h3>Onderhoud</h3>
                                 <hr class="orange">

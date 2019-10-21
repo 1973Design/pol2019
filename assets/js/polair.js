@@ -1,5 +1,5 @@
 jQuery(document).ready(function($) {
-    alert("laad de pagina");
+    /*alert("laad de pagina");*/
     /*Accordion function - right block */
     var acc = document.getElementsByClassName("accordion");
     var i;
@@ -19,10 +19,16 @@ jQuery(document).ready(function($) {
             }
         });
     }
+    // pad van de link
+    var path = window.location.pathname.split("/").pop();
+    if (path == ''){
+        path = 'index.php';
+    }
 
-    $("a.nav-link").click(function() {
-        $("a").toggleClass("activelink");
-
-    });
+    var target = $('li.nav-item a[href="'+path+'"]');
+    //voeg de activelink classe toe aan de doellink
+    target.addClass("activelink");
 
 });
+
+

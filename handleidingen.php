@@ -41,6 +41,7 @@
                     <div class="col-sm-12 col-md-8">
                         <div class="left-column">
                             <div class="left-column-content">
+                            <p class="breadcrumb">Informatie<span>/Handleiding</span></p>
                                 <h2>Handleidingen</h2>
                                 <p>Hieronder kan je verschillend handleidingen downloaden. Mocht je een handleiding missen neem dan <a href="#">contact</a> met ons op.
                                 </p>

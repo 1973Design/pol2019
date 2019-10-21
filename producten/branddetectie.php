@@ -22,13 +22,9 @@
 
         <header>
             <div class="container-fluid expand">
-                <row>
-                    <div class="header-banner inbraak col-xs-12" >
+                    <div class="header-banner brand col-xs-12" >
                        <!--<h1 class="header-tekst">Voorkom inbraak, beveilig nu uw woonhuis of bedrijf!</h1>--> 
-
-                    </div>
-
-                </row>
+                </div>
             </div>
             
 
@@ -40,20 +36,27 @@
                     <div class="col-sm-12 col-md-8">
                         <div class="left-column">
                             <div class="left-column-content">
-                            <p class="breadcrumb">Service en onderhoud<span>/Polair Borgcertificaat</span></p>
-                                <h2> Kiwa CCV Borg Certificaat of Opleveringsbewijs</h2>
-                                <p>Kiwa CCV Borg Certificaat of Opleveringsbewijs
-                                    Indien alle vereiste beveiligingsmaatregelen uitgevoerd zijn geven wij een Kiwa CCV Borg Certificaat of Opleveringsbewijs af.
-                                    Het opleveringsbewijs of certificaat is geldig zolang er geen veranderingen optreden aan de bouwkundige situatie van uw pand.
+                                <h2>Branddetectie</h2>
+                                <h4>Brand, en rookontwikkeling, ontstaat vaak zonder dat u dat in de gaten heeft.</h4>
+                                <p>De meeste doden vallen 's nachts als mensen liggen te slapen. Veel voorkomende oorzaken van brand in huis zijn; 
+                                    roken van een sigaret in bed, kortsluiting, een vonk uit de nog smeulende open haard, een vergeten kaars, blikseminslag of een overslaande brand.<br/>
+                                    Als er 's nachts brand uitbreekt is de kans op letsel zeer groot. Als u slaapt ruikt u namelijk niets en wordt u door de giftige gassen dieper in slaap gebracht. Een brand kan zich binnen 3 minuten door het gehele huis verspreiden. 
+                                    In de praktijk duurt het vaak langer om alle gezinsleden wakker te maken en in veiligheid te brengen<br/>
+                                    Het is een must om iets aan branddetectie te doen!
                                 </p>
-                                <img src="images/beveiliging/NCPErkend.jpg" class="alignleft framed"/>
+                                <h4>Branddetectiesystemen zijn te verdelen in een aantal producten;</h4>
                                 <p>
-                                Het opleveringsbewijs of certificaat is een bewijs dat Polair Beveiliging verklaart dat de installatie aan de minimale eisen conform de vastgestelde risico klasse voldoet. 
-                                Voor de verzekeraars is dit tevens een garantie dat dit deel van de beveiliging conform de VRKI is vastgesteld en is uitgevoerd
-                                </p><br/><br/>
-                                <p>Het opleveringsbewijs of certificaat van het NCP is 5 jaar geldig mits er een onderhoudsabonnement is afgesloten en er jaarlijks minimaal één preventieve controle word uitgevoerd.</p>
-                               
-                              
+                                Branddetectiesystemen zijn te verdelen in een aantal producten;
+                                    <ul>
+                                         <li>Draadloze of bedrade rookmelders</li>
+                                         <li>Brandmelders of hittemelders</li>
+                                         <li>Koolmonoxidemelders of andere gasmelders</li>
+                                    </ul>
+                                    Al deze melders zijn aan te sluiten op een inbraakcentrale als op een brandmeldcentrale met doormelding naar een meldkamer of mobiele telefoon.<br/>
+                                    Voor elk van deze producten hebben wij een ruim assortiment van artikelen die in ieders budget passen. Wij adviseren u graag en installeren het op 
+                                    de meest preventieve plaatsen, zodat u onbezorgd kunt genieten van uw nachtrust.<br/>
+                                    <strong>Tip:</strong> schaf in aanvulling op een branddetectiesysteem ook een branddeken en een brandblusser aan. Hiermee kunt u zelf onnodig veel schade voorkomen.
+                                </p>
                                         
 
                             </div>

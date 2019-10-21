@@ -23,7 +23,7 @@
         <header>
             <div class="container-fluid expand">
                 <row>
-                    <div class="header-banner col-xs-12" >
+                    <div class="header-banner intercom col-xs-12" >
                        <!--<h1 class="header-tekst">Voorkom inbraak, beveilig nu uw woonhuis of bedrijf!</h1>--> 
 
                     </div>
@@ -40,7 +40,6 @@
                     <div class="col-sm-12 col-md-8">
                         <div class="left-column">
                             <div class="left-column-content">
-                            <p class="breadcrumb">Producten<span>/Video en Intercom</span></p>
                                 <h2>Video en intercom</h2>
                                  
                                 <p> Video en intercom

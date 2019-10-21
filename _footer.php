@@ -6,7 +6,7 @@
                 <li><a href="#">Contact</a></li>
                 <li><a href="cookies.php">Cookies</a></li>
                 <li><a href="privacy.php">Privacy beleid</a></li>
-                <li><a href="#">Polair op youtube</a></li>
+                <li><a href="https://www.youtube.com/channel/UCe_Ur5y4WGwOzbz2JmgTrng" target="_blank">Polair op youtube</a></li>
                 <li><a href="#">NCP Certificaat</a></li>
                 <li><a href="#">Handleidingen</a></li>
                 <li><a href="#">Handige links</a></li>
