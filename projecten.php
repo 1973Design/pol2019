@@ -37,7 +37,7 @@
                         <div class="card ">
                             <a href="projecten-pontsteiger.php" title="project pontsteiger"><img src="images/projecten/Pontsteiger-1.png" class="card-img-top" alt="Project pontsteiger "></a>
                             <div class="card-body ">
-                                <h5 class="card-title "><a href="">Pontsteiger</a></h5>
+                                <h5 class="card-title "><a href="projecten-pontsteiger.php">Pontsteiger</a></h5>
                                         
                             </div>
                         </div>

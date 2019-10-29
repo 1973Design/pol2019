@@ -59,16 +59,18 @@
                         <!-- end right column -->
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-xs-4 col-md-4">
-                        <img src="images/beveiliging/24uur.png" class="standalone" width="50%" alt="meldkamer 24 uur 7 dagen per week bereikbaar" title="meldkamer 24 uur 7 dagen per week bereikbaar"/>
+                <div class="row sm-space icons-noshow">
+                    <div class="col-lg-1 col-md-1"></div>
+                    <div class="col-md-3 col-sm-4 col-lg-3">
+                        <img src="images/beveiliging/24uur.png" class="standalone" width="75%" alt="meldkamer 24 uur 7 dagen per week bereikbaar" title="meldkamer 24 uur 7 dagen per week bereikbaar"/>
                     </div>
-                    <div class="col-xs-4 col-md-4">
-                        <img src="images/beveiliging/alert.png" class="standalone" width="50%" alt="meldkamer 24 uur 7 dagen per week bereikbaar" title="meldkamer 24 uur 7 dagen per week bereikbaar"/>
+                    <div class="col-md-3 col-sm-4 col-lg-3">
+                        <img src="images/beveiliging/alert.png" class="standalone" width="75%" alt="meldkamer 24 uur 7 dagen per week bereikbaar" title="meldkamer 24 uur 7 dagen per week bereikbaar"/>
                     </div>
-                    <div class="col-xs-4 col-md-4">
-                        <img src="images/beveiliging/telefoon.png" class="standalone" width="50%" alt="meldkamer 24 uur 7 dagen per week bereikbaar" title="meldkamer 24 uur 7 dagen per week bereikbaar"/>
+                    <div class="col-md-3 col-sm-4 col-lg-3">
+                        <img src="images/beveiliging/telefoon.png" class="standalone" width="75%" alt="meldkamer 24 uur 7 dagen per week bereikbaar" title="meldkamer 24 uur 7 dagen per week bereikbaar"/>
                     </div>
+                    <div class="col-lg-1 col-md-1"></div>
                 </div>
                 <div class="space"></div>
                 <div class="row">

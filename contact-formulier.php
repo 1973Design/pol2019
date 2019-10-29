@@ -46,14 +46,14 @@
                                 <p class="text-center w-75 m-auto">Mocht u nog vragen of andere beveiligingswensen hebben, zoals een camerasysteem, deurintercom systemen of een van de andere nieuwste snufjes, of voor een vrijblijvend beveiligingsadvies bij u thuis, dan kunt u ons via onderstaand adres bereiken:</p>
                                 <div class="row">
                                     <div class="col-md-6">
-                                        <form>
+                                        <form method="post" action="form-to-email.php" name="myemailform">
                                             <div class="form-group">
-                                                <label for="exampleFormControlInput1">Email address</label>
-                                                <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="naam@voorbeeld.com | type hier uw e-mail adres">
+                                                <label for="visitor_email">Email address</label>
+                                                <input type="email" name="visitor_email" class="form-control" id="exampleFormControlInput1" placeholder="naam@voorbeeld.com | type hier uw e-mail adres">
                                             </div>
                                             <div class="form-group">
-                                                <label for="exampleFormControlSelect1">Vraag over:</label>
-                                                <select class="form-control" id="exampleFormControlSelect1">
+                                                <label for="question">Vraag over:</label>
+                                                <select class="form-control" name="question" id="exampleFormControlSelect1">
                                                     <option>Beveiliging</option>
                                                     <option>Brand</option>
                                                     <option>Toegangscontrole</option>
@@ -64,8 +64,8 @@
                                                 </select>
                                             </div>
                                             <div class="form-group">
-                                                <label for="exampleFormControlTextarea1">Opmerking:</label>
-                                                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                                                <label for="message">Opmerking:</label>
+                                                <textarea class="form-control" name="message" id="exampleFormControlTextarea1" rows="3"></textarea>
                                             </div>
                                             <button type="submit" class="btn btn-primary mb-2">Verstuur formulier</button>
                                         </form>

@@ -7,10 +7,10 @@
                 <li><a href="cookies.php">Cookies</a></li>
                 <li><a href="privacy.php">Privacy beleid</a></li>
                 <li><a href="https://www.youtube.com/channel/UCe_Ur5y4WGwOzbz2JmgTrng" target="_blank">Polair op youtube</a></li>
-                <li><a href="#">NCP Certificaat</a></li>
+                <li><a href="docs/NCP-certificaat.pdf" target="_blank">NCP Certificaat</a></li>
                 <li><a href="#">Handleidingen</a></li>
-                <li><a href="#">Handige links</a></li>
-                <li><a href="#">Honeywell</a></li>
+                <li><a href="https://www.kseniasecurity.com/en" target="_blank">Ksenia</a></li>
+                <li><a href="https://www.security.honeywell.com/nl">Honeywell</a></li>
                 <li><a href="#">Galaxy Honeywell</a></li>
                 <li><a href="#">Camerasystemen</a></li>
                 <li><a href="Beveiliging-NoordHolland.php">Beveiliging Noord Holland</a></li>

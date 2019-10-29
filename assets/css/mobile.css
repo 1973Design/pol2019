@@ -31,11 +31,13 @@
     
   }
 
-img.standalone{
+  img.standalone{
   width: 30% !important;
   margin:0.2em !important;
-}
-
+  }
+  .icons-noshow{
+    display:none;
+  }
 
 }
 

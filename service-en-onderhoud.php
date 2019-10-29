@@ -23,7 +23,7 @@
         <header>
             <div class="container-fluid expand">
                 <row>
-                    <div class="header-banner inbraak col-xs-12" >
+                    <div class="header-banner  col-xs-12" >
                        <!--<h1 class="header-tekst">Voorkom inbraak, beveilig nu uw woonhuis of bedrijf!</h1>--> 
 
                     </div>
@@ -47,7 +47,7 @@
                                 <p>Er is niet iets vervelender dat wanneer u uw woning wil verlaten en op het punt van weggaan staat en het alarm wil inschakelen dit niet gaat omdat er een batterij te laag is.
                                     Uw alarm systeem moet bedrijfszeker en storingsvrij functioneren. Door het systeem jaarlijks te laten testen en af te regelen door onze technicus worden de kansen op defecten minimaal.
                                 </p>
-                                <img src="images/beveiliging/Polair-service.png" width="30%" class="alignright" alt="Polair biedt 24 uur per dag service" title="Polair biedt 24 uur per dag service"/>
+                                <img src="images/beveiliging/polair-service.png" width="30%" class="alignright" alt="Polair biedt 24 uur per dag service" title="Polair biedt 24 uur per dag service"/>
                                 <p>
                                     Bij de draadloze systemen controleert Polair Beveiliging de batterijen en houden wij bij wanneer deze moeten worden vervangen om geen problemen te ondervinden bij inschakeling.
                                     Tevens gaat de technicus na of zich geen veranderingen binnen uw pand hebben voor gedaan waardoor uw alarmsysteem niet meer optimaal zou functioneren.

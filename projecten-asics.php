@@ -46,7 +46,7 @@
                         <h2>Projectbeschrijving</h2>
                         <p>Nieuwbouw van het hoofdkantoor Asics te Hoofddorp.</p>
                         <p> <strong>Polair Beveiliging</strong> heeft hier in zijn geheel de toegangscontrole en CCTV installatie verzorgd, gebruikmakend van <a href="https://www.paxton-access.com/nl/" title="Polair beveiliging maakt gebruik van PAXTON" target="_blank">PAXTON</a></p>
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/IO-PPYDxMmE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/wqjYeDgkXis" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                       
                 </div>
             </div>

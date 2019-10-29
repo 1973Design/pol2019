@@ -13,6 +13,9 @@
     <link rel="stylesheet" href="assets/css/style.css" />
     <link href="https://fonts.googleapis.com/css?family=Fjalla+One|Open+Sans+Condensed:300|Roboto+Condensed:300,400,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i&display=swap" rel="stylesheet">
+     <!-- PureCookie -->
+    <script src="assets/js/purecookie.js" async></script>
+ 
 </head>
 
 <body>
@@ -106,32 +109,32 @@
                         <div class="row">
                             <div class="col-sm-6 col-md-4 mt-4">
                                 <div class="card ">
-                                    <img src="images/beveiliging/alarmbeveiligingbedrijven.jpg" class="card-img-top" alt="... ">
+                                    <img src="images/beveiliging/alarmbeveiligingbedrijven.jpg" class="card-img-top" alt="Polair beveiliging ook voor bedrijven">
                                     <div class="card-body ">
                                         <h5 class="card-title ">Bedrijven</h5>
                                         <p class="card-text ">Polair Beveiliging heeft voor de zakelijke markt tal van oplossingen voor de beveiliging van uw bedrijfspand, winkels, showrooms, scholen en instellingen. </p>
-                                        <a href="# " class="btn btn-orange ">Meer informatie</a>
+                                        <a href="inbraakbeveiliging-zakelijk.php" class="btn btn-orange" title="Polair beveiliging ook thuis in de zakelijke markt">Meer informatie</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-sm-6 col-md-4 mt-4">
                                 <div class="card ">
-                                    <img src="images/beveiliging/alarmbeveiligingparticulier.jpg" class="card-img-top" alt="... ">
+                                    <img src="images/beveiliging/alarmbeveiligingparticulier.jpg" class="card-img-top" alt="Polair beveiliging ook thuis in de particuliere markt">
                                     <div class="card-body">
                                         <h5 class="card-title">Particulier </h5>
                                         <p class="card-text">Polair Beveiliging heeft voor de particuliere markt tal van oplossingen voor de beveiliging van uw woonomgeving. Denk hierbij aan inbraakmeld-, videobewaking-, branddetectie- , toegangscontrole- en intercomsystemen.
                                         </p>
-                                        <a href="# " class="btn btn-orange">Meer informatie</a>
+                                        <a href="inbraakbeveiliging-particulier.php" class="btn btn-orange" title="Polair beveiliging op de particuliere markt">Meer informatie</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-sm-6 col-md-4 mt-4">
                                 <div class="card">
-                                    <img src="images/beveiliging/alarmbeveiligingzakelijk.jpg " class="card-img-top" alt="... ">
+                                    <img src="images/beveiliging/alarmbeveiligingzakelijk.jpg " class="card-img-top" alt="Polair beveiliging heeft diverse projecten beveiligt">
                                     <div class="card-body">
                                         <h5 class="card-title">Projecten</h5>
                                         <p class="card-text">Polair Beveiliging verzorgt verschillende projecten van groot tot klein. Gebruikmakend van de beste techniek op het gebied van beveiliging</p>
-                                        <a href="# " class="btn btn-orange">Bekijk de projecten</a>
+                                        <a href="projecten.php " class="btn btn-orange" title="Polair beveiligt ook diverse grote projecten">Bekijk de projecten</a>
                                     </div>
                                 </div>
                             </div>
@@ -156,9 +159,7 @@
     <!-- Bootstrap core JavaScript -->
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js "></script>
-
     <script src="assets/lib/jquery/jquery-3.3.1.slim.min.js "></script>
-
     <script src="assets/lib/bootstrap/4.3.1/js/bootstrap.min.js "></script>
 
 </body>

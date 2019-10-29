@@ -141,6 +141,9 @@ h1.header-tekst {
     xfont-family: 'Abhaya Libre', serif;
     font-family: 'Caveat Brush', cursive;
 }
+strong {
+    color:#384978;
+}
 
 h2,
 h5 {
