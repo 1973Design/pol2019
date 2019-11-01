@@ -1,43 +1,31 @@
 /** mobile wijzigingen **/
 
 @media screen and (max-width: 576px) {
-
-  .carousel-item{
-
-	height: 30vh;
- 
-  }
-
-  .wrapper .content-wrapper{
-  	width:100%;
-
-  }
-
-  .mb-4{
-  	margin-bottom: 0.2rem !important;
-  }
-
-  .mt-4{
-  	margin-top: 0.25rem !important;
-  }
-
-  .ml-xs-1{
-    margin-left:0.25em !important;
-  }
-
-  h1.header-tekst{
-    font-size: 1.2em;
-    margin-left:3em;
-    
-  }
-
-  img.standalone{
-  width: 30% !important;
-  margin:0.2em !important;
-  }
-  .icons-noshow{
-    display:none;
-  }
-
+    .carousel-item {
+        height: 30vh;
+    }
+    .wrapper .content-wrapper {
+        width: 100%;
+    }
+    .mb-4 {
+        margin-bottom: 0.2rem !important;
+    }
+    .mt-4 {
+        margin-top: 0.25rem !important;
+    }
+    .ml-xs-1 {
+        margin-left: 0.25em !important;
+    }
+    h1.header-tekst {
+        font-size: 1.2em;
+        margin-left: 3em;
+    }
+    img.standalone {
+        width: 30% !important;
+        margin: 0.2em !important;
+    }
+    .icons-noshow,
+    .top-banner {
+        display: none;
+    }
 }
-

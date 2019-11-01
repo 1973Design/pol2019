@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="assets/lib/fontawesome/css/all.min.css" />
     <link rel="stylesheet" href="assets/css/style.css" />
     <link href="https://fonts.googleapis.com/css?family=Fjalla+One|Open+Sans+Condensed:300|Roboto+Condensed:300, 300i,400,400i,700,700i" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Caveat+Brush&display=swap" rel="stylesheet">
     
     
 </head>
@@ -23,13 +24,9 @@
 
         <header>
             <div class="container-fluid expand">
-                <row>
                     <div class="header-banner col-xs-12" >
-                       <!--<h1 class="header-tekst">Voorkom inbraak, beveilig nu uw woonhuis of bedrijf!</h1>--> 
-
-                    </div>
-
-                </row>
+                       <h1 class="header-tekst">Voorkom inbraak, beveilig nu uw woonhuis of bedrijf!</h1>
+                </div>
             </div>
             
 

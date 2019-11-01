@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Polair Beveiliging - Beveiliging Regio Enkhuizen</title>
+    <title>Polair Beveiliging - Beveiliging Regio Rotterdam</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
@@ -37,18 +37,18 @@
                     <div class="col-sm-12">
                         <div class="left-column">
                             <div class="left-column-content">
-                                <h2> Polair Beveiliging - Enkhuizen</h2>
-                                <h4>Een veilig gevoel in Enkhuizen</h4>
+                                <h2> Polair Beveiliging - Rotterdam</h2>
+                                <h4>Een veilig gevoel in Rotterdam</h4>
                                 <p>Het is belangrijk dat u zich veilig kunt voelen in uw eigen woning. Toch geven steeds meer mensen aan dat zij zich wel eens onveilig voelen in hun eigen leefomgeving. 
                                     Wist u dat meer dan 25,5% van de inwoners van Noord Holland in de Integrale Veiligheidsmonitor van vorig jaar aan gaf dat zij zich wel eens onveilig voelen 
                                     in de eigen leefomgeving? Dit is meer dan een kwart van de mensen. Dit vinden wij schrikbarend hoog. Daarom willen wij mensen informeren over de mogelijkheden 
-                                    aan beveiliging. U zult merken dat u met alarmsystemen en bewakingscamera’s in uw woning een stuk geruster zult slapen. Beveiliging (alarmsysteem/bewakingscamera's) is noodzakelijk, ook in Enkhuizen.
+                                    aan beveiliging. U zult merken dat u met alarmsystemen en bewakingscamera’s in uw woning een stuk geruster zult slapen. Beveiliging (alarmsysteem/bewakingscamera's) is noodzakelijk, ook in Rotterdam.
                                 </p>
                                 <h4>Kom in actie</h4>
                                 <p>
-                                Bent u bekend met de snelle inbraak? Wanneer criminelen hun kans schoon zien om snel in te breken, slaan zij onmiddellijk toe. In de provincie Noord Holland vinden er iedere dag bijna 200 pogingen tot inbraak plaats. 
+                                Bent u bekend met de snelle inbraak? Wanneer criminelen hun kans schoon zien om snel in te breken, slaan zij onmiddellijk toe. In de provincie Zuid Holland vinden er iedere dag bijna 200 pogingen tot inbraak plaats. 
                                 Een groot deel van de inbraken slaagt. Dat is toch niet te geloven? Hoewel u er vermoedelijk niet vaak over nadenkt, kunt u ook slachtoffer worden van inbrekers. 
-                                U moet er toch niet aan denken? Gelukkig kunt u zelf maatregelen treffen. Vraag een professioneel advies aan bij <strong>Polair Beveiliging over effectieve bedrijfs- en woonhuisbeveiliging in Enkhuizen</strong>. Uiteraard komen onze adviseur ook naa Enkhuizen voor een professioneel advies. Daarna weet u welke alarmsystemen, bewakingscamera’s en andere vormen van woonhuisbeveiliging geschikt zijn voor uw huis in Enkhuizen, zodat u inbrekers te slim af bent in de toekomst. Ook het plaatsen van het alarmsysteem en de bewakingscamera’s kunt u aan ons overlaten.
+                                U moet er toch niet aan denken? Gelukkig kunt u zelf maatregelen treffen. Vraag een professioneel advies aan bij <strong>Polair Beveiliging over effectieve bedrijfs- en woonhuisbeveiliging in Rotterdam</strong>. Uiteraard komen onze adviseur ook naar Rotterdam voor een professioneel advies. Daarna weet u welke alarmsystemen, bewakingscamera’s en andere vormen van woonhuisbeveiliging geschikt zijn voor uw huis in Alkmaar, zodat u inbrekers te slim af bent in de toekomst. Ook het plaatsen van het alarmsysteem en de bewakingscamera’s kunt u aan ons overlaten.
                                 </p>
                                 <h4>Bedrijf</h4>
                                 <p>
@@ -63,12 +63,12 @@
                                 <p>
                                 De juiste inbraakbeveiliging, wat houdt dat eigenlijk in? Bij Polair Beveiliging is een bedrijf opererend in geheel nederland. Wij kunnen u uitstekend informeren en adviseren over de juiste woonhuisbeveiliging. 
                                 De verschillende mogelijkheden aan inbraakbeveiliging en woonhuis- en bedrijfsbeveiliging (alarmsysteem/bewakingscamera’s) worden besproken en uiteraard kunnen wij u de nieuwste technologieën uitleggen waardoor 
-                                u ervan verzekerd bent dat u de juiste keuze maakt. U kunt ons telefonisch bereiken, maar indien gewenst kunnen wij ook naar uw woning in Noord-Holland komen voor een advies op maat. Of u nu in Den Helder woont of in Amsterdam: wij reizen heel Nederland door om mensen te informeren over de juiste woonhuisbeveiliging (alarmsystemen/bewakingscamera's).
+                                u ervan verzekerd bent dat u de juiste keuze maakt. U kunt ons telefonisch bereiken, maar indien gewenst kunnen wij ook naar uw woning in Zuid-Holland komen voor een advies op maat. Of u nu in Den Helder woont of in Amsterdam: wij reizen heel Nederland door om mensen te informeren over de juiste woonhuisbeveiliging (alarmsystemen/bewakingscamera's).
                                 </p>
                                 <h4>Voordelen Polair Beveiliging</h4>
                                 <p>
                                 Na een vakkundig advies op maat is het tijd voor de volgende stap: het plaatsen van de alarmsystemen en/of bewakingscamera’s. Uiteraard worden onze alarmsystemen en bewakingscamera’s geplaatst door een NCP BORG erkende installateur. Dit betekent dat u verzekerd bent van professionele service en kwaliteit. Wilt u weten waarom u voor Polair Beveiliging 
-                                moet kiezen wanneer u uw woning of bedrijf in Noord-Holland wilt laten voorzien van inbraakbeveiliging in de vorm van alarmsystemen en bewakingscamera’s? Hier staan alle voordelen op een rijtje:
+                                moet kiezen wanneer u uw woning of bedrijf in Zuid-Holland wilt laten voorzien van inbraakbeveiliging in de vorm van alarmsystemen en bewakingscamera’s? Hier staan alle voordelen op een rijtje:
                                 <ul>
                                     <li>Vele tevreden klanten gingen u voor;</li>
                                     <li>Wij verzorgen persoonlijk en deskundig advies;</li>

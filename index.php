@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<!-- <html> -->
 
 <head>
     <title>Polair Beveiliging 2019</title>
@@ -20,8 +20,32 @@
 
 <body>
     <div class="main">
-        <?php include '_navigation.php';?>
+    <div class="row  top-banner">
+                <div class="col-md-2 col-6">
+                    <div class="top-content left-align">
+                        <i class="fas fa-phone"></i> 06 12345678
+                    </div>
+                </div>
+                <div class="col-md-2 col-6">
+                    <div class="top-content">
+                        <i class="fas fa-map-marker-alt"></i> 1721 HA Broek op Langedijk
+                    </div>
+                </div>
+                <div class="col-md-2 col-6">
+                    <div class="top-content left-align">
+                        <i class="fas fa-envelope"></i> mail@polair.nl
+                    </div>
+
+                </div>
+                <div class="col-md-6 col-6">
+                   <!--<div class="button-top">
+                        Neem contact met ons op
+                    </div>-->
+                </div>
+            </div>
+        
         <header>
+            <?php include '_navigation.php';?>
             <!-- Start  Slider -->
 
             <div class="bd-carousel">
