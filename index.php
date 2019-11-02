@@ -63,13 +63,13 @@
                                 <p>biedt 24 uur service en kwaliteit!</p>
                             </div>
                     </div>
-                    <div class="carousel-item" <div class="carousel-item" style="background-image: url('images/slider/veilig-op-vakantie.jpg')" title="veilig op vakantie">
+                    <div class="carousel-item" style="background-image: url('images/slider/veilig-op-vakantie.jpg')" title="veilig op vakantie">
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Polair Beveiliging</h5>
                             <p>beveiligt 24 uur per dag. Ook wanneer u niet thuis bent!</p>
                         </div>
                     </div>
-                    <div class="carousel-item" <div class="carousel-item" style="background-image: url('images/slider/beveiliging-inbraak-huis.jpg')" title="Poalir beveiliging geeft een veilig gevoel">
+                    <div class="carousel-item"  style="background-image: url('images/slider/beveiliging-inbraak-huis.jpg')" title="Poalir beveiliging geeft een veilig gevoel">
 
                         <div class="carousel-caption d-none d-md-block">
                             <h5>Polair Beveiliging</h5>
