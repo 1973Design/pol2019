@@ -5,7 +5,7 @@
     <title>Polair Beveiliging 2019 - De betrouwbaarste meldkamer</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
+    <meta name="description" content="Polair Beveiliging heeft contracten met verschillende meldkamers. Daardoor zoeken we de meldkamer die bij u past.">
     <meta name="author" content="">
 
 

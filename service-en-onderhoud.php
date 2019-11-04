@@ -5,7 +5,7 @@
     <title>Polair Beveiliging 2019</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
+    <meta name="description" content=" poalir Beveiliging biedt u 24 uurs service en onderhoud. Daarnaast hebben wij meer dan 20 jaar ervaring op het gebied van de installatie van beveilingssystemen">
     <meta name="author" content="">
 
 

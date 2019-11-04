@@ -5,7 +5,7 @@
     <title>Polair Beveiliging 2019 - Project Asics</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
+    <meta name="description" content="Polair Beveiliging heeft bij Ascis in Hoofddorp in zijn geheel de toegangscontrole en CCTV installatie verzorgd">
     <meta name="author" content="">
 
 

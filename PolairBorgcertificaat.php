@@ -5,7 +5,7 @@
     <title>Polair Beveiliging 2019</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
+    <meta name="description" content="Polair beveiliging is een professioneel onafhankelijk NCP erkend BORG Technisch Beveiligingsbedrijf met meer dan 20 jaar ervaring. Betrouwbaarheid - NCP gecertificeerd - Scherpe prijs">
     <meta name="author" content="">
 
 

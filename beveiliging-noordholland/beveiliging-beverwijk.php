@@ -5,7 +5,7 @@
     <title>Polair Beveiliging - Beveiliging Regio Beverwijk</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
+    <meta name="description" content="Polair Beveiliging uw beveiligingsinstallateur in de omgeving Beverwijk. Polair Beveiliging adviseert en biedt u een beveiliging op maat.">
     <meta name="author" content="">
 
 
@@ -28,7 +28,7 @@
                     </div>
             </div>
             
-
+s
         </header>
 
         <article>

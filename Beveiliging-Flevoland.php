@@ -5,8 +5,8 @@
     <title>Polair Beveiliging - Regio Flevoland</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="Polair Beveiliging uw beveiligingsinstallateur in de omgeving Flevoland. Polair Beveiliging adviseert en biedt u een beveiliging op maat.">
+    <meta name="Carla Danenberg" content="">
 
 
     <link rel="stylesheet" href="assets/lib/fontawesome/css/all.min.css" />

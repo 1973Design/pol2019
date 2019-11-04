@@ -5,7 +5,7 @@
     <title>Polair Beveiliging 2019 - Projecten beveiliging-toegangscontrole-intercomsystemen-buitenbeveiliging-brandbeveiliging</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
+    <meta name="description" content="Polair Beveiliging doet verschillende grote en kleine projecten op het gebied van beveiliging. Advies - Expertise - Scherpe prijs">
     <meta name="author" content="">
 
 

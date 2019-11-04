@@ -82,9 +82,9 @@ nav.bg-blue {
     padding: 0px;
 }
 
-a,
-a:hover {
+a {
     color: #5F7CCC;
+    transition: all 0.4s ease-in-out 0s;
 }
 
 a:hover {
@@ -100,6 +100,7 @@ a:hover.no-underline {
 
 a.dropdown-item {
     color: #565656;
+    transition: all 0.4s ease-in-out 0s;
 }
 
 a.dropdown-item:hover {
@@ -170,7 +171,7 @@ h3 {
     border: none;
     outline: none;
     text-align: left;
-    transition: 0.6s;
+    transition: all 0.4s ease-in-out 0s;
 }
 
 .active,

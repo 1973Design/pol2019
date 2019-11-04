@@ -5,7 +5,7 @@
     <title>Polair Beveiliging 2019 - Project Pontsteiger</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
+    <meta name="description" content="Polair Beveiliging heeft bij Pontsteiger te Amsterdam in zijn geheel de toegangscontrole verzorgd.">
     <meta name="author" content="">
 
 
@@ -46,7 +46,7 @@
                             terrassen aan het water en een kleine jachthaven die alleen toegankelijk is voor bewoners.</p>
                         <p>Om de bijzondere positie in de waterstad te verbeelden heeft het gebouw van een afstand gezien de vorm van een poort. 
                             Dichterbij gekomen is zichtbaar dat de Pontsteiger een stoelvorm heeft. De stoel heeft een open rugzijde en is zeven meter opgetild boven de steiger.</p>
-                        <p> <strong>Polair Beveiliging</strong> heeft hier in zijn geheel de toegangscontrole verzorgd</p>
+                        <p> <strong>Polair Beveiliging</strong> heeft hier in zijn geheel de toegangscontrole verzorgd.</p>
                       
                 </div>
             </div>

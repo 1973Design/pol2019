@@ -5,7 +5,7 @@
     <title>Polair Beveiliging 2019 - Camerasystemen</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
+    <meta name="description" content="Polair Beveiliging is u specialist op het gebied van professionele camerasystemen. Specialist - Service - Scherpe prijs">
     <meta name="author" content="">
 
 

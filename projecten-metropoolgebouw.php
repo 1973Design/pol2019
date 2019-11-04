@@ -5,7 +5,7 @@
     <title>Polair Beveiliging 2019 - Project Metropoolgebouw</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
+    <meta name="description" content="Polair Beveiliging heeft bij het Metropoolgebouw te Amsterdam het deurstandsignaleringssysteem verzorgd.">
     <meta name="author" content="">
 
 
@@ -42,7 +42,7 @@
                        
                         <h2>Projectbeschrijving</h2>
                         <p>Transformatie Metropool gebouw tot hotel v.v. 125 luxe hotelkamers, 6e verdieping v.v. restaurant en kantoren.</p>
-                        <p> <strong>Polair Beveiliging</strong> heeft hier het deurstandsignaleringssysteem verzorgd</p>
+                        <p> <strong>Polair Beveiliging</strong> heeft hier het deurstandsignaleringssysteem verzorgd.</p>
                       
                 </div>
             </div>

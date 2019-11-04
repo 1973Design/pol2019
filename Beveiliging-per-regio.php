@@ -5,7 +5,8 @@
     <title>Polair Beveiliging - Per regio in nederland</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
+    <meta name="description" content="Polair Beveiliging verzorgt woonhuis- en bedrijfsbeveiliging (alarmsystemen/bewakingscamera's,toegangcontrole) voor iedereen in heel nederland. 
+                                Bent u benieuwd wat wij voor u kunnen betekenen">
     <meta name="author" content="">
 
 
@@ -40,7 +41,7 @@
                                 <h2>Polair Beveiliging - In de regio</h2>
                                 <h4>Polair Beveiliging in heel Nederland</h4>
                                 <p> Polair Beveiliging verzorgt woonhuis- en bedrijfsbeveiliging (alarmsystemen/bewakingscamera's,toegangcontrole) voor iedereen in heel nederland. 
-                                Bent u benieuwd wat wij voor u kunnen betekenen? Klik dan op de provincie voor het juiste aanbod
+                                Bent u benieuwd wat wij voor u kunnen betekenen? Klik dan op de provincie voor het juiste aanbod.
                                 </p>
                                 <h4>Integrale Veiligheidsmonitor</h4>
                                 <p>

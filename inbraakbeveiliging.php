@@ -5,7 +5,7 @@
     <title>Polair Beveiliging 2019</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
+    <meta name="description" content="Polair Beveiliging is uw adviseur en installateur op het gebied van beveiliging van uw bedrijf of woonhuis. Advies - Service - Specialist - Lage prijs ">
     <meta name="author" content="">
 
 
@@ -23,14 +23,11 @@
 
         <header>
             <div class="container-fluid expand">
-                <div class="row">
                     <div class="header-banner col-xs-12" >
                        <h1 class="header-tekst">Voorkom inbraak, beveilig nu uw woonhuis of bedrijf!</h1>
-
-                    </div>
-
                 </div>
             </div>
+            
             
 
         </header>
