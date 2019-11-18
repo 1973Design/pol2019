@@ -13,9 +13,9 @@
     .cards{
   }
 
-    h1.header-tekst{
-    font-size: 1.5em;
-    margin-left:10em;
+  .header-banner h1.header-tekst{
+    font-size: 2.0em;
+    margin-left:0%;
   }
 
   .sm-space{

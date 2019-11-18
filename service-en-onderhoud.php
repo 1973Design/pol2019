@@ -5,7 +5,7 @@
     <title>Polair Beveiliging 2019</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content=" poalir Beveiliging biedt u 24 uurs service en onderhoud. Daarnaast hebben wij meer dan 20 jaar ervaring op het gebied van de installatie van beveilingssystemen">
+    <meta name="description" content=" Polair Beveiliging biedt u 24 uurs service en onderhoud. Daarnaast hebben wij meer dan 20 jaar ervaring op het gebied van de installatie van beveilingssystemen">
     <meta name="author" content="">
 
 
@@ -23,8 +23,11 @@
 
         <header>
            <div class="container-fluid expand">
-                    <div class="header-banner col-xs-12" >
-                       <h1 class="header-tekst">Voorkom inbraak, beveilig nu uw woonhuis of bedrijf!</h1>
+                <div class="header-banner col-xs-12" >
+                    <div class="banner-content">
+                        <h1 class="header-tekst">Beveiliging</h1>
+                        <p class="banner-description"> Voorkom inbraak en beveilig uw huis nu!</p>
+                    </div>
                 </div>
             </div>
 
@@ -40,10 +43,10 @@
                                 <h2> Onderhoud en service</h2>
                                 <h3>Onderhoud</h3>
                                 <hr class="orange">
-                                <p>Er is niet iets vervelender dat wanneer u uw woning wil verlaten en op het punt van weggaan staat en het alarm wil inschakelen dit niet gaat omdat er een batterij te laag is.
+                                <p>Er is niet iets vervelender dat wanneer u uw woning wil verlaten en op het punt van weggaan staat en het alarm wil inschakelen, dit niet gaat omdat er een batterij te laag is.
                                     Uw alarm systeem moet bedrijfszeker en storingsvrij functioneren. Door het systeem jaarlijks te laten testen en af te regelen door onze technicus worden de kansen op defecten minimaal.
                                 </p>
-                                <img src="images/beveiliging/polair-service.png" width="30%" class="alignright" alt="Polair biedt 24 uur per dag service" title="Polair biedt 24 uur per dag service"/>
+                                <img src="images/beveiliging/24uur.png" width="30%" class="alignright" alt="Polair biedt 24 uur per dag service" title="Polair biedt 24 uur per dag service"/>
                                 <p>
                                     Bij de draadloze systemen controleert Polair Beveiliging de batterijen en houden wij bij wanneer deze moeten worden vervangen om geen problemen te ondervinden bij inschakeling.
                                     Tevens gaat de technicus na of zich geen veranderingen binnen uw pand hebben voor gedaan waardoor uw alarmsysteem niet meer optimaal zou functioneren.
@@ -51,17 +54,17 @@
                                 <h3>Service</h3>
                                 
                                 <p>We beschikken over een efficiënt georganiseerde Service & Onderhoud die 24 uur per dag, 365 dagen per jaar paraat is. Met één telefoonnummer 
-                                    voor al uw vragen en storingen, met een onderhoudscontract kan Polair Beveiliging u doorgaans nog dezelfde dag helpen.</p>  
+                                    voor al uw vragen en storingen en met een onderhoudscontract kan Polair Beveiliging u doorgaans nog dezelfde dag helpen.</p>  
                                 <p>Daarnaast kunnen wij natuurlijk zorgen voor een aansluiting op de meldkamer en opvolging van alarmen door een alarm opvolgingsdienst. 
-                                    Of als er geen meldkamer gewenst is de alarm melding als sms bericht naar 3 mobiele nummers laten versturen</p>   
+                                    Of als er geen meldkamer gewenst is de alarm melding als sms bericht naar 3 mobiele nummers laten versturen.</p>   
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-12 col-md-3 offset-md-1">
+                  <div class="col-sm-12 col-md-3 offset-md-1">
                         <!--right column -->
                         <?php include '_right-column.php'; ?>
                         <!-- end right column -->
-                    </div>
+                    </div> 
                 </div>
                 <div class="row">
                     <div class="col-sm-6">

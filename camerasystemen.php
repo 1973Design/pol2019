@@ -22,16 +22,18 @@
         <!-- END navigatie -->
 
         <header>
-            <div class="container-fluid expand">
-                    <div class="header-banner col-xs-12" >
-                       <h1 class="header-tekst">Voorkom inbraak, beveilig nu uw woonhuis of bedrijf!</h1>
-
+            <div class="container-fluid expand bg-banner ">
+               <div class="header-banner col-xs-12" >
+                    <div class="banner-content">
+                       <h1 class="header-tekst">Beveiliging</h1>
+                        <p class="banner-description"> Voorkom inbraak en beveilig uw huis nu!</p>
                     </div>
+                </div>
             </div>
         </header>
 
         <article>
-            <div class="container content-page">
+            <div class="container-fluid content-page">
                 <div class="row">
                     <div class="col-sm-12 col-md-8">
                         <div class="left-column">
@@ -84,13 +86,12 @@
                                         Wij adviseren u graag over de beste oplossing voor u en zorgen voor een perfecte installatie.
                                 </p>
                                 <p>
-                                    <br/>
                                     Wij adviseren u graag over de beste oplossing voor u en zorgen voor een perfecte installatie.<br/>
                                 <a href="#zakelijkecameras">Zakelijke camerasystemen</a><br/>
                                 <a href="#particulierecameras">Particuliere camerasystemen</a>
                                 </p>
                                 <p>Polair is een <a href="#">gecertificeerd Lumiron IRCM installateur</a>, de revolutionaire nachtzicht camera.</p>
-                                <p>Ook leveren wij het <a href="">SmartView</a> camerasysteem videoverificatie en <a href="#">LiveView</a></p>
+                                <p>Ook leveren wij het <a href="">SmartView</a> camerasysteem videoverificatie en <a href="Live-view.php">LiveView</a></p>
                                 <h2> <a name="zakelijkecameras">Zakelijk camerasystemen</a></h2>
                                 <div class="space"></div>
                                 <h3> Waarom camera's</h3>
@@ -103,7 +104,7 @@
                                     De praktijk leert dat met goede beelden daders op korte termijn kunnen worden aangehouden en reeksen overvallen in de kiem worden gesmoord. Dit heeft ook een positieve invloed op 
                                     de preventie en ontmoediging van andere (potentiele) daders.
                                 </p>
-                                <div class="space"></div>
+                                
                                 <h3>Het effect van camera's</h3>
                                 <hr class="orange">
                                 <p>Uiteindelijk koopt u met de camera iets tastbaars, maar eigenlijk koopt u veiligheid.
@@ -118,9 +119,9 @@
                                     <p class="caption-tekst">Indentificeren en herkennen met de juiste camera.</p>
                                 </div>
                                 <p>Vastgelegde beelden zijn van groot belang om personen te kunnen identificeren of te herkennen. Ze kunnen ook in belangrijke mate een bijdrage leveren aan de opsporing van personen en bewijsvoering. 
-                                        Bekend is dat veel criminelen beducht zijn voor camera opnamen. Zo zijn er voorbeelden van daders die zich Onmiddellijk bij de politie meldden nadat ze wisten dat ‘hun’ overval op de 
-                                        Televisie zou worden vertoond. Als dit gebeurt dan volgt vrijwel in alle gevallen herkenning of identificatie van daders. Aanhouding van daders direct na uitzendingen als Opsporing 
-                                        Verzocht komen regelmatig voor.
+                                        Bekend is dat veel criminelen beducht zijn voor camera opnamen. Zo zijn er voorbeelden van daders die zich onmiddellijk bij de politie meldden nadat ze wisten dat ‘hun’ overval op de 
+                                        televisie zou worden vertoond. Als dit gebeurt dan volgt vrijwel in alle gevallen herkenning of identificatie van daders. Aanhouding van daders direct na uitzendingen als 'Opsporing 
+                                        Verzocht' komen regelmatig voor.
                                 </p>
                                 <div class="space"></div>
                                 <h3>Personeel</h3>
@@ -138,7 +139,6 @@
                                         effect van camera’s op reeksen overvallen moet worden meegewogen. Hoe eerder een overvaller door een camerasysteem wordt geregistreerd hoe eerder de kans op aanhouding. 
                                         Met het cameramateriaal kunnen enerzijds ‘oude’ overvallen worden opgelost en anderzijds veel nieuwe overvallen worden voorkomen.
                                 </p>
-                                <div class="space"></div>
                                 <h2> <a name="particulierecameras">Particuliere camerasystemen</a></h2>
                                 <div class="space"></div>
                                 <h3>Camera's voor in en om de woning</h3>

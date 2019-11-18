@@ -5,7 +5,7 @@
     <title>Polair Beveiliging 2019 - Buitenbeveiliging in Noord Holland</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Polar Beveiligng geeft u specialistisch advies op het gebeid van terrein beveiliging. ADvies - Service - Scherpe prijs">
+    <meta name="description" content="Polar Beveiligng geeft u specialistisch advies op het gebied van terreinbeveiliging. Advies - Service - Scherpe prijs">
     <meta name="author" content="">
 
 
@@ -23,8 +23,11 @@
 
         <header>
             <div class="container-fluid expand">
-                    <div class="header-banner col-xs-12" >
-                       <h1 class="header-tekst">Voorkom inbraak, beveilig nu uw woonhuis of bedrijf!</h1>
+                <div class="header-banner col-xs-12" >
+                    <div class="banner-content">
+                        <h1 class="header-tekst">Beveiliging</h1>
+                        <p class="banner-description"> Voorkom inbraak en beveilig uw huis nu!</p>
+                    </div>
                 </div>
             </div>
             
@@ -42,7 +45,6 @@
                                 <p>Terreinbeveiliging wordt steeds populairder. Inbraken nemen toe en zowel particulieren als bedrijven willen ongewenste indringing al in het vroegste stadium detecteren. 
                                     Dit voorkomt inbraak en dus veel schade. Een prettig gevoel.
                                 </p>
-                                <div class="space"></div>
                                 <h3>Eenvoudige vrijstaande systemen</h3>
                                 <hr class="orange">  
                                 <p>
@@ -50,7 +52,6 @@
                                 Ruimte detectoren met hoogwaardige technologie met gesproken tekst of aansturing verlichting en akoestische signalering. 
                                 Passief infrarood detectoren die aan de woning kunnen worden gemonteerd of op een houten paal tussen de begroeiing in de tuin worden geplaatst.
                                 </p>
-                                <div class="space"></div>
                                 <h3>Vrijstaande uitgebreidere systemen.</h3>
                                 <hr class="orange"> 
                                 <div class="alignleft framed caption">

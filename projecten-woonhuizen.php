@@ -5,7 +5,7 @@
     <title>Polair Beveiliging 2019 - Project Asics</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Polair beveiliging adviseert en installeert op maar voor diverse woonhuizen. Betrouwbaar - Service - Scherpe prijs">
+    <meta name="description" content="Polair beveiliging adviseert en installeert voor diverse woonhuizen. Betrouwbaar - Service - Scherpe prijs">
     <meta name="author" content="">
 
 
@@ -23,9 +23,12 @@
 
         <header>
             <div class="container-fluid expand">
-                    <div class="header-banner col-xs-12" >
-                    <h1 class="header-tekst">Voorkom inbraak, beveilig nu uw woonhuis of bedrijf!</h1>
+                <div class="header-banner col-xs-12" >
+                    <div class="banner-content">
+                        <h1 class="header-tekst">Beveiliging</h1>
+                        <p class="banner-description"> Voorkom inbraak en beveilig uw huis nu!</p>
                     </div>
+                </div>
             </div>
             
 

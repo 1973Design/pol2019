@@ -5,7 +5,7 @@
     <title>Polair Beveiliging 2019</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Polair Beveiliging uw adviseur op het gebied van branddetectie. Wij leveren een systeem op maat. Advies - Service - Lage prijs">
+    <meta name="description" content="Polair Beveiliging uw adviseur op het gebied van branddetectie. Wij leveren een brandsysteem op maat. Advies - Service - Lage prijs">
     <meta name="author" content="">
 
 
@@ -23,8 +23,11 @@
 
         <header>
             <div class="container-fluid expand">
-                    <div class="header-banner col-xs-12" >
-                       <h1 class="header-tekst">Voorkom inbraak, beveilig nu uw woonhuis of bedrijf!</h1>
+                <div class="header-banner col-xs-12" >
+                    <div class="banner-content">
+                        <h1 class="header-tekst">Beveiliging</h1>
+                        <p class="banner-description"> Voorkom inbraak en beveilig uw huis nu!</p>
+                    </div>
                 </div>
             </div>
             
@@ -43,7 +46,7 @@
                                 <p>De meeste doden vallen 's nachts als mensen liggen te slapen. Veel voorkomende oorzaken van brand in huis zijn; 
                                     roken van een sigaret in bed, kortsluiting, een vonk uit de nog smeulende open haard, een vergeten kaars, blikseminslag of een overslaande brand.<br/>
                                     Als er 's nachts brand uitbreekt is de kans op letsel zeer groot. Als u slaapt ruikt u namelijk niets en wordt u door de giftige gassen dieper in slaap gebracht. Een brand kan zich binnen 3 minuten door het gehele huis verspreiden. 
-                                    In de praktijk duurt het vaak langer om alle gezinsleden wakker te maken en in veiligheid te brengen<br/>
+                                    In de praktijk duurt het vaak langer om alle gezinsleden wakker te maken en in veiligheid te brengen.<br/>
                                     Het is een must om iets aan branddetectie te doen!
                                 </p>
                                 <h4>Branddetectiesystemen zijn te verdelen in een aantal producten;</h4>
@@ -54,7 +57,7 @@
                                          <li>Brandmelders of hittemelders</li>
                                          <li>Koolmonoxidemelders of andere gasmelders</li>
                                     </ul>
-                                    Al deze melders zijn aan te sluiten op een inbraakcentrale als op een brandmeldcentrale met doormelding naar een meldkamer of mobiele telefoon.<br/>
+                                    Al deze melders zijn zowel aan te sluiten op een inbraakcentrale als op een brandmeldcentrale met doormelding naar een meldkamer of mobiele telefoon.<br/>
                                     Voor elk van deze producten hebben wij een ruim assortiment van artikelen die in ieders budget passen. Wij adviseren u graag en installeren het op 
                                     de meest preventieve plaatsen, zodat u onbezorgd kunt genieten van uw nachtrust.<br/>
                                     <strong>Tip:</strong> schaf in aanvulling op een branddetectiesysteem ook een branddeken en een brandblusser aan. Hiermee kunt u zelf onnodig veel schade voorkomen.

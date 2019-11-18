@@ -5,7 +5,7 @@
     <title>Polair Beveiliging 2019 - Project Asics</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
+    <meta name="description" content="Polair beveiliging heeft ruime ervaring met het beveiligen van bedrijfspanden. Polair is betrouwbaar, heeft kennis en hanteert scherpe prijzen">
     <meta name="author" content="">
 
 
@@ -23,9 +23,12 @@
 
         <header>
             <div class="container-fluid expand">
-                    <div class="header-banner col-xs-12" >
-                    <h1 class="header-tekst">Voorkom inbraak, beveilig nu uw woonhuis of bedrijf!</h1>
+                <div class="header-banner col-xs-12" >
+                    <div class="banner-content">
+                        <h1 class="header-tekst">Beveiliging</h1>
+                        <p class="banner-description"> Voorkom inbraak en beveilig uw huis nu!</p>
                     </div>
+                </div>
             </div>
             
 
@@ -36,9 +39,9 @@
                 <div class="row">
                 <div class="col-sm-12">
                     <h2>Bedrijven beveiligen</h2>
-                      <img src="images/projecten/bedrijven-algemeen.png" class="center"/>         
+                      <img src="images/projecten/bedrijven-algemeen.png" alt="Polair adviseert op gebied van beveiliging van uw bedrijfs pan" class="center"/>         
                         <p> <strong>Polair Beveiliging</strong> heeft in de afgelopen 20 jaar een diversiteit aan bedrijven beveiligt. Van kleine winkeltjes tot grotere filialen. <br/>
-                        Wij kunnen u voorzien van de juiste informatie betreffende regelgeving en verzekeringseisen.</p>
+                        Wij kunnen u voorzien van de juiste informatie betreffende regelgeving en verzekeringseisen. Daarnaast voorzien wij u van alle informatie op het gebeid van beveiliging van uw pand.</p>
                         Voor advies of een offerte neem <a href="contact.php">contact</a> met ons op!
                         
                       

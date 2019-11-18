@@ -16,16 +16,16 @@
     .ml-xs-1 {
         margin-left: 0.25em !important;
     }
-    h1.header-tekst {
-        font-size: 1.2em;
-        margin-left: 3em;
+    .header-banner h1.header-tekst {
+        font-size: 2.0em;
+        margin-left:0%;
     }
     img.standalone {
         width: 30% !important;
         margin: 0.2em !important;
     }
     .icons-noshow,
-    .top-banner {
+    .top-banner, .mobile-non-view, .right-column {
         display: none;
     }
 }

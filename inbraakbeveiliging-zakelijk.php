@@ -25,10 +25,12 @@
 
         <header>
             <div class="container-fluid expand">
-                    <div class="header-banner col-xs-12" >
-                       <h1 class="header-tekst">Voorkom inbraak, beveilig nu uw bedrijf!</h1>
-
+                <div class="header-banner col-xs-12" >
+                    <div class="banner-content">
+                        <h1 class="header-tekst">Beveiliging</h1>
+                        <p class="banner-description"> Voorkom inbraak en beveilig uw huis nu!</p>
                     </div>
+                </div>
             </div>
         </header>
 
@@ -67,7 +69,6 @@
                                     <ul>
                                         <li><a href="https://www.security.honeywell.com/nl/All-Categories/inbraak-detectie-systemen" title="Honeywell producten voor een optimale beveiliging">Honeywell</a></li>
                                         <li><a href="">Ksenia</a></li>
-                                        <li>??????</li>
                                     </ul>
                                 </p>
 

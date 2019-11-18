@@ -1,12 +1,34 @@
 <!-- Navigation -->
-<nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-blue">
+<!-- top adres bar -->
+<div class="row top-banner">
+    <div class="col-lg-6 col-md-0"></div>
+    <div class="col-lg-2 col-sm-4 ">
+        <div class="top-content left-align ">
+            <i class="fas fa-phone"></i> 06 12345678
+             </div>
+         </div>
+        <div class="col-lg-2 col-sm-4  ">
+            <div class="top-content">
+                <i class="fas fa-map-marker-alt"></i> 1721 HA Broek op Langedijk
+            </div>
+        </div>
+        <div class="col-lg-2 col-sm-4 ">
+            <div class="top-content left-align">
+                <i class="fas fa-envelope"></i> mail@polair.nl
+            </div>
+
+        </div>
+
+    </div> 
+<!-- end top adres bar-->
+<nav class="navbar navbar-expand-lg navbar-dark bg-blue">
             <div class="container">
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <a class="navbar-brand" href="index.php"><img src="images/logo2.png" width="100%"></a>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
-                    <ul class="navbar-nav ml-auto">
+                    <ul class="navbar-nav ml-2">
                         <li class="nav-item">
                             <a class="nav-link" href="overpolair.php">Over  Polair</a>
                         </li>
@@ -34,8 +56,10 @@
                   Service en Onderhoud
                 </a>
                             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownService">
-                            <a class="dropdown-item" href="service-en-onderhoud.php">Welke service biedt Polair?</a>
+                                <a class="dropdown-item" href="service-en-onderhoud.php">Welke service biedt Polair?</a>
                                 <a class="dropdown-item" href="PolairBorgcertificaat.php">KIWA CCV Borg certificaat</a>
+                                <a class="dropdown-item" href="Polair-storingen.php">Storingen</a>
+                                <a class="dropdown-item" href="Polair-overname-alarmsysteem.php">Overnamen systeem</a>
                             </div>
                         </li>
                         <li class="nav-item dropdown">

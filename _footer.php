@@ -17,7 +17,7 @@
                 <li><a href="Beveiliging-ZuidHolland.php">Beveiliging Zuid Holland</a></li>
                 <li><a href="Beveiliging-Flevoland.php">Beveiliging Flevoland</a></li>
                 <li><a href="Beveiliging-Utrecht.php">Beveiliging Utrecht</a></li>
-                <li><a href="Beveiliging-per-regio.php">Beveiliging per regio</a></li>
+                <li class="last"><a href="Beveiliging-per-regio.php">Beveiliging per regio</a></li>
             </ul>
         </div>
     </div>

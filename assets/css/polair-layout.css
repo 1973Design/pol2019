@@ -82,6 +82,7 @@ nav.bg-blue {
     padding: 0px;
 }
 
+
 a {
     color: #5F7CCC;
     transition: all 0.4s ease-in-out 0s;
@@ -132,14 +133,30 @@ h1 {
     font-size: 2rem;
 }
 
-h1.header-tekst {
-    padding: 22px 0px 0px 0px;
-    margin-left: 30%;
-    color: #384978;
-    display: inline-block;
-    font-size: 1.8em;
-    font-family: 'Caveat Brush', cursive;
+.banner-content{
+    margin-left: 60%;
+    max-width: 50%;
+
 }
+.header-banner h1.header-tekst {
+    padding: 15px 0px 0px 0px;
+    color: #fb9d5b;
+    font-size: 2.0em;
+    font-family: 'Caveat Brush', cursive;
+    text-transform:uppercase;
+    xvisibility: hidden;
+    
+}
+
+.header-banner p.banner-description{
+    border-left:2px solid #fb9d5b;
+    color:#fff;
+    padding: 0.75rem 1.5rem;
+    margin-top:10px;
+
+}
+
+
 
 strong {
     color: #384978;
@@ -228,58 +245,24 @@ h4 {
     font-size: 1.3em;
 }
 
-header div.bd-carousel {
-    xmargin-top: 78px;
+.top {
+    margin-top:129px;
 }
 
-header .header-banner {
-    margin-top: 78px;
-    height: 75px;
-    background: linear-gradient(90deg, rgba(56, 73, 120, 1) 0%, rgba(255, 160, 92, 1) 50%, rgba(56, 73, 120, 1) 100%)
+ .header-banner {
+   height: 200px;
+    background:url(../../images/beveiliging/alarmbeveiliging-banner.jpg) no-repeat center center;
+}
+
+.bg-banner{
+    background-color: linear-gradient(90deg, rgba(56, 73, 120, 1) 0%, rgba(255, 160, 92, 1) 50%, rgba(56, 73, 120, 1) 100%);
 }
 
 header .header-banner.overpolair {
     background: transparent url(../../images/banner/over-polair.png) no-repeat center;
 }
 
-header .header-banner.inbraak {
-    background: transparent url(../../images/banner/inbraakbeveiliging.png) no-repeat center;
-}
 
-header .header-banner.brand {
-    background: transparent url(../../images/banner/brandbeveiliging.png) no-repeat center;
-}
-
-header .header-banner.camera {
-    background: transparent url(../../images/banner/camerabeveiliging.jpg) no-repeat center;
-}
-
-header .header-banner.toegangscontrole {
-    background: transparent url(../../images/banner/toegangscontrolebeveiliging.png) no-repeat center;
-}
-
-header .header-banner.intercom {
-    background: transparent url(../../images/banner/intercomsysteem.jpg) no-repeat center;
-}
-
-header .header-banner.buitenbeveiliging {
-    background: transparent url(../../images/banner/buitenbeveiliging.png) no-repeat center;
-}
-
-header .header-banner.default {
-    background: transparent url(../../images/banner/polair-beveiliging-banner.png) no-repeat center;
-    height: 75px;
-}
-
-header .header-banner.projecten {
-    background: transparent url(../../images/banner/projecten2.png) no-repeat center;
-    height: 150px;
-}
-
-header .header-banner.meldkamer {
-    background: transparent url(../../images/banner/meldkamer.png) no-repeat center;
-    height: 150px;
-}
 
 div.header-banner img {
     width: 100%;
@@ -353,6 +336,54 @@ article div.container-fluid {
 
 .cards .card {}
 
+/*projects*/
+.project-polair{
+
+}
+
+.project-polair .project-item-polair{
+    overflow: visible;
+}
+
+.project-item-polair{
+    position: relative;
+}
+
+.project-polair .project-item-polair .project-thumb{
+    position: relative;
+    overflow: hidden;
+}
+.project-polair .project-item-polair .project-details{
+    border-bottom: solid 4px #FFA05C;
+    padding-bottom:10px;
+}
+
+.project-polair .project-item-polair .project-details .project-details-title{
+    padding:10px 10px 0px 0px;
+    font-weight: 600;
+    font-size:1.5em;
+    transition: all 0.4s ease-in-out 0s;
+}
+
+.project-polair .project-item-polair .project-details h5.project-details-title a:hover{
+    text-decoration: none;
+    color:#FFA05C;
+}
+
+ul li.project-list{
+    display: inline;
+  
+}
+.project-list{
+ color:#444444;
+ display: inline;
+ list-style: none;
+ padding:0;
+
+
+}
+/* End projects*/
+
 .btn {
     margin-top: 1em;
 }
@@ -422,6 +453,10 @@ div.copyright p {
 section.bottom-section {
     background: #384978;
     margin: 0.8em 0em;
+}
+
+.blue-footer-empty{
+    min-height: 100px;
 }
 
 section.bottom-section p {
@@ -617,7 +652,7 @@ p.breadcrumb span {
     min-height: 50px;
     position: relative;
     z-index: 1;
-    margin-top: 78px;
+    xmargin-top: 78px;
 }
 
 .top-content {

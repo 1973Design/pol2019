@@ -24,7 +24,10 @@
         <header>
         <div class="container-fluid expand">
                 <div class="header-banner col-xs-12" >
-                <h1 class="header-tekst">Voorkom inbraak, beveilig nu uw woonhuis of bedrijf!</h1>
+                    <div class="banner-content">
+                        <h1 class="header-tekst">Beveiliging</h1>
+                        <p class="banner-description"> Voorkom inbraak en beveilig uw huis nu!</p>
+                    </div>
                 </div>
         </div>
             

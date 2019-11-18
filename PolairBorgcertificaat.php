@@ -23,8 +23,11 @@
 
         <header>
             <div class="container-fluid expand">
-                    <div class="header-banner col-xs-12" >
-                       <h1 class="header-tekst">Voorkom inbraak, beveilig nu uw woonhuis of bedrijf!</h1>
+                <div class="header-banner col-xs-12" >
+                    <div class="banner-content">
+                        <h1 class="header-tekst">Beveiliging</h1>
+                        <p class="banner-description"> Voorkom inbraak en beveilig uw huis nu!</p>
+                    </div>
                 </div>
             </div>
             
@@ -39,8 +42,8 @@
                             <div class="left-column-content">
                             <p class="breadcrumb">Service en onderhoud<span>/Polair Borgcertificaat</span></p>
                                 <h2> Kiwa CCV Borg Certificaat of Opleveringsbewijs</h2>
-                                <p>Kiwa CCV Borg Certificaat of Opleveringsbewijs
-                                    Indien alle vereiste beveiligingsmaatregelen uitgevoerd zijn geven wij een Kiwa CCV Borg Certificaat of Opleveringsbewijs af.
+                                <p>
+                                    Indien alle vereiste beveiligingsmaatregelen uitgevoerd zijn, geven wij een Kiwa CCV Borg Certificaat of Opleveringsbewijs af.
                                     Het opleveringsbewijs of certificaat is geldig zolang er geen veranderingen optreden aan de bouwkundige situatie van uw pand.
                                 </p>
                                 <img src="images/beveiliging/NCPErkend.jpg" class="alignleft framed"/>

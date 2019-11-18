@@ -24,8 +24,11 @@
 
         <header>
             <div class="container-fluid expand">
-                    <div class="header-banner col-xs-12" >
-                       <h1 class="header-tekst">Voorkom inbraak, beveilig nu uw woonhuis of bedrijf!</h1>
+                <div class="header-banner col-xs-12" >
+                    <div class="banner-content">
+                        <h1 class="header-tekst">Beveiliging</h1>
+                        <p class="banner-description"> Voorkom inbraak en beveilig uw huis nu!</p>
+                    </div>
                 </div>
             </div>
             
@@ -42,7 +45,7 @@
                                 <h3>Wat doet een meldkamer?</h3>  
                                 <hr class="orange">
                                 <p>Een meldkamer ontvangt alle meldingen die te maken hebben met een alarm of een storing van het alarmsysteem. 
-                                    Zodra er een melding binnenkomt bekijkt de centralist wat er aan de hand is en wie er ingeschakeld moet worden. 
+                                    Zodra er een melding binnenkomt, bekijkt de centralist wat er aan de hand is en wie er ingeschakeld moet worden. 
                                     De medewerkers van de meldkamer nemen indien nodig direct telefonisch contact op met de contactpersonen (sleutelhouders) van het alarmsysteem en kunnen 
                                     gelijk de hulpdiensten inschakelen als er sprake is van een overval, inbraak of brand.
                                 </p> 
@@ -88,12 +91,12 @@
                         </div>
                     </div>
                         <div class="col-md-6">
-                            <h2 class="nospace">Meest voorkomende alarmmeldingen</h2>
-                            <h4>Loze meldingen, door het maken van een foutje bij het binnenkomen of verlaten van de woning</h4>
-                            <h4>Technische storingen, veroorzaakt door bijvoorbeeld stroomuitval</h4>
-                            <h4>Geen doormelding, wanneer de meldkamer geen verbinding heeft met het alarmsysteem</h4>
-                            <h4>Sabotagemeldingen, als er iemand aan een melder zit, het paneel geraakt wordt of trillingen detecteert</h4>
-                            <h4>Bloktijdmelding; wanneer er buiten de opgegeven tijden het alarm in- of uitgeschakeld wordt</h4>
+                            <h2 class="nospace">Meest voorkomende alarmmeldingen.</h2>
+                            <h4>Loze meldingen, door het maken van een foutje bij het binnenkomen of verlaten van de woning.</h4>
+                            <h4>Technische storingen, veroorzaakt door bijvoorbeeld stroomuitval.</h4>
+                            <h4>Geen doormelding, wanneer de meldkamer geen verbinding heeft met het alarmsysteem.</h4>
+                            <h4>Sabotagemeldingen, als er iemand aan een melder zit, het paneel geraakt wordt of trillingen detecteert.</h4>
+                            <h4>Bloktijdmelding; wanneer er buiten de opgegeven tijden het alarm in- of uitgeschakeld wordt.</h4>
                             
                         
                         </div>

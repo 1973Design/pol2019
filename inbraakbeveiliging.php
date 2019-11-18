@@ -23,8 +23,11 @@
 
         <header>
             <div class="container-fluid expand">
-                    <div class="header-banner col-xs-12" >
-                       <h1 class="header-tekst">Voorkom inbraak, beveilig nu uw woonhuis of bedrijf!</h1>
+                <div class="header-banner col-xs-12" >
+                    <div class="banner-content">
+                        <h1 class="header-tekst">Beveiliging</h1>
+                        <p class="banner-description"> Voorkom inbraak en beveilig uw huis nu!</p>
+                    </div>
                 </div>
             </div>
             
@@ -40,16 +43,16 @@
                             <div class="left-column-content">
                                <p class="breadcrumb">Producten<span>/Inbraakbeveiliging</span></p>
                                 <h2> Inbraakbeveiliging</h2>
-                                <p>Met een alarmsysteem wordt uw pand electronisch beveiligd. Een gebruiksvriendelijk codebediendeel zorgt ervoor dat u de alarminstallatie geheel of gedeeltelijk kunt in - en uitschakelen, alarmen van nooddeuren kunt uitschakelen etc. 
+                                <p>Met een alarmsysteem wordt uw pand electronisch beveiligd en kunt u uw bedrijf met een gerust hart achterlaten. Een gebruiksvriendelijk codebediendeel zorgt ervoor dat u de alarminstallatie geheel of gedeeltelijk kunt in- en uitschakelen, alarmen van nooddeuren kunt in- en uitschakelen etc. 
                                     De draadloze en bedrade detectoren zijn voorzien van de modernste electronica en software voor betrouwbare detectie en absoluut ongevoelig voor storingsbronnen. Via internet, GPRS, ISDN, GSM of analoog kunnen de systemen doormelden naar de meldkamer. 
-                                    Inbraak alarmsystemen zijn er in diverse merken en soorten. Ieder merk en systeem met zijn eigen voor- en nadelen.<br/><br/>
+                                    Inbraak alarmsystemen zijn er in diverse merken en soorten. Ieder merk en systeem heeft zijn eigen voor- en nadelen. Poliar Beveiliging kunt u hierin van de juiste informatie voorzien.<br/><br/>
                                     We kunnen de alarmsystemen onderscheiden in 3 groepen :
                                     <ul>
-                                        <li><a href=#kabel">Volledig bekabelde alarm systemen</a></li>
+                                        <li><a href="#kabel">Volledig bekabelde alarm systemen</a></li>
                                         <li><a href="#draadloos">Volledig draadloze alarm systemen</a></li>
                                         <li><a href="#hybride">Hybride alarm systemen, waar een combinatie van draadloos en bekabeld mogelijk is</a></li>
                                     </ul>
-                                
+                                <p> Daarnaast stellen wij een <a href="#beveiligingsplan">beveiligingsplan</a> met u op.</p>
                                     <img src="images/producten/galaxydisplay.png" class="alignleft framed"/>
                                     <h2>Bekabeld alarmsysteem</h2>
                                     Van oorsprong zijn alarmsystemen bekabeld. Dit wil zeggen dat er een centrale unit wordt geïnstalleerd (de zogenaamde alarmcentrale) en dat alle componenten zoals detectoren, bediendelen, sirenes, telefoonlijnen etc. worden verbonden met een alarmkabel. <br/><br/><br/>
@@ -77,10 +80,10 @@
 
                 </div>
                 <div class="row">
-                    <div class="col-md-6">
+                    <div class="col-md-6 col-sm-12">
                         <div class="">
                             <p>
-                                <h2>Draadloos alarmsysteem</h2>
+                                <h2 id="kabel">Draadloos alarmsysteem</h2>
                                         Het spreekt voor zich : draadloze systemen werken draadloos! Alle detectoren, bediendelen, sirenes en dergelijke communiceren draadloos met de alarmcentrale.
                                         De alarmcentrale communiceert meestal ook volledig draadloos met de meldkamer of contactpersonen via het gsm netwerk. 
                                     <h3>Voordelen:</h3>
@@ -100,9 +103,52 @@
                         </div>
             
                     </div>
-                    <div class="col-md-6">
-                        <img src="images/producten/ksenia-alarmbeveiliging.png" alt="Ksenia alarmbeveiliging" title="Ksenia alarmbeveiliging" class= "framed"/>
+                    <div class="col-md-6 col-sm-12">
+                        <img src="images/producten/ksenia-alarmbeveiliging.png" width="100%" alt="Ksenia alarmbeveiliging" title="Ksenia alarmbeveiliging" class= "framed"/>
                     </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-10">
+                        <div class="">
+                            <p>
+                                <h2 id="hybride">Hybride alarmsysteem</h2>
+                                Polair Beveiliging installeert ook hybride alarmsystemen! Deze zijn zeer gebruiksvriendelijk en bieden het beste van 2 werelden! Tevens zijn onze systemen voorzien van de nieuwste technologie en 
+                                uitbreidbaar met diverse apparatuur om het systeem nog veiliger, gebruiksvriendelijker en comfortabeler te maken. 
+                                    <h3>Voordelen:</h3>
+                                    <ul>
+                                    <li>Het beste van beide werelden!;</li>
+                                    <li>Kan volledig bekabeld opgeleverd worden!</li>
+                                    <li>Kan uitgebreid worden met draadloze componenten!</li>
+                                    <li>Luxe uitvoeringen beschikbaar, zoals touch screens, inox design sirenes etc …</li>
+                                    <li>Communicatie mogelijk via PSTN, GSM, GPRS, TCP/IP en zelfs een combinatie van meerdere om een hogere veiligheid te garanderen</li>
+                                    <li>Zeer gebruiksvriendelijke interactieve stemcomputers beschikbaar voor mensen die niet willen aansluiten op een meldkamer</li>
+                                    <li>Mogelijkheid tot verzenden van gedetailleerde sms berichten voor mensen die niet willen aansluiten op een meldkamer</li>
+                                </ul>
+                                <h3>Nadelen:</h3>
+                                <ul>
+                                    <li>Kostbaarder dan een draadloossysteem</li>
+                                </ul>
+                            </p>
+                        </div>
+            
+                    </div>
+                   
+                </div>
+                <div class="row">
+                    <div class="col-md-10">
+                        <div class="">
+                            <p>
+                                <h2 id="beveiligingsplan">Beveiligingsplan</h2>
+                                Er word samen met u een beveiligingsplan opgesteld. Elk object vraagt om een eigen benadering betreffende organisatorische, bouwkundige en electronische maatregelen. 
+                                Dit resulteert in een beveilingsklasse-indeling en een plan van aanpak. Polair Beveiliging werkt met een toonaangevende proffesionele producten, <a href="https://www.honeywell.com/" title="honeywell beveiligingsproducten">Honeywell</a>.
+                                  
+                            </p>
+                            <p>De <a href="https://www.honeywell.com/" title="honeywell beveiligingsproducten">Honeywell</a> producten zijn van zeer goede kwaliteit en voldoen volledig aan de verzekeringseisen. Daarnaast leveren wij ook diverse andere merken beveiligingsproducten voor alle soorten objecten. 
+                                Deze producten hebben vaak minder mogelijkheden en kunnen geplaatst worden als er geen verzekeringeis wordt gesteld. Op een <strong>Honeywell systeem</strong> kan altijd een opleveringsbewijs of certificaat worden afgegeven.</p>
+                        </div>
+            
+                    </div>
+                   
                 </div>
             </div>
         </article>

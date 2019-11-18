@@ -22,13 +22,12 @@
 
         <header>
             <div class="container-fluid expand">
-                <row>
-                    <div class="header-banner inbraak col-xs-12" >
-                       <!--<h1 class="header-tekst">Voorkom inbraak, beveilig nu uw woonhuis of bedrijf!</h1>--> 
-
+                <div class="header-banner col-xs-12" >
+                    <div class="banner-content">
+                        <h1 class="header-tekst">Beveiliging</h1>
+                        <p class="banner-description"> Voorkom inbraak en beveilig uw huis nu!</p>
                     </div>
-
-                </row>
+                </div>
             </div>
             
 
@@ -59,7 +58,7 @@
                                 Hier stemt u in ieder geval mee in op het moment dat wij een overeenkomst aangaan voor meerdere jaren.
                                 </p>
                                 <p>Wij zullen uw gegevens slechts delen met derden indien u daarvoor uitdrukkelijke schriftelijke toestemming hebt gegeven.</p>
-                                <p>Onze website maakt <strong>geen</strong> gebruik van functionele cookies Voor meer info over cookies op de website. <a href="cookies.php">Klik hier</a>.</p>
+                                <p>Onze website maakt <strong>geen</strong> gebruik van functionele cookies. Voor meer info over cookies op de website. <a href="cookies.php">Klik hier</a>.</p>
                                 <p>U heeft de mogelijkheid om uw gegevens bij ons op te vragen, te wijzigen en u kunt ons verzoeken uw gegevens te verwijderen uit ons bestand.
                                     Uw verzoek zal zo spoedig mogelijk verwerkt worden. U kunt hiervoor contact opnemen met:<br/>
                                     <strong>
@@ -67,6 +66,7 @@
                                     Ben Struik<br/>
                                     Bijlestaal 44G, te Broek op Langedijk<br/>
                                     mail@polair.nl<br/>
+                                    </strong>
                                 </p>  
                                 <p>Wij dragen zorg voor een goede beveiliging van de locatie waar wij uw gegevens opslaan. Wij behouden ons het recht voor om de inhoud van dit privacybeleid te allen tijde te wijzigen.</p>  
                                 <p>U kunt voor vragen of opmerkingen gerust contact met ons opnemen door een mail te sturen naar 

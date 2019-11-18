@@ -24,8 +24,11 @@
 
         <header>
             <div class="container-fluid expand">
-                    <div class="header-banner col-xs-12" >
-                       <h1 class="header-tekst">Voorkom inbraak, beveilig nu uw woonhuis of bedrijf!</h1>
+                <div class="header-banner col-xs-12" >
+                    <div class="banner-content">
+                        <h1 class="header-tekst">Beveiliging</h1>
+                        <p class="banner-description"> Voorkom inbraak en beveilig uw huis nu!</p>
+                    </div>
                 </div>
             </div>
 
@@ -42,10 +45,10 @@
                                  
                                 <p> Video en intercom
                                     Intercom systemen zijn uitermate geschikt om vooraf te kijken wie er aan de deur of toegangspoort staat.</p>
-                                <p>
                                 <div class="alignleft framed caption">
-                                    <img src="images/producten/intercom.png" alt="Videosysteem" title="Videosysteem"/>
+                                    <img src="images/producten/intercom.png" width="100%" alt="Videosysteem" title="Videosysteem scherp geprijsd"/>
                                 </div> 
+                                <p>
                                     Het komt wel eens voor dat er 's avonds aangebeld wordt en u twijfelt of u wel of niet open moet doen. Veel mensen gaan uit van de goedheid van de mens en openen zomaar de deur, maar is dit wel verstandig.
                                 </p>   
                                
@@ -67,7 +70,7 @@
                 <div class="row">
                     <div class="col-md-4">
                         <div class="framed caption">
-                             <img src="images/producten/videosysteem.jpg" alt="Videosysteem" title="Videosysteem"/>
+                             <img src="images/producten/videosysteem.jpg" alt="Videosysteem" title="Videosysteem juiste advies"/>
                         </div>
                     </div>
                     <div class="col-md-8 right-align">
@@ -79,8 +82,8 @@
                                 Alle videofoons hebben een bel met meerdere ringtones, die hard en zacht gezet kan worden. Om te praten en luisteren is er een hoorn met spiraalsnoer 
                                 of een luidsprekende handsfree functie. De videofoons hebben een tweede belsignaal voor de eigen deur.</p>
                         <p>Er is een knop om de deur te openen en een knop voor de bewakingsfunctie (beeld aanzetten zonder dat er wordt aangebeld).<br/><br/>
-                                De deurtelefoons geven een heldere en duidelijke spraakverbinding. Ze hebben allemaal meerdere ringtones en het belvolume is instelbaar. 
-                                Hebben een knop voor de deuropener en een knop voor de bewakingsfunctie (geluid aanzetten zonder dat er wordt aangebeld).</p>
+                                De deurtelefoons geven een heldere en duidelijke spraakverbinding. Ze hebben allemaal meerdere ringtones en het belvolume is instelbaar, hebben 
+                                een knop voor de deuropener en een knop voor de bewakingsfunctie (geluid aanzetten zonder dat er wordt aangebeld).</p>
                                 <div class="space"></div>
                     </div>
                 </div>

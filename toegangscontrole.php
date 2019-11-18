@@ -5,7 +5,7 @@
     <title>Polair Beveiliging 2019 - Toegangscontrole</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Polair Beveiliging uw adviseur en installateur op het gebied van beveiliging. Advies - Service - Scherpe prijs">
+    <meta name="description" content="Polair Beveiliging uw adviseur en installateur op het gebied van toegangscontrole op basis van reguliere systemen of biometrie. Advies - Service - Scherpe prijs">
     <meta name="author" content="">
 
 
@@ -23,8 +23,11 @@
 
         <header>
             <div class="container-fluid expand">
-                    <div class="header-banner col-xs-12" >
-                       <h1 class="header-tekst">Voorkom inbraak, beveilig nu uw woonhuis of bedrijf!</h1>
+                <div class="header-banner col-xs-12" >
+                    <div class="banner-content">
+                        <h1 class="header-tekst">Beveiliging</h1>
+                        <p class="banner-description"> Voorkom inbraak en beveilig uw huis nu!</p>
+                    </div>
                 </div>
             </div>
             
@@ -39,17 +42,17 @@
                             <div class="left-column-content">
                             <p class="breadcrumb">Producten<span>/Toegangscontrole</span></p>
                                 <h2>Toegangscontrole</h2>
-                                <div class="alignright framed caption">
-                                    <img src="images/producten/toegangscontrole_deurkaart.jpg" alt="toegangscontrole tag" title="toegangscontrole tag"/>
-                                    <p class="caption-tekst">Toegangscontrole tag</p>
+                                <div class="alignright framed caption mobile-non-view">
+                                    <img src="images/producten/toegangscontrole_deurkaart.jpg" alt="toegangscontrole kaartlezer" title="toegangscontrole kaartlezer"/>
+                                    <p class="caption-tekst ">Toegangscontrole kaartlezer</p>
                                 </div>   
-                                <p>Een toegangscontrolesysteem zorgt ervoor dat u bepaalt wie waar toegang heeft. In de praktijk betekent het vaak dat er op ruimtes die u beveiligd wilt hebben een kaartlezer wordt gemonteerd. 
+                                <p>Een toegangscontrolesysteem zorgt ervoor dat u bepaalt wie waar toegang heeft. In de praktijk betekent het vaak dat er op ruimtes die u beveiligd wilt hebben een kaartlezer of e.d. wordt gemonteerd. 
                                     Afhankelijk van de autorisatie van de badge van de medewerker of bezoeker zal de deur worden geopend. Het is vaak van groot belang dat autorisaties snel en gemakkelijk door u kunnen worden gewijzigd. 
                                     Verder dient het systeem gebruikersvriendelijk te zijn. Veel organisaties hebben behoefte aan een registratie en identificatie van de gebruikers van het systeem. Het wordt dan mogelijk om een overzicht te 
                                     krijgen van wie wanneer een deur geopend heeft. <strong>Polair Beveiliging</strong> biedt naast kaartlezers en identificatie media zoals badges, sleutelhangers en elektronische sleutels ook 
                                     complete oplossingen inclusief de benodigde software. Uitgangspunten bij alle oplossingen zijn dat de systemen modulair, met andere systemen te integreren en vooral gebruikersvriendelijk zijn.
                                 </p>   
-                                <div class="alignleft framed caption">
+                                <div class="alignleft framed caption mobile-non-view">
                                     <img src="images/producten/toegangscontrole_ingang.png" alt="toegangscontrole ingang" title="toegangscontrole ingang"/>
                                 </div> 
                                 <p>
@@ -72,19 +75,19 @@
                 </div>
                 <hr class="orangebold">
                 <div class="row">
-                    <div class="col-md-6">
+                    <div class="col-md-6 col-sm-12">
                         <div class="framed caption">
-                             <img src="images/producten/toegangs-controle.PNG" alt="Toegangscontrole deurkaart" title="Toegangscontrole deurkaart"/>
+                             <img src="images/producten/toegangs-controle.PNG" width="100%" alt="Toegangscontrole deurkaart" title="Toegangscontrole deurkaart"/>
                         </div>
                     </div>
-                        <div class="col-md-6 center">
+                        <div class="col-md-6 col-sm-12 center">
                             <h2>Voordelen:</h2>
                             <h4>U bepaalt wie toegang heeft!</h4>
-                            <h4>Optimale toegangscontrole met biometrie</h4>
-                            <h4>Overal toe te passen</h4>
-                            <h4>Altijd de juiste gegevens</h4>
-                            <h4>Integratie mogelijkheden met andere installaties</h4>
-                            <h4>Totaalbeveiliging naar wens</h4>
+                            <h4>Optimale toegangscontrole met biometrie.</h4>
+                            <h4>Overal toe te passen.</h4>
+                            <h4>Altijd de juiste gegevens.</h4>
+                            <h4>Integratie mogelijkheden met andere installaties.</h4>
+                            <h4>Totaalbeveiliging naar wens.</h4>
                         
                         </div>
                     </div>

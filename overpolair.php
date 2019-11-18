@@ -24,13 +24,12 @@
 
         <header>
             <div class="container-fluid expand">
-                <row>
-                    <div class="header-banner col-xs-12" >
-                    <h1 class="header-tekst">Voorkom inbraak, beveilig nu uw woonhuis of bedrijf!</h1>
-
+                <div class="header-banner col-xs-12" >
+                    <div class="banner-content">
+                        <h1 class="header-tekst">Beveiliging</h1>
+                        <p class="banner-description"> Voorkom inbraak en beveilig uw huis nu!</p>
                     </div>
-
-                </row>
+                </div>
             </div>
             
 
@@ -58,9 +57,14 @@
                                 <P> Kwaliteit en een goed advies staat bij ons hoog in het vaandel. Dat willen wij graag zo houden, omdat wij u op deze manier goed op de hoogte kunnen houden van alle ontwikkelingen 
                                     op beveiligingsgebied en wat voor u van toepassing is in uw situatie. Om onze kwaliteit en vakkennis te waarborgen zijn wij aangesloten bij een aantal branche-organisaties en 
                                     keurmerken. Wij zijn <strong>Kiwa-CCV-NCP erkend en een BORG technisch gecertificeerd beveiligingsbedrijf </strong>. Zo kunt u de beveiliging van uw zaak of huis met een gerust hart uit handen geven.
-                                    Polair Beveiliging werkt ook samen met een antal ondernemers in Alkmaar en omgeving. Op deze manier kunnen we u ook voorzien van een totaal pakket.<br/>
+                                    Polair Beveiliging werkt ook samen met een aantal ondernemers in Alkmaar en omgeving. Op deze manier kunnen we u ook voorzien van een totaal pakket.<br/>
                                     <a href="contact-polairbeveiliging.html">Voor meer informatie, neem contact met ons op</a>
                                 </P>
+                                <p>
+                                    <img src="images/beveiliging/ksenia-alarmbeveiliging.png">
+                                    <img src="images/beveiliging/Honeywell-Galaxy.jpg" >
+                                </P>
+
                                         
 
                             </div>
