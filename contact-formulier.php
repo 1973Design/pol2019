@@ -8,34 +8,21 @@
     <meta name="description" content="Neem contact op met Poalir Beveiliging voor het installeren van een professioneel alarm-, camera-, toegangscontrole-, brandbeveiliging- of buitnebeveiligingssysteem. Expertise - Service - Scherpe prijs">
     <meta name="author" content="">
 
-    <link rel="stylesheet" href="assets/lib/fontawesome/css/all.min.css" />
-    <link rel="stylesheet" href="assets/css/style.css" />
-    <link href="https://fonts.googleapis.com/css?family=Fjalla+One|Open+Sans+Condensed:300|Roboto+Condensed:300, 300i,400,400i,700,700i" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Caveat+Brush&display=swap" rel="stylesheet">
+    <?php include '_link-head.php';?>
     
     
 </head>
 
 <body class="default-page">
     <div class="main">
-        <!-- Navigation -->
+        <header class="fixed-top">
+              <!-- Navigation -->
         <?php include '_navigation.php';?>
-        <!-- END navigatie -->
-
-        <header>
-            <div class="container-fluid expand">
-                <div class="header-banner col-xs-12" >
-                    <div class="banner-content">
-                        <h1 class="header-tekst">Beveiliging</h1>
-                        <p class="banner-description"> Voorkom inbraak en beveilig uw huis nu!</p>
-                    </div>
-                </div>
-            </div>
-            
+        <!-- END navigatie -->      
 
         </header>
-
         <article>
+            <?php include '_banner-quote.php';?>
             <div class="container content-page">
                 <div class="row">
                     <div class="col-sm-12">
@@ -61,6 +48,7 @@
                                                     <option>Buitenbeveiliging</option>
                                                     <option>Intercomsysteem</option>
                                                     <option>Offerte aanvraag</option>
+                                                    <option>Anders...</option>
                                                 </select>
                                             </div>
                                             <div class="form-group">
@@ -70,8 +58,8 @@
                                             <button type="submit" class="btn btn-primary mb-2">Verstuur formulier</button>
                                         </form>
                                     </div>
-                                    <div class="col-md-6">
-                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2418.995171696762!2d4.792879951717665!3d52.67812497974544!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47cf56bb45938539%3A0x20004581daf320b5!2sBijlestaal%2044%2C%201721%20PV%20Broek%20op%20Langedijk!5e0!3m2!1snl!2snl!4v1571137114881!5m2!1snl!2snl" width="500" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+                                    <div class="col-md-6">"
+                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2418.9832872047177!2d4.793334445235046!3d52.67833958985374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47cf56b96d297863%3A0x7370fd6410990d04!2sPolair%20Beveiliging!5e0!3m2!1sen!2snl!4v1574680191837!5m2!1sen!2snl" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe> 
 
                                     </div>
                                 </div>

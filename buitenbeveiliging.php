@@ -9,32 +9,19 @@
     <meta name="author" content="">
 
 
-    <link rel="stylesheet" href="assets/lib/fontawesome/css/all.min.css" />
-    <link rel="stylesheet" href="assets/css/style.css" />
-    <link href="https://fonts.googleapis.com/css?family=Fjalla+One|Open+Sans+Condensed:300|Roboto+Condensed:300, 300i,400,400i,700,700i" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Caveat+Brush&display=swap" rel="stylesheet">
+    <?php include '_link-head.php';?>
 </head>
 
 <body class="default-page">
     <div class="main">
-        <!-- Navigation -->
+        <header class="fixed-top">
+              <!-- Navigation -->
         <?php include '_navigation.php';?>
-        <!-- END navigatie -->
-
-        <header>
-            <div class="container-fluid expand">
-                <div class="header-banner col-xs-12" >
-                    <div class="banner-content">
-                        <h1 class="header-tekst">Beveiliging</h1>
-                        <p class="banner-description"> Voorkom inbraak en beveilig uw huis nu!</p>
-                    </div>
-                </div>
-            </div>
-            
+        <!-- END navigatie -->      
 
         </header>
-
         <article>
+            <?php include '_banner-quote.php';?>
             <div class="container content-page">
                 <div class="row">
                     <div class="col-sm-12 col-md-8">
@@ -62,6 +49,7 @@
                                 Een actief infraroodsysteem werkt met onzichtbare infrarood lichtbanen die, net als bij het radarsysteem, alleen in een rechte lijn kunnen worden opgesteld. Het systeem is niet duur, 
                                 maar vraagt wel relatief veel onderhoud. Bovendien is het gevoelig voor weersinvloeden en kan het last hebben van begroeiing op het terrein. Radar- of infraroodsystemen zijn eenvoudig 
                                 te installeren.</p>
+                                <h3>Meer informatie over buitenbeveiliging? Neem <a href="contact.php">contact</a> met ons op! </h3>
                             </div>
                         </div>
                     </div>
@@ -76,7 +64,7 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="framed caption">
-                             <img src="images/producten/buitenbeveiliging.PNG" alt="Ondergrondse systemen" title="Ondergrondse systemen"/>
+                             <img src="images/producten/buitenbeveiliging.PNG" width="100%" alt="Ondergrondse systemen" title="Ondergrondse systemen"/>
                         </div>
                     </div>
                     <div class="col-md-6 center">
@@ -102,7 +90,7 @@
                     </div>
                     <div class="col-md-6">
                         <div class="framed caption">
-                             <img src="images/producten/hekwerk-beveiliging.png" alt="Hekwerkbeveiliging" title="Hekwerkbeveiliging"/>
+                             <img src="images/producten/hekwerk-beveiliging.jpg" width="100%" alt="Hekwerkbeveiliging" title="Hekwerkbeveiliging"/>
                         </div>
                     </div>
                 </div>

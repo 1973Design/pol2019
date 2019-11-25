@@ -8,34 +8,21 @@
     <meta name="description" content="Neem contact op met Poalir Beveiliging voor het installeren van een professioneel alarm-, camera-, toegangscontrole-, brandbeveiliging- of buitnebeveiligingssysteem. Expertise - Service - Scherpe prijs">
     <meta name="author" content="">
 
-    <link rel="stylesheet" href="assets/lib/fontawesome/css/all.min.css" />
-    <link rel="stylesheet" href="assets/css/style.css" />
-    <link href="https://fonts.googleapis.com/css?family=Fjalla+One|Open+Sans+Condensed:300|Roboto+Condensed:300, 300i,400,400i,700,700i" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Caveat+Brush&display=swap" rel="stylesheet">
+    <?php include '_link-head.php';?>
     
     
 </head>
 
 <body class="default-page">
     <div class="main">
-        <!-- Navigation -->
+        <header class="fixed-top">
+              <!-- Navigation -->
         <?php include '_navigation.php';?>
-        <!-- END navigatie -->
-
-        <header>
-            <div class="container-fluid expand">
-                <div class="header-banner col-xs-12" >
-                    <div class="banner-content">
-                        <h1 class="header-tekst">Beveiliging</h1>
-                        <p class="banner-description"> Voorkom inbraak en beveilig uw huis nu!</p>
-                    </div>
-                </div>
-            </div>
-            
+        <!-- END navigatie -->      
 
         </header>
-
         <article>
+            <?php include '_banner-quote.php';?>
             <div class="container content-page">
                 <div class="row">
                     <div class="col-sm-12">

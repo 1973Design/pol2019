@@ -9,38 +9,24 @@
     <meta name="author" content="">
 
 
-    <link rel="stylesheet" href="assets/lib/fontawesome/css/all.min.css" />
-    <link rel="stylesheet" href="assets/css/style.css" />
-    <link href="https://fonts.googleapis.com/css?family=Fjalla+One|Open+Sans+Condensed:300|Roboto+Condensed:300, 300i,400,400i,700,700i" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Neucha&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Abhaya+Libre&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Caveat+Brush&display=swap" rel="stylesheet">
+    <?php include '_link-head.php';?>
 </head>
 
 <body class="default-page">
     <div class="main">
-        <!-- Navigation -->
+        <header class="fixed-top">
+              <!-- Navigation -->
         <?php include '_navigation.php';?>
-        <!-- END navigatie -->
-
-        <header>
-            <div class="container-fluid expand">
-                <div class="header-banner col-xs-12" >
-                    <div class="banner-content">
-                        <h1 class="header-tekst">Beveiliging</h1>
-                        <p class="banner-description"> Voorkom inbraak en beveilig uw huis nu!</p>
-                    </div>
-                </div>
-            </div>
+        <!-- END navigatie -->      
         </header>
-
         <article>
+            <?php include '_banner-quote.php';?>
             <div class="container content-page">
                 <div class="row">
                     <div class="col-sm-12 col-md-8">
                         <div class="left-column">
                             <div class="left-column-content">
-                            <p class="breadcrumb">Home/<span>Inbraakbeveiliging</span></p>
+                            <p class="breadcrumb">Home/<span> Inbraakbeveiliging</span></p>
                                 <h2>Inbraakbeveiliging particulier</h2> 
                                 <h3>Beveiliging versterkt het gevoel van veiligheid</h3>
                                 <hr class="orange">  
@@ -82,8 +68,8 @@
                                 <p>
                                     Polair Beveiliging werkt met een toonaangevende proffesionele producten:
                                     <ul>
-                                        <li>Honeywell</li>
-                                        <li>Ksenia</li>
+                                        <li><a href="https://www.security.honeywell.com/nl/All-Categories/inbraak-detectie-systemen" title="Honeywell producten voor een optimale beveiliging" target="_blank">Honeywell</a></li>
+                                        <li><a href="https://www.kseniasecurity.com/en"  title="Ksenia Security" target="_blank">Ksenia</a></li>
                                     </ul>
                                 </p>
                               
@@ -101,7 +87,6 @@
                 </div>
                 <div class="row">
                         <div class="col-sm-12">
-                            <div class="space"></div>
                                 <h3>Verzekering</h3>
                                 <hr class="orange">
                                 <p><strong>Polair Beveiliging</strong> werkt nauw samen met bijna alle verzekerings maatschappijen om zo tot een compleet beveiligingsplaatje te komen dat is afgestemd op 

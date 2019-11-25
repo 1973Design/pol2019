@@ -8,32 +8,19 @@
     <meta name="description" content="Polair beveiliging is een professioneel onafhankelijk NCP erkend BORG Technisch Beveiligingsbedrijf met meer dan 20 jaar ervaring. Betrouwbaarheid - NCP gecertificeerd - Scherpe prijs">
     <meta name="author" content="">
 
-
-    <link rel="stylesheet" href="assets/lib/fontawesome/css/all.min.css" />
-    <link rel="stylesheet" href="assets/css/style.css" />
-    <link href="https://fonts.googleapis.com/css?family=Fjalla+One|Open+Sans+Condensed:300|Roboto+Condensed:300, 300i,400,400i,700,700i" rel="stylesheet">
+    <?php include '_link-head.php';?>
 </head>
 
 <body class="default-page">
     <div class="main">
-        <!-- Navigation -->
+        <header class="fixed-top">
+              <!-- Navigation -->
         <?php include '_navigation.php';?>
-        <!-- END navigatie -->
-
-        <header>
-            <div class="container-fluid expand">
-                <div class="header-banner col-xs-12" >
-                    <div class="banner-content">
-                        <h1 class="header-tekst">Beveiliging</h1>
-                        <p class="banner-description"> Voorkom inbraak en beveilig uw huis nu!</p>
-                    </div>
-                </div>
-            </div>
-            
+        <!-- END navigatie -->      
 
         </header>
-
         <article>
+            <?php include '_banner-quote.php';?>
             <div class="container content-page">
                 <div class="row">
                     <div class="col-sm-12">

@@ -9,45 +9,32 @@
     <meta name="author" content="">
 
 
-    <link rel="stylesheet" href="assets/lib/fontawesome/css/all.min.css" />
-    <link rel="stylesheet" href="assets/css/style.css" />
-    <link href="https://fonts.googleapis.com/css?family=Fjalla+One|Open+Sans+Condensed:300|Roboto+Condensed:300, 300i,400,400i,700,700i" rel="stylesheet">
+    <?php include '_link-head.php';?>
 </head>
 
 <body class="default-page">
     <div class="main">
-        <!-- Navigation -->
+        <header class="fixed-top">
+              <!-- Navigation -->
         <?php include '_navigation.php';?>
-        <!-- END navigatie -->
-
-        <header>
-            <div class="container-fluid expand">
-                <div class="header-banner col-xs-12" >
-                    <div class="banner-content">
-                        <h1 class="header-tekst">Beveiliging</h1>
-                        <p class="banner-description"> Voorkom inbraak en beveilig uw huis nu!</p>
-                    </div>
-                </div>
-            </div>
-            
+        <!-- END navigatie -->      
 
         </header>
-
         <article>
+            <?php include '_banner-quote.php';?>
             <div class="container content-page">
                 <div class="row">
                     <div class="col-sm-12">
                         <div class="left-column">
                             <div class="left-column-content">
                                 <h2> Cookie policy Polair Beveiliging</h2>
-                                <p>Polair Beveiliging maakt op de website Polair.nl gebruik van niet-functionele cookies. Dit zijn kleine informatiebestanden die bij een bezoek aan de website worden opgeslagen op jouw computer. 
+                                <p>Polair Beveiliging maakt op de website Polair.nl momenteel geen gebruik van cookies. Dit zijn kleine informatiebestanden die bij een bezoek aan de website worden opgeslagen op jouw computer. 
                                     Cookies maken het mogelijk om een website goed te laten werken en inzicht te krijgen in het bezoekgedrag op de website. Met deze informatie kunnen de webdiensten en jouw 
                                     gebruikerservaring van een website worden verbeterd. Cookies brengen de veiligheid van je computer niet in gevaar.
                                 </p>
-                                <h4>Kom in actie</h4>
+                                <h4> Cookie policy </h4>
                                 <p>
-                                Cookie policy Polair Beveiliging
-                                Polair Beveiliging maakt op de website Polair.nl gebruik van cookies. Dit zijn kleine informatiebestanden die bij een bezoek aan de website worden opgeslagen op jouw computer. Cookies maken het mogelijk om een website goed te laten werken en inzicht te krijgen in het bezoekgedrag op de website. Met deze informatie kunnen de webdiensten en jouw gebruikerservaring van een website worden verbeterd. Cookies brengen de veiligheid van je computer niet in gevaar.
+                                 Cookies maken het mogelijk om een website goed te laten werken en inzicht te krijgen in het bezoekgedrag op de website. Met deze informatie kunnen de webdiensten en jouw gebruikerservaring van een website worden verbeterd. Cookies brengen de veiligheid van je computer niet in gevaar.
                                 Je kan cookies altijd zelf van je computer verwijderen. Kijk hiervoor onder ‘Internet Opties’ in je browser (de Help functie in je browser kan je hierbij helpen). Als je ervoor kiest om cookies te verwijderen zal de website mogelijk niet meer optimaal functioneren en kun je van sommige diensten geen gebruik maken.
                                 </p>
                                 <h4>Functionele en niet-functionele cookies</h4>

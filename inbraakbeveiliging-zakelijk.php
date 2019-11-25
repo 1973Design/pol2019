@@ -9,38 +9,25 @@
     <meta name="author" content="">
 
 
-    <link rel="stylesheet" href="assets/lib/fontawesome/css/all.min.css" />
-    <link rel="stylesheet" href="assets/css/style.css" />
-    <link href="https://fonts.googleapis.com/css?family=Fjalla+One|Open+Sans+Condensed:300|Roboto+Condensed:300, 300i,400,400i,700,700i" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Neucha&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Abhaya+Libre&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Caveat+Brush&display=swap" rel="stylesheet">
+    <?php include '_link-head.php';?>
 </head>
 
 <body class="default-page">
     <div class="main">
-        <!-- Navigation -->
+        <header class="fixed-top">
+              <!-- Navigation -->
         <?php include '_navigation.php';?>
-        <!-- END navigatie -->
+        <!-- END navigatie -->      
 
-        <header>
-            <div class="container-fluid expand">
-                <div class="header-banner col-xs-12" >
-                    <div class="banner-content">
-                        <h1 class="header-tekst">Beveiliging</h1>
-                        <p class="banner-description"> Voorkom inbraak en beveilig uw huis nu!</p>
-                    </div>
-                </div>
-            </div>
         </header>
-
         <article>
+            <?php include '_banner-quote.php';?>
             <div class="container content-page">
                 <div class="row">
                     <div class="col-sm-12 col-md-8">
                         <div class="left-column">
                             <div class="left-column-content">
-                            <p class="breadcrumb">Home/<span>Inbraakbeveiliging</span></p>
+                            <p class="breadcrumb">Home/<span> Inbraakbeveiliging</span></p>
                                 <h2>Inbraakbeveiliging Zakelijk</h2> 
                                 <h3>Uitgangspunten inbraakbeveiliging</h3>
                                 <hr class="orange">  
@@ -61,14 +48,13 @@
                                 </div>
                                 <p>
                                     Er word samen met u een beveiligingsplan opgesteld. Elk object vraagt om een eigen benadering betreffende organisatorische, bouwkundige en electronische maatregelen. 
-                                    Dit resulteert in een beveilingsklasse-indeling en een plan van aanpak. <STRONG>Polair Beveiliging</STRONG> werkt met een toonaangevende proffesionele product, <a href="https://www.security.honeywell.com/nl/All-Categories/inbraak-detectie-systemen" title="honeywell security systems">Honeywell</a>.
-                                    De <a href="https://www.honeywellhome.com/en/products/security-alarm-solutions" title="honeywell security systems">Honeywell</a> producten zijn van zeer goede kwaliteit en voldoen volledig aan de verzekeringseisen. Daarnaast leveren wij ook diverse andere merken 
-                                    beveiligingsproducten voor alle soorten objecten. Deze producten hebben vaak minder mogelijkheden en kunnen geplaatst worden als er geen verzekeringeis 
-                                    wordt gesteld. Op een <strong>Honeywell systeem</strong> kan altijd een opleveringsbewijs of certificaat worden afgegeven.
-                                    Een greep uit diverse merken beveiligingsproducten:
+                                    Dit resulteert in een beveilingsklasse-indeling en een plan van aanpak. <STRONG>Polair Beveiliging</STRONG> werkt met een toonaangevende proffesionele product, <a href="https://www.security.honeywell.com/nl/All-Categories/inbraak-detectie-systemen" title="honeywell security systems" target="_blank">Honeywell</a> en <a href="https://www.kseniasecurity.com/en"  title="Ksenia Security" target="_blank">Ksenia</a>.
+                                    De <a href="https://www.honeywellhome.com/en/products/security-alarm-solutions" title="honeywell security systems">Honeywell</a> producten zijn van zeer goede kwaliteit en voldoen volledig aan de verzekeringseisen. Daarnaast leveren wij ooka het merk  <a href="https://www.kseniasecurity.com/en"  title="Ksenia Security" target="_blank">Ksenia</a>
+                                    beveiligingsproducten. Ksenia is momenteel een vooruitstrevend product op de beveiligingsmarkt. Ksenia kan je de Tesla binnen de beveiligingsmarkt noemen. Wij leggen u graag de mogelijkheden van dit product uit. Ook voor <a href="https://www.kseniasecurity.com/en"  title="Ksenia Security" target="_blank">Ksenia</a> kan altijd een opleveringsbewijs of certificaat worden afgegeven.
+                                   
                                     <ul>
-                                        <li><a href="https://www.security.honeywell.com/nl/All-Categories/inbraak-detectie-systemen" title="Honeywell producten voor een optimale beveiliging">Honeywell</a></li>
-                                        <li><a href="">Ksenia</a></li>
+                                        <li><a href="https://www.security.honeywell.com/nl/All-Categories/inbraak-detectie-systemen" title="Honeywell producten voor een optimale beveiliging" target="_blank">Honeywell</a></li>
+                                        <li><a href="https://www.kseniasecurity.com/en"  title="Ksenia Security" target="_blank">Ksenia</a></li>
                                     </ul>
                                 </p>
 
@@ -102,7 +88,7 @@
                                 Bij een inbraak-, brand- of technischalarm worden direct de sleutelhouders gewaarschuwd, ook kan een surveillant ter plaatse
                                 worden gezonden om de situatie te beoordelen en eventueel hulpdiensten in te schakelen.
                                 </p>
-                                <p><strong>Polair Beveiliging</strong> is erkend installateur van de volgende systemen:?????</p>
+                                <p><strong>Polair Beveiliging</strong> is erkend installateur van de volgende systemen: <strong>Honeywell</strong> en<strong>Ksenia</strong>. Daarnaast hanteert Polair ook ander gewenste systemen.</p>
                                 
     
                         </div>

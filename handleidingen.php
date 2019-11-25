@@ -11,31 +11,19 @@
 
     <link rel="stylesheet" href="assets/lib/fontawesome/css/all.min.css" />
    
-    <link rel="stylesheet" href="assets/css/style.css" />
-    <link href="https://fonts.googleapis.com/css?family=Fjalla+One|Open+Sans+Condensed:300|Roboto+Condensed:300, 300i,400,400i,700,700i" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Caveat+Brush&display=swap" rel="stylesheet">
+    <?php include '_link-head.php';?>
 </head>
 
 <body class="default-page">
     <div class="main">
-        <!-- Navigation -->
+        <header class="fixed-top">
+              <!-- Navigation -->
         <?php include '_navigation.php';?>
-        <!-- END navigatie -->
-
-        <header>
-            <div class="container-fluid expand">
-                <div class="header-banner col-xs-12" >
-                    <div class="banner-content">
-                        <h1 class="header-tekst">Beveiliging</h1>
-                        <p class="banner-description"> Voorkom inbraak en beveilig uw huis nu!</p>
-                    </div>
-                </div>
-            </div>
-            
+        <!-- END navigatie -->      
 
         </header>
-
         <article>
+            <?php include '_banner-quote.php';?>
             <div class="container content-page">
                 <div class="row">
                     <div class="col-sm-12 col-md-8">
@@ -46,10 +34,11 @@
                                 <p>Hieronder kan je verschillend handleidingen downloaden. Mocht je een handleiding missen neem dan <a href="#">contact</a> met ons op.
                                 </p>
                                 <ul class="download">
-                                    <li class="downloadpdf"><a href="#" > item1</a></li>
-                                    <li class="downloadpdf"><a href="#"> item2</a></li>
-                                    <li class="downloadpdf"><a href="#"> item3</a></li>
-                                    <li class="downloadpdf"><a href="#"> item4</a></li>
+                                    <li class="downloadpdf"><a href="docs/Galaxy-dimension.pdf" target="_blank">Galaxy Dimension</a></li>
+                                    <li class="downloadpdf"><a href="docs/Galaxy-flex-flexplus.pdf" target="_blank"> Galaxy Flex en Flex plus</a></li>
+                                    <li class="downloadpdf"><a href="docs/Ksenia-documentatie.pdf" target="_blank"> Ksenia documentatie</a></li>
+                                    
+                                  
                                 </ul>
                                 
                                 

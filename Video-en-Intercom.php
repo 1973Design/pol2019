@@ -9,32 +9,20 @@
     <meta name="author" content="">
 
 
-    <link rel="stylesheet" href="assets/lib/fontawesome/css/all.min.css" />
-    <link rel="stylesheet" href="assets/css/style.css" />
-    <link href="https://fonts.googleapis.com/css?family=Fjalla+One|Open+Sans+Condensed:300|Roboto+Condensed:300, 300i,400,400i,700,700i" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Caveat+Brush&display=swap" rel="stylesheet">
+    <?php include '_link-head.php';?>
 
 </head>
 
 <body class="default-page">
     <div class="main">
-        <!-- Navigation -->
+        <header class="fixed-top">
+              <!-- Navigation -->
         <?php include '_navigation.php';?>
-        <!-- END navigatie -->
-
-        <header>
-            <div class="container-fluid expand">
-                <div class="header-banner col-xs-12" >
-                    <div class="banner-content">
-                        <h1 class="header-tekst">Beveiliging</h1>
-                        <p class="banner-description"> Voorkom inbraak en beveilig uw huis nu!</p>
-                    </div>
-                </div>
-            </div>
+        <!-- END navigatie -->      
 
         </header>
-
         <article>
+            <?php include '_banner-quote.php';?>
             <div class="container content-page">
                 <div class="row">
                     <div class="col-sm-12 col-md-8">
@@ -68,23 +56,25 @@
                 </div>
                 <hr class="orangebold">
                 <div class="row">
-                    <div class="col-md-4">
-                        <div class="framed caption">
-                             <img src="images/producten/videosysteem.jpg" alt="Videosysteem" title="Videosysteem juiste advies"/>
-                        </div>
-                    </div>
-                    <div class="col-md-8 right-align">
-                        <h2 class="nospace">videofoons en deurtelefoons</h2>
-                        <p>Een intercom installatie heeft binnen een videofoon of een deurtelefoon. Als er aangebeld wordt, gaat de videofoon over, het scherm laat zien wie er aanbelt, 
-                                je kan praten met de bezoeker en de deur openen. Bij een deurtelefoon kan je alleen praten en de deur openen. 
-                                Intercom systemen van Polair Beveiliging zijn volledig gedigitaliseerd in beeld en geluid.</p>
-                        <p>De videofoons hebben een scherm dat haarscherp in kleuren of zwart/wit toont wie er voor de deur staat. 
-                                Alle videofoons hebben een bel met meerdere ringtones, die hard en zacht gezet kan worden. Om te praten en luisteren is er een hoorn met spiraalsnoer 
-                                of een luidsprekende handsfree functie. De videofoons hebben een tweede belsignaal voor de eigen deur.</p>
-                        <p>Er is een knop om de deur te openen en een knop voor de bewakingsfunctie (beeld aanzetten zonder dat er wordt aangebeld).<br/><br/>
-                                De deurtelefoons geven een heldere en duidelijke spraakverbinding. Ze hebben allemaal meerdere ringtones en het belvolume is instelbaar, hebben 
-                                een knop voor de deuropener en een knop voor de bewakingsfunctie (geluid aanzetten zonder dat er wordt aangebeld).</p>
+                    <div class="col-md-6 right-align">
+                        <h2 class="nospace">Intercomsystemen</h2>
+                        <p>Intercomsysteemen zijn ideaal voor grote bedrijven en wooncomplexen die alleen welkome gasten willen binnenlaten. 
+                            Via een spraak- of spraak-beeldverbinding ziet en hoort u wie zich meldt. Op afstand kunt u toegang verlenen.</p>
+                        <p>Op het gebied van intercomsystemen is een behoorlijke innovatie gaande, waardoor het nu al mogelijk is het beeld op de iPhone of iPad te zien en zelfs uw inrijpoort, schuifpoort of deur te openen. 
+                            <strong>Polair Beveiliging</strong> speelt in op deze innovatie, waardoor zij het mogelijk heeft gemaakt om zelfs garagedeuren, verlichting aan te sturen met eerder 
+                            genoemde producten, voor de verlichting is een domotica-systeem onmisbaar. 
+                            Wij kunnen u voorzien van de juiste informatie en mogelijkheden.</p>
+                        <p>Toegang verlenen op afstand, is zeer functioneel als u veel op pad bent, maar wel regelmatig gasten of bezoekers 
+                            toegang wilt verlenen. Van pakketbezorger tot familielid: u bepaalt in enkele seconden of een persoon entree krijgt tot uw ruimte.</p>
+                        <p> Standaard zijn onze systemen ook te koppelen aan uw telefooncentrale of VoIP-omgeving. Hierdoor kan het systeem geïntegreerd worden met uw bestaande infrastructuur.</p>
+                        <h3>Meer informatie over intercomsystemen? Neem <a href="contact.php">contact op!</a></h3>
+
                                 <div class="space"></div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="framed caption">
+                             <img src="images/producten/intercomsysteem.jpg" width="100%" alt="Videosysteem" title="Videosysteem juiste advies"/>
+                        </div>
                     </div>
                 </div>
             </div>

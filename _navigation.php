@@ -41,11 +41,11 @@
                 </a>
                             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownProducten">
                                 <a class="dropdown-item" href="inbraakbeveiliging.php">Inbraakbeveiliging</a>
-                                <a class="dropdown-item" href="branddetectie.php">Brandbeveiliging</a>
                                 <a class="dropdown-item" href="toegangscontrole.php">Toegangscontrole</a>
                                 <a class="dropdown-item" href="camerasystemen.php">Camerasysteem</a>
                                 <a class="dropdown-item" href="buitenbeveiliging.php">Buitenbeveiliging</a>
                                 <a class="dropdown-item" href="Video-en-Intercom.php">Intercomsystemen</a>
+                                <a class="dropdown-item" href="branddetectie.php">Brandbeveiliging</a>
                             </div>
                         </li>
                         <li class="nav-item">
@@ -58,7 +58,7 @@
                             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownService">
                                 <a class="dropdown-item" href="service-en-onderhoud.php">Welke service biedt Polair?</a>
                                 <a class="dropdown-item" href="PolairBorgcertificaat.php">KIWA CCV Borg certificaat</a>
-                                <a class="dropdown-item" href="Polair-storingen.php">Storingen</a>
+                                <a class="dropdown-item" href="beveiligingssysteem-hulp-op-afstand.php">Hulp op afstand</a>
                                 <a class="dropdown-item" href="Polair-overname-alarmsysteem.php">Overnamen systeem</a>
                             </div>
                         </li>

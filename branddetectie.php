@@ -9,10 +9,7 @@
     <meta name="author" content="">
 
 
-    <link rel="stylesheet" href="assets/lib/fontawesome/css/all.min.css" />
-    <link rel="stylesheet" href="assets/css/style.css" />
-    <link href="https://fonts.googleapis.com/css?family=Fjalla+One|Open+Sans+Condensed:300|Roboto+Condensed:300, 300i,400,400i,700,700i" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Caveat+Brush&display=swap" rel="stylesheet">
+    <?php include '_link-head.php';?>
 </head>
 
 <body class="default-page">
@@ -20,7 +17,6 @@
         <!-- Navigation -->
         <?php include '_navigation.php';?>
         <!-- END navigatie -->
-
         <header>
             <div class="container-fluid expand">
                 <div class="header-banner col-xs-12" >
@@ -30,8 +26,6 @@
                     </div>
                 </div>
             </div>
-            
-
         </header>
 
         <article>
@@ -49,21 +43,6 @@
                                     In de praktijk duurt het vaak langer om alle gezinsleden wakker te maken en in veiligheid te brengen.<br/>
                                     Het is een must om iets aan branddetectie te doen!
                                 </p>
-                                <h4>Branddetectiesystemen zijn te verdelen in een aantal producten;</h4>
-                                <p>
-                                Branddetectiesystemen zijn te verdelen in een aantal producten;
-                                    <ul>
-                                         <li>Draadloze of bedrade rookmelders</li>
-                                         <li>Brandmelders of hittemelders</li>
-                                         <li>Koolmonoxidemelders of andere gasmelders</li>
-                                    </ul>
-                                    Al deze melders zijn zowel aan te sluiten op een inbraakcentrale als op een brandmeldcentrale met doormelding naar een meldkamer of mobiele telefoon.<br/>
-                                    Voor elk van deze producten hebben wij een ruim assortiment van artikelen die in ieders budget passen. Wij adviseren u graag en installeren het op 
-                                    de meest preventieve plaatsen, zodat u onbezorgd kunt genieten van uw nachtrust.<br/>
-                                    <strong>Tip:</strong> schaf in aanvulling op een branddetectiesysteem ook een branddeken en een brandblusser aan. Hiermee kunt u zelf onnodig veel schade voorkomen.
-                                </p>
-                                        
-
                             </div>
                         </div>
                     </div>
@@ -73,6 +52,37 @@
                         <!-- end right column -->
                     </div>
 
+                </div>
+                <div class="row">
+                    <div class="col-sm-12 col-md-12">
+                        <div class="alignleft framed caption">
+                            <img src="images/producten/Noodverlichting.jpg" width="100%" alt="Videosysteem" title="Videosysteem juiste advies"/>
+                         </div>
+                            <h4>Branddetectiesystemen zijn te verdelen in een aantal producten;</h4>
+                            <p>
+                            Branddetectiesystemen zijn te verdelen in een aantal producten; </p>
+                                 <ul>
+                                    <li>Draadloze of bedrade rookmelders</li>
+                                    <li>Brandmelders of hittemelders</li>
+                                    <li>Koolmonoxidemelders of andere gasmelders</li>
+                                </ul>
+                            <p> Al deze melders zijn zowel aan te sluiten op een inbraakcentrale als op een brandmeldcentrale met doormelding naar een meldkamer of mobiele telefoon.<br/>
+                                Voor elk van deze producten hebben wij een ruim assortiment van artikelen die in ieders budget passen. Wij adviseren u graag en installeren het op 
+                                de meest preventieve plaatsen, zodat u onbezorgd kunt genieten van uw nachtrust.<br/>
+                            <strong>Tip:</strong> schaf in aanvulling op een branddetectiesysteem ook een branddeken en een brandblusser aan. Hiermee kunt u zelf onnodig veel schade voorkomen.</p>
+
+                    </div>
+                </div>
+                <div class="space"></div>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <h4>Noodverlichting</h4>
+                            <p>In geval van een calamiteit mogen uw werknemers, klanten of bezoekers niet in het duister tasten naar een veilig heenkomen.
+                                Met (wettelijk verplichte) noodverlichting blijven looproutes en uitgangen onder alle omstandigheden verlicht</p>
+                            <p>Noodverlichting wordt automatisch ingeschakeld bij het uitvallen van elektriciteit. 
+                                Zo kunnen mensen processen veilig beëindigen en de dichtstbijzijnde nooduitgang vinden. Ook bij brand en rook is noodverlichting van grote waarde voor de veiligheid.</p>
+                            <h3>Meer informatie over branddetectie of noodverlichting? Neem <a href="contact.php">contact</a> met ons op! </h3>
+                    </div>
                 </div>
             </div>
         </article>

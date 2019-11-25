@@ -3,21 +3,20 @@
         <div class="footernav">
             <ul class="list ">
                 <li><a href="index.php">Home</a></li>
-                <li><a href="#">Contact</a></li>
+                <li><a href="contact.php">Contact</a></li>
                 <li><a href="cookies.php">Cookies</a></li>
                 <li><a href="privacy.php">Privacy beleid</a></li>
-                <li><a href="https://www.youtube.com/channel/UCe_Ur5y4WGwOzbz2JmgTrng" target="_blank">Polair op youtube</a></li>
+                <li><a href="https://www.youtube.com/channel/UCe_Ur5y4WGwOzbz2JmgTrng" target="_blank" title="Polair youtube kanaal">Polair op youtube</a></li>
                 <li><a href="docs/NCP-certificaat.pdf" target="_blank">NCP Certificaat</a></li>
-                <li><a href="#">Handleidingen</a></li>
-                <li><a href="https://www.kseniasecurity.com/en" target="_blank">Ksenia</a></li>
-                <li><a href="https://www.security.honeywell.com/nl">Honeywell</a></li>
-                <li><a href="#">Galaxy Honeywell</a></li>
-                <li><a href="#">Camerasystemen</a></li>
-                <li><a href="Beveiliging-NoordHolland.php">Beveiliging Noord Holland</a></li>
-                <li><a href="Beveiliging-ZuidHolland.php">Beveiliging Zuid Holland</a></li>
-                <li><a href="Beveiliging-Flevoland.php">Beveiliging Flevoland</a></li>
-                <li><a href="Beveiliging-Utrecht.php">Beveiliging Utrecht</a></li>
-                <li class="last"><a href="Beveiliging-per-regio.php">Beveiliging per regio</a></li>
+                <li><a href="handleidingen.php">Handleidingen</a></li>
+                <li><a href="https://www.kseniasecurity.com/en" target="_blank" title="Ksenia alarmsysteem">Ksenia</a></li>
+                <li><a href="https://www.security.honeywell.com/nl" target="_blank" title="honeywell alarmsysteem">Honeywell</a></li>
+                <li><a href="camerasystemen.php">Camerasystemen</a></li>
+                <li><a href="Beveiliging-NoordHolland.php" title="Beveiliging in Noord Holland">Beveiliging Noord Holland</a></li>
+                <li><a href="Beveiliging-ZuidHolland.php" title="Beveiliging in Zuid Holland">Beveiliging Zuid Holland</a></li>
+                <li><a href="Beveiliging-Flevoland.php" title="Beveiliging in Flevoland">Beveiliging Flevoland</a></li>
+                <li><a href="Beveiliging-Utrecht.php" title="Beveiliging in Utrecht">Beveiliging Utrecht</a></li>
+                <li class="last"><a href="Beveiliging-per-regio.php" title="Beveiliging per regio">Beveiliging per regio</a></li>
             </ul>
         </div>
     </div>

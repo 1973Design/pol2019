@@ -1,6 +1,6 @@
 // --- Config --- //
 var purecookieTitle = "Cookies."; // Title
-var purecookieDesc = "Wij gebruiken cookies om de website goed te laten werken en om volledig anoniem het gebruik van onze website te analyseren."; // Description
+var purecookieDesc = "Wij gebruiken momenteel geen cookies op onze website."; // Description - Wij gebruiken geen cookies om de website goed te laten werken en om volledig anoniem het gebruik van onze website te analyseren
 var purecookieLink = '<a href="cookies.php" target="_blank">Bekijk hier het cookiebeleid</a>'; // Cookiepolicy link
 var purecookieButton = "Ik heb het begrepen"; // Button text
 // ---        --- //
