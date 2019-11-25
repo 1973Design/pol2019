@@ -28,4 +28,16 @@
     .top-banner, .mobile-non-view, .right-column {
         display: none;
     }
+
+    .banner-content{
+        margin-left: 50%;
+        max-width: 50%;
+    
+    }
+    .top{
+        margin-top:80px;
+    }
+    .iframe-width{
+        width:100%; 
+    }
 }

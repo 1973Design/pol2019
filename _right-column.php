@@ -2,8 +2,8 @@
     <div class="right-column-item top">
     <button class="accordion">Nieuws</button>
         <div class="panel">
-            <p>Polair Beveiliging installateur van Ksenia alarmcentrales. De Tesla op het gebied van alarmsystemen!
-            </p> <a href="https://www.kseniasecurity.com/en" target="_blank" class="no-underline" title="Polair Beveiliging installateur van Ksenia alarmcentrales">Meer informatie</a>
+            <p>Houd inbrekers buiten de deur tijdens de donkere dagen
+            </p> <a href="nieuws-over-beveiliging.php" class="no-underline" title="Polair Beveiliging - nieuws over beveiliging">Meer informatie</a>
             <hr class="style-line">
         </div>
                                   

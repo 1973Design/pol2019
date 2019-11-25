@@ -30,6 +30,8 @@ body {
     font-family: 'OpenSans', sans-serif;
     font-size: 0.875rem;
     margin: 0 auto;
+    left:0;
+    right:0;
 }
 
 p {
@@ -53,6 +55,8 @@ strong {
 .container-fluid {
     margin: 0px auto;
     padding: 0px;
+    left:0;
+    right:0;
 }
 
 .default-page {
@@ -140,8 +144,6 @@ h2.ncp {
     xfont-size: 1.5rem;
 }
 
-
-
 h4,h3 {
     font-size: 1.2em;
     color: #FFA05C;
@@ -153,9 +155,6 @@ h4,h3 {
 .white {
     color: rgba(255, 255, 255, 0.8);
 }
-
-
-
 .banner-content{
     margin-left: 75%;
     max-width: 50%;
@@ -251,6 +250,7 @@ h3.right-block {
  .header-banner {
    height: 200px;
     background:url(../../images/beveiliging/alarmbeveiliging-banner.jpg) no-repeat center center;
+    background-color: #a9b78e;
 }
 
 .bg-banner{
@@ -295,9 +295,7 @@ div.header-banner img {
     fill: #e84922;
 }
 
-article div.container-fluid {
-    padding: 0px;
-}
+
 
 .wrapper {
     display: flex;
@@ -332,8 +330,6 @@ article div.container-fluid {
     float: left;
     margin-right: 0.5em;
 }
-
-.cards .card {}
 
 /*projects*/
 .project-polair{
@@ -673,4 +669,8 @@ p.breadcrumb span {
     margin-top: 10px;
     float: right;
     margin-right: 15px;
+}
+.iframe-width{
+    width:560px; 
+    height:315px;
 }

@@ -19,7 +19,6 @@
               <!-- Navigation -->
         <?php include '_navigation.php';?>
         <!-- END navigatie -->      
-
         </header>
         <article>
             <?php include '_banner-quote.php';?>
@@ -59,7 +58,7 @@
                                         </form>
                                     </div>
                                     <div class="col-md-6">"
-                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2418.9832872047177!2d4.793334445235046!3d52.67833958985374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47cf56b96d297863%3A0x7370fd6410990d04!2sPolair%20Beveiliging!5e0!3m2!1sen!2snl!4v1574680191837!5m2!1sen!2snl" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe> 
+                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2418.9832872047177!2d4.793334445235046!3d52.67833958985374!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47cf56b96d297863%3A0x7370fd6410990d04!2sPolair%20Beveiliging!5e0!3m2!1sen!2snl!4v1574680191837!5m2!1sen!2snl"  class="iframe-width" frameborder="0" style="border:0;" allowfullscreen=""></iframe> 
 
                                     </div>
                                 </div>
@@ -70,7 +69,7 @@
                 </div>
             </div>
         </article>
-
+        <?php include '_blue-footer-empty.php';?>
         <footer>
         <?php include '_footer.php';?>
         </footer>

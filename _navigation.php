@@ -69,6 +69,7 @@
                             <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownInformatie">
                                 <a class="dropdown-item" href="handleidingen.php">Handleidingen</a>
                                 <a class="dropdown-item" href="Live-view.php">Live view</a>
+                                <a class="dropdown-item" href="nieuws-over-beveiliging.php">Beveiligingsnieuws</a>
                             </div>
                         </li>
                         <li class="nav-item dropdown">

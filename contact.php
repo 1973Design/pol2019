@@ -75,7 +75,7 @@
                 </div>
             </div>
         </article>
-
+        <?php include '_blue-footer-empty.php';?>
         <!-- Footer-->
 
         <footer>

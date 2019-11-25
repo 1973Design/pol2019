@@ -9,35 +9,24 @@
     <meta name="author" content="">
 
 
-    <link rel="stylesheet" href="assets/lib/fontawesome/css/all.min.css" />
-    <link rel="stylesheet" href="assets/css/style.css" />
-    <link href="https://fonts.googleapis.com/css?family=Fjalla+One|Open+Sans+Condensed:300|Roboto+Condensed:300, 300i,400,400i,700,700i" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Caveat+Brush&display=swap" rel="stylesheet">
+    <?php include '_link-head.php';?>
 </head>
 
 <body class="default-page">
-    <div class="main"> 
+<div class="main">
         <header class="fixed-top">
-            <!-- Navigation -->
-            <?php include '_navigation.php';?>
-            <!-- END navigatie -->      
+              <!-- Navigation -->
+        <?php include '_navigation.php';?>
+        <!-- END navigatie -->      
 
         </header>
         <article>
-            <div class="container-fluid">
-                <div class="header-banner col-xs-12 top" >
-                    <div class="banner-content">
-                      <h1 class="header-tekst">Beveiliging</h1>
-                      <p class="banner-description"> Voorkom inbraak en beveilig uw huis nu!</p>
-                    </div>
-                </div>
-            </div>
-        <article>
+            <?php include '_banner-quote.php';?>
             <div class="container content-page">
                 <div class="row">
                 <div class="col-sm-12">
                     <h2>Bedrijven beveiligen</h2>
-                      <img src="images/projecten/bedrijven-algemeen.png" alt="Polair adviseert op gebied van beveiliging van uw bedrijfs pan" class="center"/>         
+                      <img src="images/projecten/bedrijven-algemeen.png" width="100%" alt="Polair adviseert op gebied van beveiliging van uw bedrijfs pan" class="center"/>         
                         <p> <strong>Polair Beveiliging</strong> heeft in de afgelopen 20 jaar een diversiteit aan bedrijven beveiligt. Van kleine winkeltjes tot grotere filialen. <br/>
                         Wij kunnen u voorzien van de juiste informatie betreffende regelgeving en verzekeringseisen. Daarnaast voorzien wij u van alle informatie op het gebeid van beveiliging van uw pand.</p>
                         Voor advies of een offerte neem <a href="contact.php">contact</a> met ons op!

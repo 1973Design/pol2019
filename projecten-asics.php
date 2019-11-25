@@ -9,41 +9,31 @@
     <meta name="author" content="">
 
 
-    <link rel="stylesheet" href="assets/lib/fontawesome/css/all.min.css" />
-    <link rel="stylesheet" href="assets/css/style.css" />
-    <link href="https://fonts.googleapis.com/css?family=Fjalla+One|Open+Sans+Condensed:300|Roboto+Condensed:300, 300i,400,400i,700,700i" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Caveat+Brush&display=swap" rel="stylesheet">
+    <?php include '_link-head.php';?>
 </head>
 
 <body class="default-page">
-    <div class="main"> 
+<div class="main">
         <header class="fixed-top">
-            <!-- Navigation -->
-            <?php include '_navigation.php';?>
-            <!-- END navigatie -->      
+              <!-- Navigation -->
+        <?php include '_navigation.php';?>
+        <!-- END navigatie -->      
 
         </header>
         <article>
-            <div class="container-fluid">
-                <div class="header-banner col-xs-12 top" >
-                    <div class="banner-content">
-                      <h1 class="header-tekst">Beveiliging</h1>
-                      <p class="banner-description"> Voorkom inbraak en beveilig uw huis nu!</p>
-                    </div>
-                </div>
-            </div>
+            <?php include '_banner-quote.php';?>
             <div class="container content-page">
                 <div class="row">
                 <div class="col-sm-12">
                     <h2>Asics gebouw hoofddorp</h2>
-                      <img src="images/projecten/asics-project.png" class="center"/>        
+                      <img src="images/projecten/asics-project.png" width="100%" title="project Asics" class="center"/>        
                          
                         <p><strong>Locatie:</strong> Hoofddorp</p>
                        
                         <h2>Projectbeschrijving</h2>
                         <p>Nieuwbouw van het hoofdkantoor Asics te Hoofddorp.</p>
                         <p> <strong>Polair Beveiliging</strong> heeft hier in zijn geheel de toegangscontrole en CCTV installatie verzorgd, gebruikmakend van <a href="https://www.paxton-access.com/nl/" title="Polair beveiliging maakt gebruik van PAXTON" target="_blank">PAXTON</a></p>
-                        <iframe width="560" height="315" src="https://www.youtube.com/embed/wqjYeDgkXis" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe class="iframe-width" src="https://www.youtube.com/embed/wqjYeDgkXis" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                       
                 </div>
             </div>

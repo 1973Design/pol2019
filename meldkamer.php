@@ -15,19 +15,14 @@
 
 <body class="default-page">
     <div class="main">
-        <!-- Navigation -->
+        <header class="fixed-top">
+              <!-- Navigation -->
         <?php include '_navigation.php';?>
-        <!-- END navigatie -->
-        <header>
-            <div class="container-fluid expand">
-                <div class="header-banner col-xs-12" >
-                    <div class="banner-content">
-                        <h1 class="header-tekst">Beveiliging</h1>
-                        <p class="banner-description"> Voorkom inbraak en beveilig uw huis nu!</p>
-                    </div>
-                </div>
-            </div>
+        <!-- END navigatie -->      
+
         </header>
+        <article>
+            <?php include '_banner-quote.php';?>
             <div class="container content-page">
                 <div class="row">
                     <div class="col-sm-12 col-md-8">
@@ -73,6 +68,7 @@
                             storingen wordt dit gemeld via sms. Bij een alarmmelding worden de contactpersonen gebeld in de volgorde waarin zij bekend zijn bij de meldkamer. 
                             Als de contactpersonen niet gelijk bereikbaar zijn wordt de voicemail ingesproken en probeert de centralist u later opnieuw te bereiken, indien nodig bellen we uiteraard de hulpdiensten. 
                             Bij overvalmeldingen wordt direct de politie gebeld.</p>
+                            <h3> Wij adviseren u graag over alle aspecten die een rol spelen bij betrouwbare beveiliging: techniek, meldkamer, procedures en mobiele surveillance! </h3>
                     </div>
                 </div>
                 <hr class="orangebold">
