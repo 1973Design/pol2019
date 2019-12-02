@@ -22,7 +22,7 @@
 
         </header>
         <article>
-            <?php include '_banner-quote.php';?>
+            <?php include '_banner-quote2.php';?>
             <div class="container content-page">
                 <div class="row">
                     <div class="col-sm-12 col-md-8">

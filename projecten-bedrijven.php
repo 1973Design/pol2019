@@ -21,13 +21,13 @@
 
         </header>
         <article>
-            <?php include '_banner-quote.php';?>
+            <?php include '_banner-quote3.php';?>
             <div class="container content-page">
                 <div class="row">
                 <div class="col-sm-12">
                     <h2>Bedrijven beveiligen</h2>
                       <img src="images/projecten/bedrijven-algemeen.png" width="100%" alt="Polair adviseert op gebied van beveiliging van uw bedrijfs pan" class="center"/>         
-                        <p> <strong>Polair Beveiliging</strong> heeft in de afgelopen 20 jaar een diversiteit aan bedrijven beveiligt. Van kleine winkeltjes tot grotere filialen. <br/>
+                        <p> <strong>Polair Beveiliging</strong> heeft in de afgelopen 20 jaar een diversiteit aan bedrijven beveiligd. Van kleine winkeltjes tot grotere filialen. <br/>
                         Wij kunnen u voorzien van de juiste informatie betreffende regelgeving en verzekeringseisen. Daarnaast voorzien wij u van alle informatie op het gebeid van beveiliging van uw pand.</p>
                         Voor advies of een offerte neem <a href="contact.php">contact</a> met ons op!
                         

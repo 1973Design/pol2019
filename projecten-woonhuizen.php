@@ -21,13 +21,13 @@
 
         </header>
         <article>
-            <?php include '_banner-quote.php';?>
+            <?php include '_banner-quote3.php';?>
             <div class="container content-page">
                 <div class="row">
                 <div class="col-sm-12">
                     <h2>Woonhuizen beveiligen</h2>
-                      <img src="images/projecten/woonhuis-beveiliging.PNG" width="100%" class="center" alt="woonhuis beveiliging"/>         
-                        <p> <strong>Polair Beveiliging</strong> heeft in de afgelopen 20 jaar een diversiteit aan woonhuizen beveiligt.<br/> Polair kunt u de juiste informatie geven voor het optimaal beveiligen van uw woonhuis.</p>
+                      <img src="images/projecten/woonhuis-beveiliging.png" width="100%" class="center" alt="woonhuis beveiliging"/>         
+                        <p> <strong>Polair Beveiliging</strong> heeft in de afgelopen 20 jaar een diversiteit aan woonhuizen beveiligd.<br/> Polair kunt u de juiste informatie geven voor het optimaal beveiligen van uw woonhuis.</p>
                         Voor advies of een offerte neem <a href="contact.php">contact</a> met ons op!
                         
                       

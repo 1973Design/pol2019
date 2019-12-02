@@ -21,7 +21,7 @@
 
         </header>
         <article>
-            <?php include '_banner-quote.php';?>
+            <?php include '_banner-quote3.php';?>
             <div class="container content-page">
             
                 <div class="row">
@@ -55,7 +55,7 @@
                                         <ul class="project-list">
                                             <li class="project-list" >Toegangscontrole systeem |</li>
                                             <li class="project-list" >Inbraaksignaleringssysteem |</li>
-                                            <li class="project-list" >CCTV/camersysteem</li>
+                                            <li class="project-list" >CCTV/camerasysteem</li>
                                         </ul>
                                                 
                                     </div>

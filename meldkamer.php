@@ -75,7 +75,7 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="framed caption">
-                             <img src="images/meldkamer/meldkamer.png" alt="meldkamer 24 uur bereikbaar" title="meldkamer 24 uur bereikbaar"/>
+                             <img src="images/meldkamer/meldkamer.png" width="100%" alt="meldkamer 24 uur bereikbaar" title="meldkamer 24 uur bereikbaar"/>
                         </div>
                     </div>
                         <div class="col-md-6">

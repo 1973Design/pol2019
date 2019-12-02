@@ -10,7 +10,7 @@
     </div> 
     
     <div class="right-column-item">
-        <button class="accordion">Informatie</button>
+        <button class="accordion">Actueel</button>
             <div class="panel">
                 <div class="right-column-section">
                     <h4>Misdaad op de kaart</h4>

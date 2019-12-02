@@ -4,7 +4,7 @@
     <div class="col-lg-6 col-md-0"></div>
     <div class="col-lg-2 col-sm-4 ">
         <div class="top-content left-align ">
-            <i class="fas fa-phone"></i> 06 12345678
+            <i class="fas fa-phone"></i> 06 - 55 38 19 16 
              </div>
          </div>
         <div class="col-lg-2 col-sm-4  ">

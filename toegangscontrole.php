@@ -20,7 +20,7 @@
 
         </header>
         <article>
-            <?php include '_banner-quote.php';?>
+            <?php include '_banner-quote2.php';?>
             <div class="container content-page">
                 <div class="row">
                     <div class="col-sm-12 col-md-8">
@@ -63,7 +63,7 @@
                 <div class="row">
                     <div class="col-md-6 col-sm-12">
                         <div class="framed caption">
-                             <img src="images/producten/toegangs-controle.PNG" width="100%" alt="Toegangscontrole deurkaart" title="Toegangscontrole deurkaart"/>
+                             <img src="images/producten/toegangs-controle.png" width="100%" alt="Toegangscontrole deurkaart" title="Toegangscontrole deurkaart"/>
                         </div>
                     </div>
                         <div class="col-md-6 col-sm-12 center">

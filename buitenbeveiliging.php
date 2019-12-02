@@ -21,7 +21,7 @@
 
         </header>
         <article>
-            <?php include '_banner-quote.php';?>
+            <?php include '_banner-quote2.php';?>
             <div class="container content-page">
                 <div class="row">
                     <div class="col-sm-12 col-md-8">
@@ -64,7 +64,7 @@
                 <div class="row">
                     <div class="col-md-6">
                         <div class="framed caption">
-                             <img src="images/producten/buitenbeveiliging.PNG" width="100%" alt="Ondergrondse systemen" title="Ondergrondse systemen"/>
+                             <img src="images/producten/buitenbeveiliging.png" width="100%" alt="Ondergrondse systemen" title="Ondergrondse systemen"/>
                         </div>
                     </div>
                     <div class="col-md-6 center">

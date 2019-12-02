@@ -24,9 +24,9 @@ if(IsInjected($visitor_email))
 $email_from = 'mail@polair.nl';//<== update the email address
 $email_subject = "Formulier Polair website";
 $email_body = "";
-$email_body .= "<p>Je hebt een bericht ontvangen van: " .$visitor_email." | ";
-$email_body .= "<p>Over het volgende onderwerp: " .$question." | ";
-$email_body .= "<p>Waarin het volgende gevraagd wordt: " .$message." | ";
+$email_body .= "Je hebt een bericht ontvangen van: " .$visitor_email." \r\n" ;
+$email_body .= "Over het volgende onderwerp: " .$question." \r\n ";
+$email_body .= "Waarin het volgende gevraagd wordt: " .$message." \r\n ";
 $email_body .= "";
     
 $to = "mail@polair.nl";//<== update the email address

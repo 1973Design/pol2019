@@ -28,7 +28,7 @@
 
     <div class="col-sm-8 offset-sm-2 col-md-4 offset-md-4 mt-4 ml-xs-1">
         <div class="copyright ">
-            <p>Polair VOF Bijlestaal 44G, 1721 PW Broek op Langedijk - 2019</p>
+            <p>Polair Beveiliging Bijlestaal 44G, 1721 PW Broek op Langedijk - 2019</p>
         </div>
     </div>
 </div>

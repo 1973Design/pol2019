@@ -12,19 +12,18 @@
     <?php include '_link-head.php';?>
 </head>
 
-<body class="default-page">
+<body>
     <div class="main">
         <header class="fixed-top">
               <!-- Navigation -->
-        <?php include '_navigation.php';?>
+            <?php include '_navigation.php';?>
         <!-- END navigatie -->      
-
         </header>
         <article>
-            <?php include '_banner-quote.php';?>
+            <?php include '_banner-quote2.php';?>
             <div class="container content-page">
                 <div class="row">
-                    <div class="col-sm-12 col-md-8">
+                    <div class="col-xs-12 col-md-8">
                         <div class="left-column">
                             <div class="left-column-content">
                                 <p class="breadcrumb">Producten<span>/Camerasysteem</span></p>

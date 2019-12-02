@@ -20,7 +20,7 @@
 
         </header>
         <article>
-            <?php include '_banner-quote.php';?>
+            <?php include '_banner-quote2.php';?>
             <div class="container content-page">
                 <div class="row">
                     <div class="col-sm-12 col-md-8">
@@ -29,8 +29,8 @@
                                <p class="breadcrumb">Producten<span>/Inbraakbeveiliging</span></p>
                                 <h2> Inbraakbeveiliging</h2>
                                 <p>Met een alarmsysteem wordt uw pand electronisch beveiligd en kunt u uw bedrijf met een gerust hart achterlaten. Een gebruiksvriendelijk codebediendeel zorgt ervoor dat u de alarminstallatie geheel of gedeeltelijk kunt in- en uitschakelen, alarmen van nooddeuren kunt in- en uitschakelen etc. 
-                                    De draadloze en bedrade detectoren zijn voorzien van de modernste electronica en software voor betrouwbare detectie en absoluut ongevoelig voor storingsbronnen. Via internet, GPRS, ISDN, GSM of analoog kunnen de systemen doormelden naar de meldkamer. 
-                                    Inbraak alarmsystemen zijn er in diverse merken en soorten. Ieder merk en systeem heeft zijn eigen voor- en nadelen. Poliar Beveiliging kunt u hierin van de juiste informatie voorzien.<br/><br/>
+                                    De draadloze en bedrade detectoren zijn voorzien van de modernste electronica en software voor betrouwbare detectie en absoluut ongevoelig voor storingsbronnen. Via internet, GPRS of app kunnen de systemen doormelden naar de meldkamer. 
+                                    Inbraak alarmsystemen zijn er in diverse merken en soorten. Ieder merk en systeem heeft zijn eigen voor- en nadelen. Polair Beveiliging kunt u hierin van de juiste informatie voorzien.<br/><br/>
                                     We kunnen de alarmsystemen onderscheiden in 3 groepen :</p>
                                     <ul>
                                         <li><a href="#kabel">Volledig bekabelde alarm systemen</a></li>
@@ -63,7 +63,6 @@
                         <?php include '_right-column.php'; ?>
                         <!-- end right column -->
                     </div>
-
                 </div>
                 <div class="row">
                     <div class="col-md-6 col-sm-12">
@@ -106,7 +105,7 @@
                                     <li>Kan volledig bekabeld opgeleverd worden!</li>
                                     <li>Kan uitgebreid worden met draadloze componenten!</li>
                                     <li>Luxe uitvoeringen beschikbaar, zoals touch screens, inox design sirenes etc …</li>
-                                    <li>Communicatie mogelijk via PSTN, GSM, GPRS, TCP/IP en zelfs een combinatie van meerdere om een hogere veiligheid te garanderen</li>
+                                    <li>Communicatie mogelijk via app, GPRS, TCP/IP en zelfs een combinatie van meerdere om een hogere veiligheid te garanderen</li>
                                     <li>Zeer gebruiksvriendelijke interactieve stemcomputers beschikbaar voor mensen die niet willen aansluiten op een meldkamer</li>
                                     <li>Mogelijkheid tot verzenden van gedetailleerde sms berichten voor mensen die niet willen aansluiten op een meldkamer</li>
                                 </ul>

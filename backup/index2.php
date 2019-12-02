@@ -22,61 +22,28 @@
     <div class="main">
        <!-- header --> 
         <header class="fixed-top">
+            
             <?php include '_navigation.php';?>
+         
         </header>
         <!-- end header-->
+        <div class="container-fluid">
+          
+        </div>
+
         <article>
             <div class="container-fluid">
-                   <!-- Start  Slider -->
-                <div class="bd-carousel top">
-                    <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
-                            <ol class="carousel-indicators">
-                                <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
-                                <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
-                                <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
-                            </ol>
-                            <div class="carousel-inner">
-                                <div class="carousel-item active" style="background-image: url('images/slider/polair-alarmbeveiliging.jpg')" title="Polair beveiliging camerasysteem">
-
-                                    <div class="carousel-caption d-none d-md-block">
-                                        <h5>Polair Beveiliging</h5>
-                                        <p>Biedt 24 uur service en kwaliteit!</p>
-                                    </div>
-                            </div>
-                            <div class="carousel-item" style="background-image: url('images/slider/veilig-op-vakantie.jpg')" title="veilig op vakantie">
-                                <div class="carousel-caption d-none d-md-block">
-                                    <h5>Polair Beveiliging</h5>
-                                    <p>Beveiligt 24 uur per dag. Ook wanneer u niet thuis bent!</p>
-                                </div>
-                            </div>
-                            <div class="carousel-item"  style="background-image: url('images/slider/beveiliging-inbraak-huis.jpg')" title="Poalir beveiliging geeft een veilig gevoel">
-
-                                <div class="carousel-caption d-none d-md-block">
-                                    <h5>Polair Beveiliging</h5>
-                                    <p>Geeft een veilig gevoel!</p>
-                                </div>
-                            </div>
-                        </div>
-                        <a class="carousel-control-prev" href="#carouselExampleCaptions" role="button" data-slide="prev">
-                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                            <span class="sr-only">Previous</span>
-                        </a>
-                        <a class="carousel-control-next" href="#carouselExampleCaptions" role="button" data-slide="next">
-                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                            <span class="sr-only">Next</span>
-                        </a>
-                    </div>
-                </div>
-            
-                <!-- EnD slider -->
+            <?php include '_banner-quote.php';?>
                 <!-- include wrapper -->
                 <div class="wrapper">
                     <div class="content-wrapper">
                         <p>Polair Beveiliging <br /> Beveiligt met een zeker gevoel, 24 uur per dag</p>
+
                     </div>
-                </div><!-- end wrapper -->
+
+                </div>
             </div>
-            
+            <!-- end wrapper -->
 
             <div class="container">
                 <section>
@@ -85,8 +52,7 @@
                         <div class="col-md-8 mb-4 mt-4 col-xs-12 ml-xs-1">
                             <h1>Polair Beveiliging</h1>
                             <p class="ml-xs-1"><img src="images/beveiliging/ncp-logo-2.png" class="ncp"> Polair beveiliging is een landelijk werkende beveiligingsorganisatie. Wij leveren zowel aan particulieren als bedrijven en instellingen. Polair is 24 uur per dag 365
-                                dagen per week bezig met veiligheid. Tevens zijn we een door het <a href="">NCP Certificatie BV gecertificeerd Borg </a>beveiligingsbedrijf. <br/>Ons systeem biedt echt waar voor uw geld, zonder in te leveren op veiligheid
-                                of kwaliteit</p>
+                                dagen per week bezig met veiligheid. Tevens zijn we een door het <a href="">NCP Certificatie BV gecertificeerd Borg </a>beveiligingsbedrijf. </p>
                         </div>
                         <div class="col-md-3 mb-4 mt-3 col-xs-12 ml-xs-1">
                             <h2>Neem contact op</h2>

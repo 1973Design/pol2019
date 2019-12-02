@@ -47,6 +47,10 @@
                                     Polair Beveiliging werkt ook samen met een aantal ondernemers in Alkmaar en omgeving. Op deze manier kunnen we u ook voorzien van een totaal pakket.<br/>
                                     <a href="contact-polairbeveiliging.html">Voor meer informatie, neem contact met ons op</a>
                                 </P>
+                                <blockquote>
+                                    Ons systeem biedt echt waar voor uw geld, zonder in te leveren op veiligheid
+                                    of kwaliteit.
+                                  </blockquote>
                                 <p>
                                     <img src="images/beveiliging/ksenia-alarmbeveiliging.png">
                                     <img src="images/beveiliging/Honeywell-Galaxy.jpg" >

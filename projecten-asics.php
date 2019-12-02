@@ -21,7 +21,7 @@
 
         </header>
         <article>
-            <?php include '_banner-quote.php';?>
+            <?php include '_banner-quote3.php';?>
             <div class="container content-page">
                 <div class="row">
                 <div class="col-sm-12">
@@ -32,7 +32,7 @@
                        
                         <h2>Projectbeschrijving</h2>
                         <p>Nieuwbouw van het hoofdkantoor Asics te Hoofddorp.</p>
-                        <p> <strong>Polair Beveiliging</strong> heeft hier in zijn geheel de toegangscontrole en CCTV installatie verzorgd, gebruikmakend van <a href="https://www.paxton-access.com/nl/" title="Polair beveiliging maakt gebruik van PAXTON" target="_blank">PAXTON</a></p>
+                        <p> <strong>Polair Beveiliging</strong> heeft hier in zijn geheel de toegangscontrole, CCTV/camerasysteem en inbraaksignaleringssysteem verzorgd, gebruikmakend van <a href="https://www.paxton-access.com/nl/" title="Polair beveiliging maakt gebruik van PAXTON" target="_blank">PAXTON</a></p>
                         <iframe class="iframe-width" src="https://www.youtube.com/embed/wqjYeDgkXis" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                       
                 </div>
