@@ -14,7 +14,7 @@
 
 <body class="default-page">
     <div class="main">
-        <header class="fixed-top">
+        <header class="">
               <!-- Navigation -->
         <?php include '_navigation.php';?>
         <!-- END navigatie -->      
@@ -41,10 +41,7 @@
                                 </p>
                                 <h3>Vrijstaande uitgebreidere systemen.</h3>
                                 <hr class="orange"> 
-                                <div class="alignleft framed caption">
-                                    <img src="images/producten/terreinbeveiliging.jpg" alt="terreinbeveiliging" title="terreinbeveiliging"/>
-                                </div> 
-                                Digitaal radarsysteem of een actief infrarood systeem. Dergelijke systemen zijn met name geschikt wanneer u een terrein heeft waarvan de ondergrond niet kan of mag worden bewerkt. 
+                                Digitaal radarsysteem of een actief infrarood systeem? Dergelijke systemen zijn met name geschikt wanneer u een terrein heeft waarvan de ondergrond niet kan of mag worden bewerkt. 
                                 Een digitaal radarsysteem legt als het ware een ‘muur’ van radargolven om uw terrein. De onzichtbare radargolven detecteren beweging in het gebied dat door de golven wordt ‘afgedekt’. 
                                 Een actief infraroodsysteem werkt met onzichtbare infrarood lichtbanen die, net als bij het radarsysteem, alleen in een rechte lijn kunnen worden opgesteld. Het systeem is niet duur, 
                                 maar vraagt wel relatief veel onderhoud. Bovendien is het gevoelig voor weersinvloeden en kan het last hebben van begroeiing op het terrein. Radar- of infraroodsystemen zijn eenvoudig 
@@ -78,19 +75,20 @@
                 </div>
                 <div class="row">
                     <div class="col-md-6 center">
-                        <h2>Detectiemethode; schrikdraad of microkabel</h2>
-                        <h4>Schrikdraad</h4>
-                        <p>Een schrikdraadsysteem belemmert een indringer fysiek uw terrein te betreden. Aanraken van het schrikdraad geeft niet alleen een schok, 
-                            maar detecteert tegelijkertijd dat er iemand het hek beklimt. Een nadeel is dat het een zichtbaar systeem is dat bovendien vrij eenvoudig te manipuleren is.</p>
+                        <h2>Detectiemethode; hekwerken, muren en daken</h2>
+                        <h4>Politec</h4>
+                        <p>GAPID SR is een intelligent systeem dat bestaat uit een reeks MEMS accelerometrische sensoren met geavanceerde
+                            technologie. GAPID is een anti-klim-, anti-snij- en anti-doorbraaksensor voor de beveiliging van hekwerken, muren 
+                            en daken.</p>
                             <hr class="orangebold">
-                            <h4>Microkabel</h4>
-                        <p>Een microfoonkabelsysteem werkt met een kabel die gevoelig is voor vervorming. Vervorming wekt een kleine spanning op. Een sensor aan het eind van de kabel detecteert deze vervorming. 
-                            De kabel wordt geweven door het (gaas)hekwerk of kan er aan vastgebonden worden. Nadeel van dit, eveneens zichtbare, systeem is dat het gevoelig is voor vandalisme en voor trillingen. 
-                            Ook een microfoonkabelsysteem is eenvoudig te manipuleren.</p>
+                            <h4>Stand-alone of verbonden</h4>
+                        <p>Elke sensor kan stand-alone worden toegepast, maar sensoren kunnen ook met elkaar worden verbonden, waardoor ze lange hekwerken en grote terreinen kunnen bewaken.
+                            Voor het maken van een GAPID systeem met meerdere sensoren worden deze in serie aan elkaar gekoppeld met behulp van een RS485-kabel en verbonden met een concentrator 
+                            voor verbinding en bediening, genaamd Adebus, die gelijktijdig twee secties met elk 128 sensoren kan analyseren.</p>
                     </div>
                     <div class="col-md-6">
                         <div class="framed caption">
-                             <img src="images/producten/hekwerk-beveiliging.jpg" width="100%" alt="Hekwerkbeveiliging" title="Hekwerkbeveiliging"/>
+                             <img src="images/producten/intelligente-sensoren-voor-hekwerk-beveiliging.png" width="100%" alt="Hekwerkbeveiliging" title="Hekwerkbeveiliging"/>
                         </div>
                     </div>
                 </div>

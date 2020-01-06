@@ -1,4 +1,4 @@
-<section class="bottom-section">                
+<section class="bottom-section photobackground">                
     <div class="row">
         <div class="col-md-3 offset-lg-2 offset-md-2 mt-4 mb-3 bottom-line ml-xs-1">
             <h2 class="white">Ksenia Centrale</h2>

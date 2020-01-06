@@ -16,7 +16,7 @@
 
 <body class="default-page">
     <div class="main">
-        <header class="fixed-top">
+        <header class="">
               <!-- Navigation -->
         <?php include '_navigation.php';?>
         <!-- END navigatie -->      
@@ -29,8 +29,8 @@
                     <div class="col-sm-12 col-md-8">
                         <div class="left-column">
                             <div class="left-column-content">
-                            <p class="breadcrumb">Informatie<span>/Handleiding</span></p>
-                                <h2>Handleidingen</h2>
+                                <p class="breadcrumb">Informatie<span>/Handleiding</span></p>
+                                    <h2>Handleidingen</h2>
                                 <p>Hieronder kan je verschillend handleidingen downloaden. Mocht je een handleiding missen neem dan <a href="#">contact</a> met ons op.
                                 </p>
                                 <ul class="download">
@@ -40,11 +40,10 @@
                                     
                                   
                                 </ul>
-                                
-                                
-                               
-                                        
-
+                                <h3>Gebruikerscode alarm wijzigen</h3>
+                                <iframe width="100%" height="315" src="https://www.youtube.com/embed/kkWPz5PlHCk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <h3>Gebruikerscode bijvoegen</h3>     
+                                <iframe width="100%" height="315" src="https://www.youtube.com/embed/441FkNlGoaM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             </div>
                         </div>
                     </div>

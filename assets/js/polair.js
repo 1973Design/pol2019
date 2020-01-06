@@ -29,6 +29,19 @@ jQuery(document).ready(function($) {
     //voeg de activelink classe toe aan de doellink
     target.addClass("activelink");
 
+    // navigation scroll
+
+    $(window).scroll( function(){
+        if($(window).scrollTop()>100){
+           
+            $('nav').addClass('bg-blue-active');
+            $('nav').addClass('fixed-top');
+        }
+        else{
+            $('nav').removeClass('bg-blue-active');
+            $('nav').removeClass('fixed-top');
+        }
+    });
 });
 
 

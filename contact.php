@@ -15,7 +15,7 @@
 
 <body class="default-page">
     <div class="main">
-        <header class="fixed-top">
+        <header class="contact">
               <!-- Navigation -->
         <?php include '_navigation.php';?>
         <!-- END navigatie -->      

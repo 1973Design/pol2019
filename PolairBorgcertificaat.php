@@ -14,7 +14,7 @@
 
 <body class="default-page">
     <div class="main">
-        <header class="fixed-top">
+        <header class="">
               <!-- Navigation -->
         <?php include '_navigation.php';?>
         <!-- END navigatie -->      
@@ -58,7 +58,7 @@
 
         
          <!-- blue footer section -->
-         <?php include '_blue-footer-2.php';?>
+         <?php include '_blue-footer-photo.php';?>
         <!-- end blue footer section -->
         <!-- Footer-->
 

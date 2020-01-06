@@ -16,6 +16,9 @@
     .ml-xs-1 {
         margin-left: 0.25em !important;
     }
+    .mobile-marge{
+        margin: 0 0.75em;
+    }
     .header-banner h1.header-tekst {
         font-size: 2.0em;
         margin-left:0%;
@@ -24,8 +27,7 @@
         width: 30% !important;
         margin: 0.2em !important;
     }
-    .icons-noshow,
-    .top-banner, .mobile-non-view, .right-column {
+    .icons-noshow, .mobile-non-view, .right-column, .logo-row {
         display: none;
     }
 
@@ -34,9 +36,22 @@
     
     }
     .top{
-        margin-top:80px;
+        xmargin-top:80px;
     }
     .iframe-width{
         width:100%; 
     }
+
+    .header-banner-ksenia {
+        height: 200px;
+         background:url(../../images/banner/Ksenia-banner-mobile.jpg) no-repeat center center;
+         background-color: #384978;
+     }
+    p.banner-description.bold strong{
+         color:#fb9d5b;
+     }
+
+     p.banner-description.bold{
+         color:#C4C4C4;
+     }
 }
