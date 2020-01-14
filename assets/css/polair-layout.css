@@ -200,6 +200,12 @@ h3.right-block {
       background:url(../../images/banner/Ksenia-banner.jpg) no-repeat center center;
       background-color: #384978;
   }
+
+  .header-banner-honeywell {
+    height: 200px;
+     background:url(../../images/banner/honeywell-banner.jpg) no-repeat center center;
+     background-color: #384978;
+ }
  
  .bg-banner{
      background-color: linear-gradient(90deg, rgba(56, 73, 120, 1) 0%, rgba(255, 160, 92, 1) 50%, rgba(56, 73, 120, 1) 100%);
@@ -445,6 +451,35 @@ ul li.project-list{
     background-color: #fb9d5b;
     border-color: #FFA05C;
     color: #fff;
+    position:relative;
+    z-index:1;
+    display: inline-block;
+  transition: ease-out 0.5s;
+}
+
+.btn:after{
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    content: "\f105";
+    margin-left: 5px;
+    z-index:-2;
+}
+
+.btn-orange:before{
+    content:"";
+    position:absolute;
+    z-index:-1;
+    left:0px;
+    bottom:0px;
+    background:#000;
+    transition:ease-out .5s;
+    width: 0%;
+    height: 100%;
+
 }
 
 .btn-light-blue {
@@ -453,12 +488,19 @@ ul li.project-list{
     border-color: rgb(209, 211, 218);
 }
 
-.btn-orange:hover {
-    background-color: #FFAF75;
-    border-color: #FFA05C;
-    color: #fff;
+.btn-orange:hover, .btn-light-blue:hover {
+   color: #fff;
+   
+}
+.btn-orange:hover{
+    background:rgb(248, 125, 36);
+    transition:ease-out .5s;
 }
 
+.btn-light-blue:hover{
+    background:#384978;
+    transition:ease-out 0.8s;
+}
 footer {
     min-height: 10vh;
     background: radial-gradient(rgba(210, 210, 210, 0.4), rgba(242, 242, 242, 0.4));
