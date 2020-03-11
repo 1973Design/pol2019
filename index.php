@@ -19,6 +19,7 @@
 </head>
 
 <body>
+    <?php include '_tag-manager.php'; ?>
     <div class="main">
        <!-- header --> 
         <header class="">
@@ -85,7 +86,7 @@
                         <div class="col-md-8 mb-4 mt-4 col-xs-12 ml-xs-1">
                             <h1>Polair Beveiliging</h1>
                             <p class="ml-xs-1"><img src="images/beveiliging/ncp-logo-2.png" class="ncp"> Polair beveiliging is een landelijk werkende beveiligingsorganisatie. Wij leveren zowel aan particulieren als bedrijven en instellingen. Polair is 24 uur per dag 365
-                                dagen per week bezig met veiligheid. Tevens zijn we een door het <a href="">NCP Certificatie BV gecertificeerd Borg </a>beveiligingsbedrijf. <br/>Ons systeem biedt echt waar voor uw geld, zonder in te leveren op veiligheid
+                                dagen per jaar bezig met veiligheid. Tevens zijn we een door het <a href="">NCP Certificatie BV gecertificeerd Borg </a>beveiligingsbedrijf. <br/>Ons systeem biedt echt waar voor uw geld, zonder in te leveren op veiligheid
                                 of kwaliteit</p>
                         </div>
                         <div class="col-md-3 mb-4 mt-3 col-xs-12 ml-xs-1">
@@ -94,8 +95,9 @@
 									<strong>Bijlestaal 44G</strong><br/>
 									<strong>1721PW Broek op Langedijk</strong><br/>
 									<strong><span class="fas fa-phone"></span> 0226- 39 49 18</strong><br/>
-									<strong><span class="fas fa-phone"></span> 06- 55 38 19 16</strong><br/>
-									<strong><span class-"fas fa-at"></span>mail@polair.nl</strong>
+                                    <strong><span class="fas fa-phone"></span> 06- 55 38 19 16</strong><br/>
+                                    <strong><span class="fab fa-whatsapp"></span><a href="https://wa.me/31655381916" target="_blank" > Whatsapp</a></strong><br/>
+									<strong><span class="fas fa-at"></span>mail@polair.nl</strong>
 
 								</address>
                         </div>

@@ -33,7 +33,29 @@
                                         levering en installatie van kwalitatief hoogwaardige beveiligingssystemen.</p>
                                  <P>
                         
-                                    Door de jaren heen hebben wij zowel in de zakelijke- als particuliere markt een grote klantenkring opgebouwd. Veel klanten zijn dan ook al vaak tientallen jaren klant en daar zijn wij best trost op. Wij willen onze klanten laten profiteren van onze expertise op het gebied van beveiliging en voordeel bieden door onze scherpe prijzen. 
+                                    Door de jaren heen hebben wij zowel in de zakelijke- als particuliere markt een grote klantenkring opgebouwd. Veel klanten zijn dan ook al vaak tientallen jaren klant en daar zijn wij best trost op.
+                                    Wij willen onze klanten laten profiteren van onze expertise op het gebied van beveiliging en voordeel bieden door onze scherpe prijzen. </p>
+                                    <p> Wij hebben de belangrijkste voordelen van Polair Beveiling even op een rijtje gezet:</p>
+                                <div class="row">
+                                    <div class="col-sm-12 col-md-6">
+                                        <ul>
+                                            <li>De klant staat centraal</li>
+                                            <li>Direct persoonlijk contact</li>
+                                            <li>Snel en adequaat handelen</li>
+                                            <li>App voor meldkamer</li>
+                                        
+                                        </ul>
+                                    </div>
+                                    <div class="col-sm-12 col-md-6">
+                                    <ul>
+                                            <li>Flexibel, procedures volgens wensen van de klant</li>
+                                            <li>Hoge kwaliteit van dienstverlening</li>
+                                            <li>Moderne technologie&euml;n en systemen</li>
+                                            <li>Klantvriendelijke en professionele dienstverlening</li>
+                                        
+                                        </ul>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>

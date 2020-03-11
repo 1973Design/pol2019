@@ -14,6 +14,7 @@
 </head>
 
 <body class="default-page">
+<?php include '_tag-manager.php'; ?>
     <div class="main">
         <header class="">
               <!-- Navigation -->

@@ -30,6 +30,13 @@
                             <p class="breadcrumb"><span>Nieuws op het gebied van beveiliging</span></p>
                                 <h2> Nieuws op het gebied van beveiliging</h2>
                                 <p><strong>Polair beveiliging</strong> houdt u graag op de hoogte van het laatste nieuws omtrend beveiliging.</p>
+                                <h3>Veilige beeldtransmissie via (draadloos) internet</h3>
+                                <img src="images/beveiliging/csl-draadloos-veilige-beeldtransmissie.jpg" title="veilige beeldtransmissie via draadloos internet">
+                                <p>De meeste beelden van bewakingscamera’s worden tegenwoordig via internet overgedragen naar opnamesystemen of toezichtcentrales. 
+                                    Daarbij lopen steeds meer installateurs tegen beperkingen van de beschikbaarheid en betrouwbaarheid van breedbandnetwerken op. Een andere uitdaging zijn 
+                                    de beperkingen die beheerders van de ICT-infrastructuur opleggen.</p>
+                                <p>Op plaatsen waar geen toegang tot breedbandnetwerken beschikbaar is, kan het installeren van een nieuwe verbinding extreem duur zijn en soms kan het
+                                     weken duren voordat deze gerealiseerd is. Dat speelt bijvoorbeeld in sommige landelijke gebieden. <a href="nieuws/veilige-beeldtransmissie-internet.php">Lees meer </a></p>
                                 
                                 <h3>Houd inbrekers buiten de deur tijdens de donkere dagen</h3>
                                 <img src="images/beveiliging/inbrekers-buiten-de-deur.jpg" title="houd inbrekers buiten de deur - beveilig nu"/>

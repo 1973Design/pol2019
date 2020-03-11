@@ -14,6 +14,7 @@
 </head>
 
 <body class="default-page">
+<?php include '_tag-manager.php'; ?>
     <div class="main">
         <header class="contact">
               <!-- Navigation -->
@@ -36,8 +37,10 @@
                                         <div class="card border-0">
                                             <div class="card-body text-center">
                                                 <i class="fas fa-phone fa-5x mb-3" aria-hidden="true"></i>
-                                                <h4 class="text-uppercase mb-5">Telefoon</h4>
-                                                <p>0226 - 39 49 18 / 06 - 55 38 19 16 of 06 43 88 76 58</p>
+                                                <h4 class="text-uppercase mb-5">Telefoon/Whatsapp</h4>
+                                                <p>0226 - 39 49 18 / 06 - 55 38 19 16 of 06 43 88 76 58<br/>
+                                                Neem contact op via <i class="fab fa-whatsapp"></i><a href="https://wa.me/31655381916" target="_blank" >Whatsapp</a></p>
+                                                
                                             </div>
                                         </div>
                                     </div>
