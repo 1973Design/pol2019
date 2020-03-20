@@ -84,6 +84,25 @@
                     <!-- start intro -->
                     <div class="row">
                         <div class="col-md-8 mb-4 mt-4 col-xs-12 ml-xs-1">
+                            <div class="alert-message">
+                                <h3>Maatregelen m.b.t. het corona virus - update 15 maart</h3>
+                                Polair Beveiliging volgt de adviezen van het RIVM. Voor nu houdt dat het volgende in:
+                                <ul>
+                                    <li>
+                                        Geen handen schudden
+                                    </li>
+                                    <li>
+                                        Bij gezondheidsklachten blijven onze werknemers thuis
+                                    </li>
+                                    <li>
+                                        Wij houden rekening met een onderlinge afstand van 1,5 meter
+                                    </li>
+                                </ul>
+                                    
+                                    Wij blijven dus gewoon werken. Geplande werkzaamheden zullen dus ook gewoon doorgaan vinden, met inachtneming van eerder genoemde adviezen van het RIVM.<br/>
+                                    Indien u zelf gezondheidsklachten heeft, neem dan contact met ons op. Heeft u geen klachten, maar voelt u zich toch prettiger reeds geplande afspraken te verzetten neem
+                                    dan <a href="contact.php" title="contact opnemen">contact</a> met ons op.
+                            </div>
                             <h1>Polair Beveiliging</h1>
                             <p class="ml-xs-1"><img src="images/beveiliging/ncp-logo-2.png" class="ncp"> Polair beveiliging is een landelijk werkende beveiligingsorganisatie. Wij leveren zowel aan particulieren als bedrijven en instellingen. Polair is 24 uur per dag 365
                                 dagen per jaar bezig met veiligheid. Tevens zijn we een door het <a href="">NCP Certificatie BV gecertificeerd Borg </a>beveiligingsbedrijf. <br/>Ons systeem biedt echt waar voor uw geld, zonder in te leveren op veiligheid

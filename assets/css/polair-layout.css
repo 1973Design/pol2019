@@ -800,3 +800,8 @@ blockquote {
 .font-msize{
     font-size: 1.2em;
 }
+
+.alert-message{
+    background:#CED8EB;
+    padding:10px;
+}

@@ -22,41 +22,50 @@
         </header>
         <article>
             <?php include '_banner-quote2.php';?>
-            <div class="container content-page">
-                <div class="row">
-                    <div class="col-sm-12 col-md-8">
-                        <div class="left-column">
-                            <div class="left-column-content">
-                            <p class="breadcrumb">Producten<span>/Buitenbeveiliging</span></p>
-                                <h2>Buitenbeveiliging</h2>
-                                <p>Terreinbeveiliging wordt steeds populairder. Inbraken nemen toe en zowel particulieren als bedrijven willen ongewenste indringing al in het vroegste stadium detecteren. 
-                                    Dit voorkomt inbraak en dus veel schade. Een prettig gevoel.
-                                </p>
-                                <h3>Eenvoudige vrijstaande systemen</h3>
-                                <hr class="orange">  
-                                <p>
-                                Om uw buitenterrein te beveiligen bestaan er vrijstaande detectiesystemen:
-                                Ruimte detectoren met hoogwaardige technologie met gesproken tekst of aansturing verlichting en akoestische signalering. 
-                                Passief infrarood detectoren die aan de woning kunnen worden gemonteerd of op een houten paal tussen de begroeiing in de tuin worden geplaatst.
-                                </p>
-                                <h3>Vrijstaande uitgebreidere systemen.</h3>
-                                <hr class="orange"> 
-                                Digitaal radarsysteem of een actief infrarood systeem? Dergelijke systemen zijn met name geschikt wanneer u een terrein heeft waarvan de ondergrond niet kan of mag worden bewerkt. 
-                                Een digitaal radarsysteem legt als het ware een ‘muur’ van radargolven om uw terrein. De onzichtbare radargolven detecteren beweging in het gebied dat door de golven wordt ‘afgedekt’. 
-                                Een actief infraroodsysteem werkt met onzichtbare infrarood lichtbanen die, net als bij het radarsysteem, alleen in een rechte lijn kunnen worden opgesteld. Het systeem is niet duur, 
-                                maar vraagt wel relatief veel onderhoud. Bovendien is het gevoelig voor weersinvloeden en kan het last hebben van begroeiing op het terrein. Radar- of infraroodsystemen zijn eenvoudig 
-                                te installeren.</p>
-                                <h3>Meer informatie over buitenbeveiliging? Neem <a href="contact.php">contact</a> met ons op! </h3>
+            <div class="container content-page-sections">
+                    <div class="row">
+                        <div class="col-sm-12 col-md-12">
+                            <div class="mid-column">
+                                <div class="mid-column-content">
+                                    <div class="row">
+                                        <div class="col-sm-12 col-md-8">
+                                        
+                                            <div class="left-column">
+                                                <div class="left-column-content">
+                                                    <p class="breadcrumb">Producten<span>/Buitenbeveiliging</span></p>
+                                                    <h2>Buitenbeveiliging</h2>
+                                                    <p>Terreinbeveiliging wordt steeds populairder. Inbraken nemen toe en zowel particulieren als bedrijven willen ongewenste indringing al in het vroegste stadium detecteren. 
+                                                        Dit voorkomt inbraak en dus veel schade. Een prettig gevoel.
+                                                    </p>
+                                                    <h3>Eenvoudige vrijstaande systemen</h3>
+                                                    <hr class="orange">  
+                                                    <p>
+                                                    Om uw buitenterrein te beveiligen bestaan er vrijstaande detectiesystemen:
+                                                    Ruimte detectoren met hoogwaardige technologie met gesproken tekst of aansturing verlichting en akoestische signalering. 
+                                                    Passief infrarood detectoren die aan de woning kunnen worden gemonteerd of op een houten paal tussen de begroeiing in de tuin worden geplaatst.
+                                                    </p>
+                                                    <h3>Vrijstaande uitgebreidere systemen.</h3>
+                                                    <hr class="orange"> 
+                                                    Digitaal radarsysteem of een actief infrarood systeem? Dergelijke systemen zijn met name geschikt wanneer u een terrein heeft waarvan de ondergrond niet kan of mag worden bewerkt. 
+                                                    Een digitaal radarsysteem legt als het ware een ‘muur’ van radargolven om uw terrein. De onzichtbare radargolven detecteren beweging in het gebied dat door de golven wordt ‘afgedekt’. 
+                                                    Een actief infraroodsysteem werkt met onzichtbare infrarood lichtbanen die, net als bij het radarsysteem, alleen in een rechte lijn kunnen worden opgesteld. Het systeem is niet duur, 
+                                                    maar vraagt wel relatief veel onderhoud. Bovendien is het gevoelig voor weersinvloeden en kan het last hebben van begroeiing op het terrein. Radar- of infraroodsystemen zijn eenvoudig 
+                                                    te installeren.</p>
+                                                    <h3>Meer informatie over buitenbeveiliging? Neem <a href="contact.php">contact</a> met ons op! </h3>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-12 col-md-3 offset-md-1">
+                                            <!--right column -->
+                                            <?php include '_right-column.php'; ?>
+                                            <!-- end right column -->
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-12 col-md-3 offset-md-1">
-                        <!--right column -->
-                        <?php include '_right-column.php'; ?>
-                        <!-- end right column -->
-                    </div>
-
-                </div>
+            </div>
                 <hr class="orangebold">
                 <div class="row">
                     <div class="col-md-6">
