@@ -24,6 +24,7 @@
             <div class="container content-page-sections">
                 <div class="row">
                     <div class="col-sm-12 col-md-12">
+                        <!-- part-1-->
                         <div class="mid-column">
                             <div class="mid-column-content">
                                 <div class="row">
@@ -57,11 +58,19 @@
                                 </div>
                             </div>
                         </div>
-                    <div class="mid-column">
-                        <div class="mid-column-content">
-                            <div class="row">
-                                <div class="col-sm-12">
-                                    <div class="space"></div>
+                    </div>
+                </div>
+                    <!-- end part-1 -->
+                <div class="row">
+                    <div class="col-sm-12 col-md-12">
+                    <!--part -2 -->
+                        <div class="mid-column">
+                            <div class="mid-column-content">
+                                <div class="row">
+                                    <div class="col-sm-6">
+                                        <div class="space">
+
+                                        </div>
                                         <h3>Camerabewaking</h3>
                                         <hr class="orange">
                                         <p>Camerasystemen zijn in vele soorten te krijgen;</p>
@@ -73,16 +82,39 @@
                                                     <li>camerasystemen voor buiten;</li>
                                             <li>camera's onopvallend weggewerkt in gevels of buitenverlichting.</li>
                                         </ul>
-                                        <p>Een veilig gevoel met een camera bewakingssysteem van Polair Beveiliging.
-                                        Controleren wat er in en om uw bedrijf gebeurt. Zie en registreer het allemaal met een camera observatiesysteem. Een goed camerasysteem is onmisbaar bij de 
-                                        optimale beveiliging van uw bedrijf. Niet alleen kunt u verdachte bewegingen in de gaten houden. Ook kan het beeldmateriaal als aanvullend bewijs dienen, 
-                                        mocht zich onverhoopt tot een inbraak voordoen.
-                                        Elk van de door ons geleverde camerasysteem is aan te sluiten om een harddisk recorder, zodat alles wordt vastgelegd. Ook is het mogelijk om de beelden via 
+                                        <p>Een veilig gevoel met een camera bewakingssysteem van Polair Beveiliging. Polair Beveiliging bewijst dat het een leider is op het gebied
+                                            van innovatieve oplossingen. Dit wordt mede bewezen door het type camera's dat door ons wordt geplaatst.<br/> Wij gebruiken kwalitatieve camera's
+                                            waarbij er in donkere omstandigheden ook een duidelijk beeld is met een uitstekende prijs/kwaliteit verhouding. Op deze manier kunt u exact controleren
+                                            wat er in en rond uw woning of bedrijf gebeurt.
+                                            Conventionele camera's geven vaak onvoldoenden beeldkwaliteit in donker en schemering. De camera's die Polair Beveiliging gebruikt en installeert doen dat wel.
+                                            De voordelen van deze camera's kunnen worden toegepast in diverse soorten oplossingen, van parken tot industri&euml;le omgevingen, verkeerskruispunten en zelfs voor gebruik binnen. 
+                                            Deze camera's zijn ook te gebruiken in uw bestaane CCTV systemen of om uw oude camera's te vervangen.
+                                            <br/><br/>
+                                            Elk van de door ons geleverde camerasysteem is aan te sluiten om een harddisk recorder, zodat alles wordt vastgelegd. Ook is het mogelijk om de beelden via 
                                         internet te bekijken op uw computer, tablet en smartphone zodat u op elk gewenst moment van de dag kunt kijken wat er in en rondom uw bedrijfspand gebeurt. 
                                         Wij adviseren u graag over de beste oplossing voor u en zorgen voor een perfecte installatie.
                                         </p>
                                         <p>Polair is een <a href="#">gecertificeerd Lumiron IRCM installateur</a>, de revolutionaire nachtzicht camera.</p>
                                         <p>Ook leveren wij het <a href="">SmartView</a> camerasysteem videoverificatie en <a href="Live-view.php">LiveView</a></p>
+                                    </div>
+                                    <div class="col-sm-6">
+                                    <div class="space"></div>
+                                    <div class="framed caption">
+                                        <img src="images/producten/camera-in-donker.png" alt="Camera in het donker" class=""/>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                    <!-- end part 2-->
+            <div class="row">
+                <div class="col-sm-12 col-md-12">
+                    <!-- part 3 -->
+                    <div class="mid-column">
+                        <div class="mid-column-content">
+                            <div class="row">
+                                <div class="col-sm-12">
                                         <h2> <a name="zakelijkecameras">Zakelijk camerasystemen</a></h2>
                                         <div class="space"></div>
                                         <h3> Waarom camera's</h3>
@@ -106,7 +138,7 @@
                                         <h3>De daders</h3>
                                         <hr class="orange">
                                         <div class="alignright framed caption"> 
-                                        <img src="images/producten/camera-beveiliging-met-standaard.png" alt="Camera beveiliging" title="camera beveiliging" class=""/>
+                                        <img src="images/producten/camera-toezicht.png" alt="Camera beveiliging" title="camera beveiliging" class=""/>
                                         <p class="caption-tekst">Indentificeren en herkennen met de juiste camera.</p>
                                     </div>
                                      <p>Vastgelegde beelden zijn van groot belang om personen te kunnen identificeren of te herkennen. Ze kunnen ook in belangrijke mate een bijdrage leveren aan de opsporing van personen en bewijsvoering. 
@@ -116,7 +148,7 @@
                                     </p>
                                     <div class="space"></div>
                                     <h3>Personeel</h3>
-                                    hr class="orange">
+                                    <hr class="orange">
                                     <p>Voor het personeel maar ook voor de ondernemer levert de aanwezigheid van een camerasysteem een positieve bijdrage aan het veiligheidsgevoel. Wat er ook gebeurt de registratie vindt mensonafhankelijk plaats.
                                         Er is een grote kans dat de dader op basis van de beelden kan worden gearresteerd. Van de verhoogde pakkans gaat ook een sterke preventieve werking uit. Voor de slachtoffers van een overval 
                                         leveren snelle arrestaties een positieve bijdrage aan de verwerking van deze overval. De angst dat de dader terugkomt verdwijnt. Daarnaast wordt natuurlijk ook het rechtvaardigheidsgevoel bevredigd.
@@ -130,32 +162,48 @@
                                         effect van camera’s op reeksen overvallen moet worden meegewogen. Hoe eerder een overvaller door een camerasysteem wordt geregistreerd hoe eerder de kans op aanhouding. 
                                         Met het cameramateriaal kunnen enerzijds ‘oude’ overvallen worden opgelost en anderzijds veel nieuwe overvallen worden voorkomen.
                                     </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                    <!-- end part-3 -->
+            <div class="row">
+                <div class="col-sm-12 col-md-12">
+                    <!-- start part-4 -->
+                    <div class="mid-column">
+                        <div class="mid-column-content">
+                            <div class="row">
+                                <div class="col-sm-6">
                                     <h2> <a name="particulierecameras">Particuliere camerasystemen</a></h2>
                                     <div class="space"></div>
                                     <h3>Camera's voor in en om de woning</h3>
                                     <hr class="orange">
                                     <p>Mis niets meer met onze camera bewakingssystemen.
-                                        Controleren wie er voor de deur staat of zich op uw terrein bevind. Zie en registreer het allemaal met een beveiligingscamera systeem.
+                                    Controleren wie er voor de deur staat of zich op uw terrein bevind. Zie en registreer het allemaal met een beveiligingscamera systeem.
                                     Een video- observatiesysteem geeft u niet alleen de mogelijkheid om calamiteiten te voorkomen of de daders te registreren, maar werkt uiteraard ook preventief.</p>
-                                <div class="space"></div>
-                                <h3>Camera bewaking</h3>
-                                <hr class="orange">
-                                <div class="alignleft framed caption"> 
-                                    <img src="images/producten/camera-beveiliging.jpg" alt="Camera beveiliging" title="camera beveiliging" class=""/>
-                                    <p class="caption-tekst">Controleren wat er in en om uw woning gebeurt.</p>
+                                    <h3>Camera bewaking</h3>
+                                    <hr class="orange">
+
+                                    <p>Controleren wat er in en om uw woning gebeurt. Zie en registreer het allemaal met een camera observatiesysteem. Niet alleen kunt u verdachte bewegingen in de gaten houden. Ook kan het beeldmateriaal als aanvullend bewijs dienen, mocht zich onverhoopt tot een inbraak voordoen.
+                                    <br/><br/>
+                                    Elk van de door ons geleverde camerasysteem is aan te sluiten om een harddisk recorder, zodat alles wordt vastgelegd. Ook is het mogelijk om de beelden via internet te bekijken op uw computer, tablet en smartphone zodat u op elk gewenst moment van de dag kunt kijken wat er in en rondom uw woning gebeurt.
+                                    <br/><br/>
+                                    Wij adviseren u graag over de beste oplossing voor u en zorgen voor een perfecte installatie.
+                                    Een veilig gevoel met een camera bewakingssysteem van Polair Beveiliging
+                                    </p>
                                 </div>
-                                <p>Controleren wat er in en om uw woning gebeurt. Zie en registreer het allemaal met een camera observatiesysteem. Niet alleen kunt u verdachte bewegingen in de gaten houden. Ook kan het beeldmateriaal als aanvullend bewijs dienen, mocht zich onverhoopt tot een inbraak voordoen.
-                                <br/><br/>
-                                Elk van de door ons geleverde camerasysteem is aan te sluiten om een harddisk recorder, zodat alles wordt vastgelegd. Ook is het mogelijk om de beelden via internet te bekijken op uw computer, tablet en smartphone zodat u op elk gewenst moment van de dag kunt kijken wat er in en rondom uw woning gebeurt.
-                                 <br/><br/>
-                                Wij adviseren u graag over de beste oplossing voor u en zorgen voor een perfecte installatie.
-                                Een veilig gevoel met een camera bewakingssysteem van Polair Beveiliging
-                                </p>
+                                <div class="col-sm-6">
+                                    <div class="space"></div>
+                                    <img src="images/producten/camera-beelden.png" alt="duidelijke camera beelden" />
+                                </div>
                             </div>
                         </div><!--end mid colums -->
-                    </div>
+                    </div><!--end part 4-->
                 </div>
             </div>
+        </div>
         </article>
 
         
