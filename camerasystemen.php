@@ -37,8 +37,8 @@
                                                         Een goed camerasysteem is onmisbaar bij de optimale beveiliging van uw bedrijf. Niet alleen kunt u verdachte bewegingen in de gaten houden. 
                                                         Ook kan het beeldmateriaal als aanvullend bewijs dienen, mocht zich onverhoopt tot een inbraak voordoen.
                                                 </p> 
-                                                <div class=" alignleft framed caption"> 
-                                                    <img src="images/producten/camera-beveiliging.png" alt="Camera beveiliging" title="camera beveiliging" class=""/>
+                                                <div class="framed caption"> 
+                                                    <img src="images/producten/camera-systeem-modern.png" alt="Camera beveiliging" title="camera beveiliging" class=""/>
                                                     <p class="caption-tekst">Alles wordt vastgelegd op de camera!</p>
                                                 </div> 
                                                     <p>
@@ -74,13 +74,14 @@
                                         <h3>Camerabewaking</h3>
                                         <hr class="orange">
                                         <p>Camerasystemen zijn in vele soorten te krijgen;</p>
-                                    
                                         <ul>
-                                            <li>zwart/wit camera's;</li>
-                                            <li>kleuren camera's;</li>
-                                            <li>infrarood camera's;</li>
-                                                    <li>camerasystemen voor buiten;</li>
-                                            <li>camera's onopvallend weggewerkt in gevels of buitenverlichting.</li>
+                                            <li>Dome camera's;</li>
+                                            <li>Bullet camera's;</li>
+                                            <li>PTZ camera's;</li>
+                                            <li>Varifocal camera's;</li>
+                                            <li>Thermische camera's.</li>
+                                            <li>180 graden camera's</li>
+                                            <li>Fish eye camera's</li>
                                         </ul>
                                         <p>Een veilig gevoel met een camera bewakingssysteem van Polair Beveiliging. Polair Beveiliging bewijst dat het een leider is op het gebied
                                             van innovatieve oplossingen. Dit wordt mede bewezen door het type camera's dat door ons wordt geplaatst.<br/> Wij gebruiken kwalitatieve camera's
@@ -98,9 +99,10 @@
                                         <p>Ook leveren wij het <a href="">SmartView</a> camerasysteem videoverificatie en <a href="Live-view.php">LiveView</a></p>
                                     </div>
                                     <div class="col-sm-6">
-                                    <div class="space"></div>
-                                    <div class="framed caption">
-                                        <img src="images/producten/camera-in-donker.png" alt="Camera in het donker" class=""/>
+                                        <div class="space"></div>
+                                        <div class="framed caption">
+                                            <img src="images/producten/camera-in-donker.png" alt="Camera in het donker" class=""/>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -119,6 +121,10 @@
                                         <div class="space"></div>
                                         <h3> Waarom camera's</h3>
                                         <hr class="orange">
+                                        <div class="alignleft framed caption"> 
+                                            <img src="images/producten/camera-beveiliging.png" alt="Camera beveiliging" title="camera beveiliging" class=""/>
+                                            <p class="caption-tekst">Polair Beveiliging gebruikt de modernste camera's</p>
+                                        </div>
                                         <p>
                                             De overvalcriminaliteit heeft zich de laatste 10 jaar verbreed. Zo zijn de laatste jaren naast banken steeds meer winkels en bedrijven slachtoffer van overvalcriminaliteit. 
                                             De overvallen worden uitgevoerd met geweld. In zo’n 30% van de gevallen is er sprake van ernstig fysiek geweld. In alle gevallen blijven de slachtoffers met psychisch letsel achter. 

@@ -30,6 +30,10 @@
                             <p class="breadcrumb"><span>Nieuws op het gebied van beveiliging</span></p>
                                 <h2> Nieuws op het gebied van beveiliging</h2>
                                 <p><strong>Polair beveiliging</strong> houdt u graag op de hoogte van het laatste nieuws omtrend beveiliging.</p>
+                                <h3>Gewijzigde beoordelingsrichtlijn voor videobewakingssystemen</h3>
+                                <img src="images/beveiliging/camera-systeem-modern.png" title="Gewijzigde beoordelingsrichtlijn voor videobewakingssystemen"/>
+                                <p>Kiwa maakt bekend dat nu versie 3 van de Beoordelingsrichtlijn K21039 Videobewakingssystemen van kracht is. In deze nieuwe versie van het schema zijn diverse wijzigingen 
+                                    doorgevoerd die verband houden met wijzigingen in de regelgeving voor cameratoezicht.<a href="nieuws/beoordelingsrichtlijn-videobewaking.php">Lees meer</a></p>
                                 <h3>Veilige beeldtransmissie via (draadloos) internet</h3>
                                 <img src="images/beveiliging/csl-draadloos-veilige-beeldtransmissie.jpg" title="veilige beeldtransmissie via draadloos internet">
                                 <p>De meeste beelden van bewakingscamera’s worden tegenwoordig via internet overgedragen naar opnamesystemen of toezichtcentrales. 

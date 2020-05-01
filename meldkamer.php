@@ -78,15 +78,29 @@
                              <img src="images/meldkamer/meldkamer.png" width="100%" alt="meldkamer 24 uur bereikbaar" title="meldkamer 24 uur bereikbaar"/>
                         </div>
                     </div>
-                        <div class="col-md-6">
-                            <h2 class="nospace">Meest voorkomende alarmmeldingen.</h2>
-                            <h4>Loze meldingen, door het maken van een foutje bij het binnenkomen of verlaten van de woning.</h4>
-                            <h4>Technische storingen, veroorzaakt door bijvoorbeeld stroomuitval.</h4>
-                            <h4>Geen doormelding, wanneer de meldkamer geen verbinding heeft met het alarmsysteem.</h4>
-                            <h4>Sabotagemeldingen, als er iemand aan een melder zit, het paneel geraakt wordt of trillingen detecteert.</h4>
-                            <h4>Bloktijdmelding; wanneer er buiten de opgegeven tijden het alarm in- of uitgeschakeld wordt.</h4>
+                    <div class="col-md-6">
+                        <h2 class="nospace">Meest voorkomende alarmmeldingen.</h2>
+                        <h4>Loze meldingen, door het maken van een foutje bij het binnenkomen of verlaten van de woning.</h4>
+                        <h4>Technische storingen, veroorzaakt door bijvoorbeeld stroomuitval.</h4>
+                        <h4>Geen doormelding, wanneer de meldkamer geen verbinding heeft met het alarmsysteem.</h4>
+                        <h4>Sabotagemeldingen, als er iemand aan een melder zit, het paneel geraakt wordt of trillingen detecteert.</h4>
+                        <h4>Bloktijdmelding; wanneer er buiten de opgegeven tijden het alarm in- of uitgeschakeld wordt.</h4>
                             
                         
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6 col-sm-12">
+                        <h2>Binnenkort beschikbaar: Bold NotifyME app</h2>
+                        <h3>Een mobiele oplossing om valse alarmen te verminderen</h3>
+                        <p>De meldkamer waarbij Polair Beveiliging is aangesloten beschikt over software welke compatibel is met de Bold NotifyMe App. Gebruikers van deze telefoonapplicatie ontvangen via 
+                            push-notificaties alarmen op hun mobiele telefoon en hebben 90 seconden de tijd om een alarm te bevestigen of te 
+                            annuleren. Indien na 90 seconden geen actie is genomen door de gebruiker(s) van de applicatie, dan komt het alarm 
+                            alsnog bij een centralist terecht.</p>
+                    </div>
+                   <div class="col-md-6">
+                        <div class="">
+                             <img src="images/meldkamer/meldkamer-app2.png" width="100%" alt="meldkamer 24 uur bereikbaar" title="meldkamer app Bold NotiFYME"/>
                         </div>
                     </div>
                 </div>

@@ -129,7 +129,7 @@
                         <!-- include items-cards -->
                         <div class="row">
                             <div class="col-sm-6 col-md-4 mt-4">
-                                <div class="card ">
+                                <div class="card">
                                     <img src="images/beveiliging/alarmbeveiligingbedrijven.jpg" class="card-img-top" alt="Polair beveiliging ook voor bedrijven">
                                     <div class="card-body ">
                                         <h5 class="card-title ">Bedrijven</h5>
@@ -139,7 +139,7 @@
                                 </div>
                             </div>
                             <div class="col-sm-6 col-md-4 mt-4">
-                                <div class="card ">
+                                <div class="card">
                                     <img src="images/beveiliging/alarmbeveiligingparticulier.jpg" class="card-img-top" alt="Polair beveiliging ook thuis in de particuliere markt">
                                     <div class="card-body">
                                         <h5 class="card-title">Particulier </h5>
@@ -156,6 +156,30 @@
                                         <h5 class="card-title">Projecten</h5>
                                         <p class="card-text">Polair Beveiliging verzorgt verschillende projecten van groot tot klein. Gebruikmakend van de beste techniek op het gebied van beveiliging</p>
                                         <a href="projecten.php " class="btn btn-orange" title="Polair beveiligt ook diverse grote projecten">Bekijk de projecten</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-sm-12 col-md-6 mt-4">
+                               
+                                <div class="card">
+                                    <img src="images/nieuws/beveiligingsnieuws.png " class="card-img-top" alt="Polair beveiliging heeft diverse projecten beveiligt">
+                                    <div class="card-body">
+                                        <h5 class="card-title">Nieuws</h5>
+                                        <p class="card-text">Lees hier de nieuwste ontwikkelingen op het gebied van beveiliging</p>
+                                        <a href="nieuws-over-beveiliging.php" class="btn btn-orange" title="PBeveiligingsieuws">Beveiligingsnieuws</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-12 col-md-6 mt-4">
+                               
+                                <div class="card">
+                                    <img src="images/nieuws/camera-systeem-modern.png" class="card-img-top" alt="Beveilig uw pand tijdens corona">
+                                    <div class="card-body">
+                                        <h5 class="card-title">Coronacrisis: geef criminelen geen kans!</h5>
+                                        <p class="card-text">Criminelen zijn creatief tijdens de coronacrisis en verleggen hun werkterrein. Vanwege thuiswerken staan meer bedrijfspanden leeg. Let daarom goed op uw beveliging.<br></p>
+                                        <a href="nieuws/criminelen-coronacrisis.php" class="btn btn-orange" title="beveiliging tijdens corona">Lees meer</a>
                                     </div>
                                 </div>
                             </div>

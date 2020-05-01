@@ -805,3 +805,7 @@ blockquote {
     background:#CED8EB;
     padding:10px;
 }
+
+.hidecard{
+    display: none;
+}
