@@ -206,6 +206,12 @@ h3.right-block {
      background:url(../../images/banner/honeywell-banner.jpg) no-repeat center center;
      background-color: #384978;
  }
+
+ .header-banner-salto {
+    height: 200px;
+     background:url(../../images/banner/salto-banner.jpg) no-repeat center center;
+     background-color: #384978;
+ }
  
  .bg-banner{
      background-color: linear-gradient(90deg, rgba(56, 73, 120, 1) 0%, rgba(255, 160, 92, 1) 50%, rgba(56, 73, 120, 1) 100%);

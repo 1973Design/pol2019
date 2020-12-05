@@ -24,12 +24,17 @@
             <?php include '_banner-quote.php';?>
             <div class="container content-page">
                 <div class="row">
-                    <div class="col-sm-12 col-md-8">
+                    <div class="col-sm-12 col-md-10">
                         <div class="left-column">
                             <div class="left-column-content">
                             <p class="breadcrumb"><span>Nieuws op het gebied van beveiliging</span></p>
                                 <h2> Nieuws op het gebied van beveiliging</h2>
                                 <p><strong>Polair beveiliging</strong> houdt u graag op de hoogte van het laatste nieuws omtrend beveiliging.</p>
+                                <h3>Brandmelders verplicht bij nieuwe- en bestaande woningen per 01-07-22</h3>
+                                <img src="images/nieuws/brandmelders-verplicht.jpg" alt="rookmelders verplicht bij bestaande woningen per 01-07-22">
+                                <p>In alle huizen moet op elke verdieping een rookmelder komen te hangen. Sinds 2003 geldt die verplichting al voor
+                                    nieuwbouwhuizen, maar minister Knops wil dat uitbreiden: ook alle etages van bestaande huizen moeten een rookmelder krijgen. <strong>De wet</strong>
+                                zal van kracht gaan per <strong>01-07-22</strong>.</p>
                                 <h3>Gewijzigde beoordelingsrichtlijn voor videobewakingssystemen</h3>
                                 <img src="images/beveiliging/camera-systeem-modern.png" title="Gewijzigde beoordelingsrichtlijn voor videobewakingssystemen"/>
                                 <p>Kiwa maakt bekend dat nu versie 3 van de Beoordelingsrichtlijn K21039 Videobewakingssystemen van kracht is. In deze nieuwe versie van het schema zijn diverse wijzigingen 

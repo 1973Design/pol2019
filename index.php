@@ -85,11 +85,11 @@
                     <div class="row">
                         <div class="col-md-8 mb-4 mt-4 col-xs-12 ml-xs-1">
                             <div class="alert-message">
-                                <h3>Maatregelen m.b.t. het corona virus - update 15 maart</h3>
-                                Polair Beveiliging volgt de adviezen van het RIVM. Voor nu houdt dat het volgende in:
+                                <h3>Maatregelen m.b.t. het corona virus </h3>
+                                Polair Beveiliging is zich zeer bewust van de gevolgen van het corona virus en volgt dan ook de adviezen van het RIVM. <br/>Dit houdt in dat:
                                 <ul>
                                     <li>
-                                        Geen handen schudden
+                                        Wij geen handen schudden
                                     </li>
                                     <li>
                                         Bij gezondheidsklachten blijven onze werknemers thuis
@@ -99,8 +99,8 @@
                                     </li>
                                 </ul>
                                     
-                                    Wij blijven dus gewoon werken. Geplande werkzaamheden zullen dus ook gewoon doorgaan vinden, met inachtneming van eerder genoemde adviezen van het RIVM.<br/>
-                                    Indien u zelf gezondheidsklachten heeft, neem dan contact met ons op. Heeft u geen klachten, maar voelt u zich toch prettiger reeds geplande afspraken te verzetten neem
+                                    Wij zullen dan ook onze werkzaamheden voortzetten, met inachtneming van eerder genoemde adviezen van het RIVM.<br/>
+                                    Indien u zelf gezondheidsklachten heeft, neem dan contact met ons op. Heeft u geen klachten maar voelt u zich toch prettiger reeds geplande afspraken te verzetten, neem
                                     dan <a href="contact.php" title="contact opnemen">contact</a> met ons op.
                             </div>
                             <h1>Polair Beveiliging</h1>
@@ -164,11 +164,15 @@
                             <div class="col-sm-12 col-md-6 mt-4">
                                
                                 <div class="card">
-                                    <img src="images/nieuws/beveiligingsnieuws.png " class="card-img-top" alt="Polair beveiliging heeft diverse projecten beveiligt">
+                                    <img src="images/producten/salto-toegangscontrole.jpg" class="card-img-top" alt="Salto toegangscontrole">
                                     <div class="card-body">
-                                        <h5 class="card-title">Nieuws</h5>
-                                        <p class="card-text">Lees hier de nieuwste ontwikkelingen op het gebied van beveiliging</p>
-                                        <a href="nieuws-over-beveiliging.php" class="btn btn-orange" title="PBeveiligingsieuws">Beveiligingsnieuws</a>
+                                        <h5 class="card-title">Polair ook leverancier van Salto toegangscontrole</h5>
+                                        <p class="card-text">Salto is een betrouwbaar en flexibel toegangscontrolesysteem met mogelijkheden voor elke organisatie. Ten opzichte van een 
+                                        traditionele, mechanische oplossing levert Salto KS betere prestaties en meer functionaliteit.<br/>
+                                        <a href="salto-toegangscontrole.php" class="btn btn-orange" title="Salto toegangscontrole">Lees meer over Salto </a>
+                                        </p>
+                                       
+                                        <p><a href="nieuws-over-beveiliging.php" title="Polair beveiligingsnieuws" >Klik hier voor meer beveiligingsnieuws</a></p>
                                     </div>
                                 </div>
                             </div>
@@ -178,8 +182,8 @@
                                     <img src="images/nieuws/camera-systeem-modern.png" class="card-img-top" alt="Beveilig uw pand tijdens corona">
                                     <div class="card-body">
                                         <h5 class="card-title">Coronacrisis: geef criminelen geen kans!</h5>
-                                        <p class="card-text">Criminelen zijn creatief tijdens de coronacrisis en verleggen hun werkterrein. Vanwege thuiswerken staan meer bedrijfspanden leeg. Let daarom goed op uw beveliging.<br></p>
-                                        <a href="nieuws/criminelen-coronacrisis.php" class="btn btn-orange" title="beveiliging tijdens corona">Lees meer</a>
+                                        <p class="card-text">Criminelen zijn creatief tijdens de coronacrisis en verleggen hun werkterrein. Vanwege thuiswerken staan meer bedrijfspanden leeg. Let daarom goed op uw beveliging.<br/>
+                                        <a href="nieuws/criminelen-coronacrisis.php" class="btn btn-orange" title="beveiliging tijdens corona">Lees meer</a></p>
                                     </div>
                                 </div>
                             </div>
